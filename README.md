@@ -2,7 +2,7 @@
 
 ## Affective Computing (AC)
 
- - Basic Theory
+ - [Basic Theory](./AC/AC_theory.md)
  - AC with Text
  - AC with Image
  - AC with Physiological Signals
@@ -31,5 +31,5 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbMzczNjgzNzQyLDQyMDI3MjAwNF19
 -->
