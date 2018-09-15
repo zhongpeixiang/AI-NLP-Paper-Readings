@@ -13,8 +13,7 @@
  - [Image Classification](./AC/AC_theory.md)
  - [Instance Segmentation](./AC/AC_Text.md)
  - [Visual Question Answering](./AC/AC_Image.md)
- - [AC with Physiological Signals](./AC/AC_Physiological.md)
- - [AC with Multi-modal Data](./AC/AC_Multimodal.md)
+ - [Image Captioning](./AC/AC_Physiological.md)
 
 ## Knowledge Representation (KR)
 
@@ -35,6 +34,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzI5Nzc5MSwxMTEyNDIwMTc5LDQyMD
+eyJoaXN0b3J5IjpbMTc4NzYzODA0NSwxMTEyNDIwMTc5LDQyMD
 I3MjAwNF19
 -->
