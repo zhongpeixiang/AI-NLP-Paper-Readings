@@ -19,10 +19,7 @@
 ## Knowledge Representation (KR)
 
  - [Knowledge Graph](./CV/CV_classification.md)
- - [Instance Segmentation](./CV/CV_segmentation.md)
- - [Visual Question Answering](./CV/CV_visual_QA.md)
- - [Image Captioning](./CV/CV_captioning.md)
- - [Image Generation](./CV/CV_generation.md)
+ - [Reasoning](./CV/CV_segmentation.md)
 
 ## Machine Learning (ML)
 
@@ -39,6 +36,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTIxODE5NCwtMTIyMTk1NjI4Nyw0Nz
-gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTExMzI4NTc1NzgsLTEyMjE5NTYyODcsND
+c4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
 -->
