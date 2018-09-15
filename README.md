@@ -10,7 +10,11 @@
 
 ## Computer Vision (CV)
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+ - [Image Classification](./AC/AC_theory.md)
+ - [AC with Text](./AC/AC_Text.md)
+ - [AC with Image](./AC/AC_Image.md)
+ - [AC with Physiological Signals](./AC/AC_Physiological.md)
+ - [AC with Multi-modal Data](./AC/AC_Multimodal.md)
 
 ## Knowledge Representation (KR)
 
@@ -31,5 +35,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTExMzczMTc5NCwxMTEyNDIwMTc5LDQyMD
+I3MjAwNF19
 -->
