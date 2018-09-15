@@ -10,10 +10,10 @@
 
 ## Computer Vision (CV)
 
- - [Image Classification](./AC/AC_theory.md)
- - [Instance Segmentation](./AC/AC_Text.md)
- - [Visual Question Answering](./AC/AC_Image.md)
- - [Image Captioning](./AC/AC_Physiological.md)
+ - [Image Classification](./CV/CV_classification.md)
+ - [Instance Segmentation](./CV/CV_segmentation.md)
+ - [Visual Question Answering](./CV/CV_visual_QA.md)
+ - [Image Captioning](./CV/CV_captioning.md)
 
 ## Knowledge Representation (KR)
 
@@ -34,6 +34,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzYzODA0NSwxMTEyNDIwMTc5LDQyMD
-I3MjAwNF19
+eyJoaXN0b3J5IjpbNDc4MTYxOTA2LDExMTI0MjAxNzksNDIwMj
+cyMDA0XX0=
 -->
