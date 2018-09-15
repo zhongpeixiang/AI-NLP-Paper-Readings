@@ -20,6 +20,7 @@
 
  - [Knowledge Graph](./CV/CV_classification.md)
  - [Reasoning](./CV/CV_segmentation.md)
+ - [Dimensio]
 
 ## Machine Learning (ML)
 
@@ -36,6 +37,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI4NTc1NzgsLTEyMjE5NTYyODcsND
-c4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbMTg4Nzk5NjM1NSwtMTIyMTk1NjI4Nyw0Nz
+gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
