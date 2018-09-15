@@ -5,7 +5,13 @@
 
 <h1 id="my-reading-list-for-papers-in-ai-nlp-and-more.">My Reading List for Papers in AI, NLP and More.</h1>
 <h2 id="affective-computing-ac">Affective Computing (AC)</h2>
-<p>You can rename the current file by clicking the file name in the navigation bar or by clicking the <strong>Rename</strong> button in the file explorer.</p>
+<ul>
+<li>Basic Theory</li>
+<li>AC with Text</li>
+<li>AC with Image</li>
+<li>AC with Physiological Signals</li>
+<li>AC with Multi-modal Data</li>
+</ul>
 <h2 id="computer-vision-cv">Computer Vision (CV)</h2>
 <p>StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible <strong>offline!</strong></p>
 <h2 id="knowledge-representation-kr">Knowledge Representation (KR)</h2>
