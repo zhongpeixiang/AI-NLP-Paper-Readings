@@ -23,7 +23,7 @@
 
 ## Machine Learning (ML)
 
- - [Image Classification](./CV/CV_classification.md)
+ - [Neural Network](./CV/CV_classification.md)
  - [Instance Segmentation](./CV/CV_segmentation.md)
  - [Visual Question Answering](./CV/CV_visual_QA.md)
  - [Image Captioning](./CV/CV_captioning.md)
@@ -40,6 +40,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MTQyNTI3LC0xMjIxOTU2Mjg3LDQ3OD
-E2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbMjA1NDE5ODMzMywtMTIyMTk1NjI4Nyw0Nz
+gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
