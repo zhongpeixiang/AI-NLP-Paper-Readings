@@ -23,11 +23,9 @@
 
 ## Machine Learning (ML)
 
- - [Neural Network](./CV/CV_classification.md)
- - [Instance Segmentation](./CV/CV_segmentation.md)
- - [Visual Question Answering](./CV/CV_visual_QA.md)
- - [Image Captioning](./CV/CV_captioning.md)
- - [Image Generation](./CV/CV_generation.md)
+ - [Optimization](./CV/CV_classification.md)
+ - [Transfer Learning](./CV/CV_segmentation.md)
+ - [Reinforcement Learning](./CV/CV_visual_QA.md)
 
 ## Natural Language Processing (NLP)
 
@@ -40,6 +38,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDE5ODMzMywtMTIyMTk1NjI4Nyw0Nz
+eyJoaXN0b3J5IjpbMTMyMTQ5MTU0NiwtMTIyMTk1NjI4Nyw0Nz
 gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
