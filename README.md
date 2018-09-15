@@ -29,7 +29,11 @@
 
 ## Natural Language Processing (NLP)
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+ - [Image Classification](./CV/CV_classification.md)
+ - [Instance Segmentation](./CV/CV_segmentation.md)
+ - [Visual Question Answering](./CV/CV_visual_QA.md)
+ - [Image Captioning](./CV/CV_captioning.md)
+ - [Image Generation](./CV/CV_generation.md)
 
 
 
@@ -38,6 +42,7 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3OD
-E2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMj
+IxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAw
+NF19
 -->
