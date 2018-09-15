@@ -29,11 +29,11 @@
 
 ## Natural Language Processing (NLP)
 
- - [Image Classification](./CV/CV_classification.md)
- - [Instance Segmentation](./CV/CV_segmentation.md)
- - [Visual Question Answering](./CV/CV_visual_QA.md)
- - [Image Captioning](./CV/CV_captioning.md)
- - [Image Generation](./CV/CV_generation.md)
+ - [Language Modelling](./CV/CV_classification.md)
+ - [Machine Translation](./CV/CV_segmentation.md)
+ - [Dialogue System](./CV/CV_visual_QA.md)
+ - [Word, Sentence, Document Embedding](./CV/CV_captioning.md)
+ - [Sentiment Analysis](./CV/CV_generation.md)
 
 
 
@@ -42,7 +42,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMj
-IxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAw
-NF19
+eyJoaXN0b3J5IjpbNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2Nz
+A2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTExMjQyMDE3
+OSw0MjAyNzIwMDRdfQ==
 -->
