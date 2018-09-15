@@ -25,7 +25,7 @@
 
  - [Optimization](./ML/ML_optimization.md)
  - [Transfer Learning](./ML/ML_transfer.md)
- - [Reinforcement Learning](./ML/ML_optimization.md)
+ - [Reinforcement Learning](./ML/ML_reinforcement.md)
 
 ## Natural Language Processing (NLP)
 
@@ -38,6 +38,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyODMyODQsLTEyMjE5NTYyODcsND
-c4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbMTQ3MDk4NjEwNiwtMTIyMTk1NjI4Nyw0Nz
+gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
