@@ -11,8 +11,8 @@
 ## Computer Vision (CV)
 
  - [Image Classification](./AC/AC_theory.md)
- - [AC with Text](./AC/AC_Text.md)
- - [AC with Image](./AC/AC_Image.md)
+ - [Instance Segmentation](./AC/AC_Text.md)
+ - [Visual Question Answering](./AC/AC_Image.md)
  - [AC with Physiological Signals](./AC/AC_Physiological.md)
  - [AC with Multi-modal Data](./AC/AC_Multimodal.md)
 
@@ -35,6 +35,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzczMTc5NCwxMTEyNDIwMTc5LDQyMD
+eyJoaXN0b3J5IjpbLTI4NzI5Nzc5MSwxMTEyNDIwMTc5LDQyMD
 I3MjAwNF19
 -->
