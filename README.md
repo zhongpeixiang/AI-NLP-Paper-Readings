@@ -18,7 +18,11 @@
 
 ## Knowledge Representation (KR)
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+ - [Knowledge Graph](./CV/CV_classification.md)
+ - [Instance Segmentation](./CV/CV_segmentation.md)
+ - [Visual Question Answering](./CV/CV_visual_QA.md)
+ - [Image Captioning](./CV/CV_captioning.md)
+ - [Image Generation](./CV/CV_generation.md)
 
 ## Machine Learning (ML)
 
@@ -35,6 +39,6 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMT
-I0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbMTAzMTIxODE5NCwtMTIyMTk1NjI4Nyw0Nz
+gxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
