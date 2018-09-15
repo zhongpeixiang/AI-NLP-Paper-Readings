@@ -3,10 +3,10 @@
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
- - AC with Text
- - AC with Image
- - AC with Physiological Signals
- - AC with Multi-modal Data
+ - [AC with Text](./AC/AC_Text.md)
+ - [AC with Image](./AC/AC_Image.md)
+ - [AC with Physiological Signals](./AC/AC_Physiological.md)
+ - [AC with Multi-modal Data](./AC/AC_Multimodal.md)
 
 ## Computer Vision (CV)
 
@@ -31,5 +31,5 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNjgzNzQyLDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
