@@ -8,6 +8,9 @@
  - [AC with Physiological Signals](./AC/AC_physiological.md)
  - [AC with Multi-modal Data](./AC/AC_multimodal.md)
 
+
+[//]: # (
+
 ## Computer Vision (CV)
 
  - [Image Classification](./CV/CV_classification.md)
@@ -15,6 +18,7 @@
  - [Visual Question Answering](./CV/CV_visual_QA.md)
  - [Image Captioning](./CV/CV_captioning.md)
  - [Image Generation](./CV/CV_generation.md)
+)
 
 ## Knowledge Representation (KR)
 
@@ -43,7 +47,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExND
-UwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkw
-NiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbMTA0ODc3MDY3NiwxOTI3NDIyNjgyLDUyMj
+A1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NTYy
+ODcsNDc4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
 -->
