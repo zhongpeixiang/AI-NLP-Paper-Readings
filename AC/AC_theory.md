@@ -59,7 +59,9 @@ Definition: the design of systems that can recognize, interpret and simulate hum
 ### Resources
 - [Affective Computing](https://dl.acm.org/citation.cfm?id=265013)
 - [The Oxford Handbook of Affective Computing](https://dl.acm.org/citation.cfm?id=2787789)
+
+[Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MDYyMjY3LDE0NTgyNDY1NjEsODY2Nz
-M1Mjg3LDk2MzM1OTk5MCwxNzM4MzA4Mzk1XX0=
+eyJoaXN0b3J5IjpbLTgxODcwMjQ3OCwxNDU4MjQ2NTYxLDg2Nj
+czNTI4Nyw5NjMzNTk5OTAsMTczODMwODM5NV19
 -->
