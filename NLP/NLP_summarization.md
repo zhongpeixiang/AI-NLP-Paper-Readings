@@ -3,11 +3,10 @@
 |--|--|--|
 |[Get To The Point: Summarization with Pointer-Generator Networks](https://aclanthology.info/papers/P17-1099/p17-1099)|ACL 2017|A novel architecture that augments the standard sequence-to-sequence attentional model in two orthogonal ways. 1. A hybrid pointer-generator network that can copy words from the source text via pointing, which aids accurate reproduction of information, while retaining the ability to produce novel words through the generator. 2. Uses coverage to keep track of what has been summarized, which discourages repetition.|
 |[SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/pdf/1611.04230)|AAAI 2017| A Recurrent Neural Network (RNN) based sequence model for extractive summarization of documents with advantages of being very interpretable and being trainable on human generated reference summaries alone, eliminating the need for sentence-level extractive labels.|
-|[Text Summarization Techniques: A Brief Survey](https://arxiv.org/pdf/1707.02268)|Arxiv 2017|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
-|[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
+|[Text Summarization Techniques: A Brief Survey](https://arxiv.org/pdf/1707.02268)|Arxiv 2017|Reviews the different processes for summarization and describe the effectiveness and shortcomings of the different methods.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ5MDczODddfQ==
+eyJoaXN0b3J5IjpbLTE1NTAxOTQyOTNdfQ==
 -->
