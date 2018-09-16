@@ -19,6 +19,7 @@
 ## Machine Learning (ML)
 
  - [Optimization](./ML/ML_optimization.md)
+ - [Architecture](./ML/ML_architecture.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
@@ -42,7 +43,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1Mj
-IwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2
-Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMT
+kyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4
+MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LD
+QyMDI3MjAwNF19
 -->
