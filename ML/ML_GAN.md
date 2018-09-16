@@ -1,7 +1,7 @@
 # ML - Generative Adversatial Network (GAN)
 |Paper|Conference|Remarks
 |--|--|--|
-|[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)|NIPS 2014|1. RL challenges: derivation of efficient representations of the environment from high-dimensional sensory inputs, and use these to generalize past experience to new situations. 2.  This paper: use deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. 3. RL instability causes: the correlations present in the sequence of observations; the fact that small updates to Q may significantly change the policy and therefore change the data distribution; the correlations between Q and target values. 4. RL instability solutions: experience replay that randomize over data and therefore removing correlations in the observation sequence and smoothing over changes in the data distribution; only periodically adjust Q towards target values to reduce correlations with the target|
+|[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)|NIPS 2014|A new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G.|
 |[Mastering the game of Go with deep neural networks and tree search](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)|Nature 2016| 1. Challenges of Go: enormous search space, difficulty of evaluating board positions and moves. 2. Train SL policy network directly from human expert moves. 3. Train a fast policy that can rapidly sample actions during rollouts. 4. Train a RL policy network that improves SL policy network by optimizing final outcome. 5. Train a value network that predicts the winner of games played by the RL policy network against itself|
 |[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783)|ICML 2016| 1.  Asynchronous gradient descent for optimization of deep neural network controllers. 2. The asynchronous method can be applied to both value-based and policy-based models, off-policy as well as on-policy, and in discrete as well as continuous domains. 3. Overall Asynchronous Advantage Actor-Critic (A3C) model has best performance|
 |[Accelerating Multiagent Reinforcement Learning through Transfer Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14217/14005)|AAAI 2017| 1. RL algorithms suffer from scalability issues, especially in a MAS. 2. Objective: accelerate learning in multiagent sequential decision making tasks by reusing previous knowledge, both from past solutions and advising between agents|
@@ -16,5 +16,5 @@
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjE0MjEyN119
+eyJoaXN0b3J5IjpbLTEwMjk2Njc0NzFdfQ==
 -->
