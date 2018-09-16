@@ -1,4 +1,4 @@
-# My Reading List for Papers in AI, NLP and More.
+# My Reading List for Papers in AI, NLP, Deep Learning and More.
 
 ## Affective Computing (AC)
 
@@ -44,8 +44,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMT
-AxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAw
-ODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LD
-ExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbLTM5ODk2OTQ3NSwtODY5MTIzMjgxLC0xNz
+Q4NzMxODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4
+MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Ny
+w0NzgxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
