@@ -1,8 +1,8 @@
 # AC - Image Analysis
 |Paper|Conference|Remarks
 |--|--|--|
-|[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](http://www.academia.edu/download/37213197/sentimentreview-6.pdf)|IEEE TVCG 2013| 1. Sentiment analysis definition: to analyze people's sentiments, opinions, attitudes, emotions, etc., towards elements such as topics, products, individuals, organizations, and services. 2. Goal of this work: to review and compare 15 free access web services for sentiment analysis, analyzing their capabilities to classify and score different pieces of text with respect to the sentiments contained therein.|
+|[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](https://ieeexplore.ieee.org/document/6654137/)|IEEE TVCG 2013|1. RGBD data from 150 individuals aged 7-80 from various ethnic backgrounds. 2. Neutral and 19 other expressions are captured for each person. 3. For every RGBD raw data record, a set of facial features points are located. 4. Match feature points on color images to depth image mesh. 5. Construct a set of individual-specific expression blendshapes for each person. 6. A bilinear face model with attributes: identity and expression. 7. Advantages over other databases: much richer matching collection of expressions. 8. Applications: facial image manipulation; face component transfer; real-time performance-based facial image animation; facial animation retargeting from video to image|
 |[Identifying Emotions for Social Support Analysis in Online Health Communities](http://aclweb.org/anthology/I17-2042)|IJCNLP 2017| 1. Emotion types recognition in online health communities yields useful information of users' emotional status. 2. High-level features created by CNN without manufacturing any manual or automatic features. 3. Improved accuracy over prior works on identifying emotional messages. 4. Comparison of patients' emotional status between holiday and normal day in USA.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MzAyMzUwLC03MDM3MjQ5MjddfQ==
+eyJoaXN0b3J5IjpbMTgzODk2ODc5NSwtNzAzNzI0OTI3XX0=
 -->
