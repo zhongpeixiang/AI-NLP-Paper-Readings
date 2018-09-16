@@ -15,7 +15,7 @@
  - [Dialogue System](./NLP/NLP_dialogue.md)
  - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
  - [Sentiment Analysis](./NLP/NLP_sentiment.md)
- - Lexicons
+ - [Lexicon](./NLP/NLP_lexicon.md)
 
 ## Machine Learning (ML)
 
@@ -44,8 +44,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg5NTI2MywtMTc0ODczMTgzNywtMT
-AxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAw
-ODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LD
-ExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbNTQxMjA3NTc5LC0xNzQ4NzMxODM3LC0xMD
+E2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4
+NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMT
+ExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
