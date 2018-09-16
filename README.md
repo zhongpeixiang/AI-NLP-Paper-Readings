@@ -26,7 +26,7 @@
  - [Optimization](./ML/ML_optimization.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
- - [Generative Adversarial Network](./ML/ML_re.md)
+ - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
 
 ## Natural Language Processing (NLP)
 
@@ -43,7 +43,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE2Mzc5MCw1MjIwNTgzMjAsLTExND
+eyJoaXN0b3J5IjpbMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExND
 UwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkw
 NiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
 -->
