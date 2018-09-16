@@ -12,7 +12,7 @@
 |[Knowledge Transfer for Deep Reinforcement Learning with Hierarchical Experience Replay](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/11-YinH-14478.pdf)|AAAI 2017| 1. A new policy distillation architecture for knowledge sharing in deep reinforcement learning in multi-task domains. 2. A hierarchical prioritized experience replay in memory replay of DQN|
 |[Transfer Reinforcement Learning with Shared Dynamics](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14315/14386)|AAAI 2017| 1. Focus on a particular Transfer RL problem: dynamics do not change from one task to another, and only the reward function does. 2. First idea: transition samples obtained from one task can be reused to learn on any other task: an immediate reward estimator is learnt in a supervised fashion. 3. Second idea: adopt optimism in the face of uncertainty to encourage exploration|
 |[FeUdal Network for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)|Arxiv 2017| 1. Propose a novel architecture for hierarchical reinforcement learning. 2. Employs a Manager module and a Worker module. 3. The Manager operates at a lower temporal resolution and sets abstract goals which are conveyed to and enacted by the Worker. 4. The Worker generates primitive actions at every tick of the environment. 5. This FuN facilitates very long timescale credit assignment and encourages the emergence of sub-policies associated with different goals set by the Manager|
-|[Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012)|ICLR 2017| A general framework that first learns useful skills in a pre-training environment, and then leverages the acquired skills for learning faster in downstream tasks.|
+|[Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012)|ICLR 2017| A general framework that first learns useful skills in a pre-training environment, and then leverages the acquired skills for learning faster in downstream tasks to tackle sparse rewards and long horizons.|
 
 ### Resources
 - [Stanford CS234 Reinforcement Learning Course](http://cs234.stanford.edu/)
@@ -21,6 +21,6 @@
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzIwNzY0MiwtMzU3OTM2ODg0LDEzMT
+eyJoaXN0b3J5IjpbLTI2MjUxMDU4NiwtMzU3OTM2ODg0LDEzMT
 U2MDYwNTJdfQ==
 -->
