@@ -2,7 +2,7 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)|NIPS 2014|A new framework for estimating generative models via an adversarial process, in which they simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G.|
-|[Improved Techniques for Training GANs](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)|NIPS 2016| 1. Challenges of Go: enormous search space, difficulty of evaluating board positions and moves. 2. Train SL policy network directly from human expert moves. 3. Train a fast policy that can rapidly sample actions during rollouts. 4. Train a RL policy network that improves SL policy network by optimizing final outcome. 5. Train a value network that predicts the winner of games played by the RL policy network against itself|
+|[Improved Techniques for Training GANs](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)|NIPS 2016| Presents a variety of new architectural features and training procedures that weapply to the generative adversarial networks (GANs) framework. |
 |[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783)|ICML 2016| 1.  Asynchronous gradient descent for optimization of deep neural network controllers. 2. The asynchronous method can be applied to both value-based and policy-based models, off-policy as well as on-policy, and in discrete as well as continuous domains. 3. Overall Asynchronous Advantage Actor-Critic (A3C) model has best performance|
 |[Accelerating Multiagent Reinforcement Learning through Transfer Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14217/14005)|AAAI 2017| 1. RL algorithms suffer from scalability issues, especially in a MAS. 2. Objective: accelerate learning in multiagent sequential decision making tasks by reusing previous knowledge, both from past solutions and advising between agents|
 |[An Advising Framework for Multiagent Reinforcement Learning Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14413)|AAAI 2017|1. Classical RL approaches for sequential decision making in MAS require a long time to learn. 2. Objective: propose an advising framework where multiple agents advise each other while learning in a shared environment, starting with no previous knowledge, and the advisor is not expected to necessarily act optimally.|
@@ -16,5 +16,5 @@
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDA0NjMxMF19
+eyJoaXN0b3J5IjpbLTkwNzQ5MTEzOF19
 -->
