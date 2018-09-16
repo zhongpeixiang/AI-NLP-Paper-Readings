@@ -14,9 +14,10 @@
 |[FeUdal Network for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)|Arxiv 2017| 1. Propose a novel architecture for hierarchical reinforcement learning. 2. Employs a Manager module and a Worker module. 3. The Manager operates at a lower temporal resolution and sets abstract goals which are conveyed to and enacted by the Worker. 4. The Worker generates primitive actions at every tick of the environment. 5. This FuN facilitates very long timescale credit assignment and encourages the emergence of sub-policies associated with different goals set by the Manager|
 
 ### Resources
-- Stanford 
+- [Stanford CS234 Reinforcement Learning Course](http://cs234.stanford.edu/)
+- 
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjczMzQ2OSwxMzE1NjA2MDUyXX0=
+eyJoaXN0b3J5IjpbMTk4OTEyNzMwMywxMzE1NjA2MDUyXX0=
 -->
