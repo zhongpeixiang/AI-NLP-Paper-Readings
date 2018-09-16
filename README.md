@@ -20,7 +20,7 @@
 ## Machine Learning (ML)
 
  - [Optimization](./ML/ML_optimization.md)
- - [Architecture (RNN, CNN, and More)](./ML/ML_architecture.md)
+ - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
@@ -44,8 +44,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNjEyOTQ5LC04NjkxMjMyODEsLTE3ND
-g3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgz
-MjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LD
-Q3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNz
+Q4NzMxODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4
+MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Ny
+w0NzgxNjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
