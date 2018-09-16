@@ -16,8 +16,9 @@
 ### Resources
 - [Stanford CS234 Reinforcement Learning Course](http://cs234.stanford.edu/)
 - [David Silver UCL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzgzNDU5MCwxMzE1NjA2MDUyXX0=
+eyJoaXN0b3J5IjpbLTM1NzkzNjg4NCwxMzE1NjA2MDUyXX0=
 -->
