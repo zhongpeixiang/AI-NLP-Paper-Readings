@@ -8,7 +8,9 @@ Principles and theories explaining why and how affective factors condition inter
 
 ### Research topics
 
-#### Affective state recognition:
+#### Affective state recognition
+
+Definition: the design of systems that can recognize, interpret and simulate human emotions and related affective phenomena.
 
 1. Sensing and analysis: algorithms and features for the recognition of affective state from face and body gestures
 
@@ -24,9 +26,7 @@ Principles and theories explaining why and how affective factors condition inter
 
 7. Recognition of group emotion
 
-Definition: the design of systems that can recognize, interpret and simulate human emotions and related affective phenomena.
-
-Affective model:
+#### Affective model
 
 8. Methods of data collection with respect to psychological issues as mood induction and elicitation methodology as motion capturing
 
@@ -34,7 +34,7 @@ Affective model:
 
 10. Computational models of human emotion processes (decision-making models that account for the influence of emotion; predictive models of user emotional state, etc.)
 
-Affective expression:
+#### Affective expression
 
 11. Studies on cross-cultural, group and cross-language differences in emotional expression
 
@@ -42,7 +42,7 @@ Affective expression:
 
 13. Models of verbal and nonverbal expression of various forms of affect that facilitate machine implementation
 
-Affective interaction:
+#### Affective interaction
 
 14. Methods to adapt interaction with technology to the affective state of users
 
@@ -52,9 +52,9 @@ Affective interaction:
 
 17. Methods of emotional profiling and adaptation in mid- to long-term interaction
 
-Affective computing applications:
+#### Affective computing applications
 
 18. Application of affective computing including education, health care, entertainment, customer service, design, vehicle operation, social agents/robotics, affective ambient intelligence, customer experience measurement, multimedia retrieval, surveillance systems, biometrics, music retrieval and generation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNDkyNjQwLDE3MzgzMDgzOTVdfQ==
+eyJoaXN0b3J5IjpbOTYzMzU5OTkwLDE3MzgzMDgzOTVdfQ==
 -->
