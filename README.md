@@ -29,11 +29,11 @@
 
 ## Natural Language Processing (NLP)
 
- - [Language Modelling](./CV/CV_classification.md)
- - [Machine Translation](./CV/CV_segmentation.md)
- - [Dialogue System](./CV/CV_visual_QA.md)
- - [Word, Sentence, Document Embedding](./CV/CV_captioning.md)
- - [Sentiment Analysis](./CV/CV_generation.md)
+ - [Language Modelling](./NLP/NLP_modelling.md)
+ - [Machine Translation](./NLP/NLP_translation.md)
+ - [Dialogue System](./NLP/NLP_dialogue.md)
+ - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
+ - [Sentiment Analysis](./NLP/NLP_sentiment.md)
 
 
 
@@ -42,7 +42,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2Nz
-A2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTExMjQyMDE3
-OSw0MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjY1NTIxMjMsNTIyMDU4MzIwLC0xMT
+Q1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5
+MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
