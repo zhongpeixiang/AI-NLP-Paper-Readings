@@ -11,9 +11,9 @@
 ## Natural Language Processing (NLP)
 
  - [Language Modelling](./NLP/NLP_modelling.md)
+ -  [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
  - [Machine Translation](./NLP/NLP_translation.md)
  - [Dialogue System](./NLP/NLP_dialogue.md)
- - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
  - [Sentiment Analysis](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
@@ -44,7 +44,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMjA3NTc5LC0xNzQ4NzMxODM3LC0xMD
+eyJoaXN0b3J5IjpbNjk3MjExMTE1LC0xNzQ4NzMxODM3LC0xMD
 E2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4
 NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMT
 ExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
