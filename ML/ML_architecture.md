@@ -2,10 +2,10 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[Neural Turing Machines](https://arxiv.org/pdf/1410.5401)|Arxiv 2014|Coupling neural networks to external memory resources, which they can interact with by attentional processes.|
-|[Neural Turing Machines](https://arxiv.org/pdf/1410.5401)|Arxiv 2014|Coupling neural networks to external memory resources, which they can interact with by attentional processes.|
+|[Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/pdf/1506.03099)|NIPS 2015|To alleviate the discrepancy between training and inference Propose a curriculum learning strategy to gently change the training process from a fully guided scheme using the true previous token, towards a less guided scheme which mostly uses the generated token instead|
 |[Hybrid Computing Using a Neural Network with Dynamic External Memory](https://www.nature.com/articles/nature20101)|Nature 2016| Traditional neural networks are limited in their ability to represent variables and data structures and to store data over long timescales owing the lack of an external memory. This paper proposes a machine learning model called a differential neural computer (DNC), which consists of a neural network that can read from and write to an external memory matrix, analogous to the RAM in a conventional computer.|
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDEzNDAxLC0xMTU1NDM2NDg5XX0=
+eyJoaXN0b3J5IjpbMTY3MDMzMjI1OCwtMTE1NTQzNjQ4OV19
 -->
