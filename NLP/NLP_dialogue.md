@@ -12,11 +12,12 @@
 |[Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/pdf/1611.06216)|Arxiv 2016|Review recently proposed models based on generative encoder-decoder neural network architectures, and show that these models have better ability to incorporate long-term dialogue history, to model uncertainty and ambiguity in dialogue, and to generate responses with high-level compositional structure.|
 |[Adversarial Learning for Neural Dialogue Generation](https://www.aclweb.org/anthology/D17-1230)|EMNLP 2017| 1. Propose using adversarial training for open-domain dialogue generation: the system is trained to produce sequences that are indistinguishable from human-generated dialogue utterances. 2. Cast the task as a reinforcement learning (RL) problem where we jointly train two systems, a generative model to produce response sequences, and a discriminator---analagous to the human evaluator in the Turing test--- to distinguish between the human-generated dialogues and the machine-generated ones. 3. Some appealing research directions.|
 |[A Survey on Dialogue Systems: Recent Advances and New Frontiers](http://www.kdd.org/exploration_files/19-2-Article3.pdf)|ACM SIGKDD Explorations Newsletter 2017| 1. Task-oriented and non-task oriented models. 2. How deep learning help the representation. 3. Some appealing research directions.|
+|[A Survey on Dialogue Systems: Recent Advances and New Frontiers](http://www.kdd.org/exploration_files/19-2-Article3.pdf)|ACM SIGKDD Explorations Newsletter 2017| 1. Task-oriented and non-task oriented models. 2. How deep learning help the representation. 3. Some appealing research directions.|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg1MjM3MTcsLTk1Njc5MTE3NF19
+eyJoaXN0b3J5IjpbMTMwODk1MTk5NCwtOTU2NzkxMTc0XX0=
 -->
