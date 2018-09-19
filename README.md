@@ -15,6 +15,7 @@
  - [Machine Translation](./NLP/NLP_translation.md)
  - [Dialogue System](./NLP/NLP_dialogue.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
+ - [Machine Reading](./NLP/NLP_reading.md)
  - [Sentiment Analysis](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
@@ -45,9 +46,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04Nj
-kxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQy
-MjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC
-0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3
-MjAwNF19
+eyJoaXN0b3J5IjpbMTY0OTgwODQ3OSwtOTg4MTA1MTIyLC0zOD
+M4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4
+MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NC
+w2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0
+MjAxNzksNDIwMjcyMDA0XX0=
 -->
