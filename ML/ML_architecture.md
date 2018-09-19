@@ -1,7 +1,8 @@
 # ML - Architecture
 |Paper|Conference|Remarks
 |--|--|--|
-|[Neural Turing Machines](https://arxiv.org/pdf/1410.5401)|Arxiv 2014|Coupling neural networks to external memory resources, which they can interact with by attentional processes.|
+|[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555)|Arxiv 2014|Evaluate LSTM and GRU on
+the tasks of polyphonic music modeling and speech signal modeling and results show that they indeed perform better than traditional recurrent units|
 |[Neural Turing Machines](https://arxiv.org/pdf/1410.5401)|Arxiv 2014|Coupling neural networks to external memory resources, which they can interact with by attentional processes.|
 |[Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/pdf/1506.03099)|NIPS 2015|To alleviate the discrepancy between training and inference for sequence prediction models, authors propose a curriculum learning strategy to gently change the training process from a fully guided scheme using the true previous token, towards a less guided scheme which mostly uses the generated token instead|
 |[Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/pdf/1610.09038)|NIPS 2016|1. Uses adversarial domain adaptation to encourage the dynamics of the recurrent network to be the same when training the network and when sampling from the network over multiple time steps. 2. Produce T-SNEs showing that Professor Forcing successfully makes the dynamics of the network during training and sampling more similar.|
@@ -9,5 +10,5 @@
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTMxNDAwMCwtMTE1NTQzNjQ4OV19
+eyJoaXN0b3J5IjpbMTc2MTI4OTcwOCwtMTE1NTQzNjQ4OV19
 -->
