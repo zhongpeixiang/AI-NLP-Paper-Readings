@@ -2,12 +2,12 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162)|EMNLP 2014|1. A new global log-bilinear regression model that combines the advantages of two major model families in the literature: global matrix factorization and local context window methods|
-|[Specializing Word Embeddings for Similarity or Relatedness](http://aclweb.org/anthology/D15-1242)|EMNLP 2015|1. 1Demonstrate the advantage of specializing semantic word embeddings for either similarity or relatedness|
+|[Specializing Word Embeddings for Similarity or Relatedness](http://aclweb.org/anthology/D15-1242)|EMNLP 2015|1. 1. Demonstrate the advantage of specializing semantic word embeddings for either similarity or relatedness. 2.  Find that retrofitting and joint-learning approaches yield specialized semantic spaces and perform better than unspecialized spaces|
 |[A Simple But Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/pdf?id=SyK00v5xx)|ICLR 2016| 1. Proposed a completely unsupervised sentence embedding method. 2. Use word embeddings computed using one of the popular methods on unlabeled corpus like Wikipedia, represent the sentence by a weighted average of the word vectors, and then modify them using PCA/SVD. 3. This weighting improves performance by about 10% to 30% in textual similarity tasks. 4. This paper also gives a theoretical explanation of the success using a latent variable generative model for sentences|
 |[\[Towards Building Affect Sensitive Word Distributions\]](https://openreview.net/pdf?id=By5SY2gA-)|N.A.|1. To incorporate affect lexica, which capture fine-grained information about a word's psycholinguistic and emotional orientation, into the training process of Word2Vec and GloVe using a joint learning approach. 2. The proposed method outperforms previous work on standard tasks such as word similarity detection, outlier detection and sentiment detection.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzYxNDE0NiwtMTc3NzYxOTExNF19
+eyJoaXN0b3J5IjpbMTU3Njg2NjUzNCwtMTc3NzYxOTExNF19
 -->
