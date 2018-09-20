@@ -28,12 +28,13 @@
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
 |[Neural Response Generation with Dynamic Vocabularies](https://arxiv.org/pdf/1711.11191)|AAAI 2018| 1. Propose a dynamic vocabulary sequence-to-sequence (DVS2S) model which allows each input to possess their own vocabulary in decoding. 2. In training, vocabulary construction and response generation are jointly learned by maximizing a lower bound of the true objective with a Monte Carlo sampling method. 3. In inference, the model dynamically allocates a small vocabulary for an input with the word prediction model, and conducts decoding only with the small vocabulary.|
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
+|[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/pdf/1805.00150)|Arxiv 2018| 1. Propose a novel Memory-Augmented Dialogue management model (MAD) which employs a memory controller and two additional memory structures, i.e., a slot-value memory and an external memory. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTMwNjcxOCwxOTUwNzM5NTI1LC0xMz
-Q4NjI0OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4
-NDYxNzksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF
-19
+eyJoaXN0b3J5IjpbLTEzNTg5OTYzODIsMTk1MDczOTUyNSwtMT
+M0ODYyNDkyMiwtMTA4MDU3NjI1NCwtNTgzMTkzODU4LC0xODQz
+ODQ2MTc5LDExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTExNz
+RdfQ==
 -->
