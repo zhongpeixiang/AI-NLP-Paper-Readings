@@ -8,10 +8,11 @@
 |[Hybrid Computing Using a Neural Network with Dynamic External Memory](https://www.nature.com/articles/nature20101)|Nature 2016| Traditional neural networks are limited in their ability to represent variables and data structures and to store data over long timescales owing the lack of an external memory. This paper proposes a machine learning model called a differential neural computer (DNC), which consists of a neural network that can read from and write to an external memory matrix, analogous to the RAM in a conventional computer.|
 |[Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122)|Arxiv 2017| 1. Introduce an seq2seq architecture based entirely on convolutional neural networks. 2. Compared to recurrent models, the proposed architecture has the advantage of fully parallelization during training and easier optimization since the number of non-linearities is fixed and independent of the input length. 3. Use gated linear units to ease gradient propagation and equip each decoder layer with a separate attention module.|
 |[Neural Text Generation: A Practical Guide](https://arxiv.org/pdf/1711.09534)|Arxiv 2017| 1. Current neural generative models suffer from generating truncated or repetitive outputs, outputting bland and generic responses, or in some cases producing ungrammatical gibberish. 2. Give a practical guide for resolving such undesired behavior in text generation models, with the aim of helping enable real-world applications.|
+|[Recent Advances in Recurrent Neural Networks](https://arxiv.org/pdf/1801.01078)|Arxiv 2017| 1. Current neural generative models suffer from generating truncated or repetitive outputs, outputting bland and generic responses, or in some cases producing ungrammatical gibberish. 2. Give a practical guide for resolving such undesired behavior in text generation models, with the aim of helping enable real-world applications.|
 |[Dynamic Evaluation of Neural Sequence Models](http://proceedings.mlr.press/v80/krause18a/krause18a.pdf)|ICML 2018| 1. Explore dynamic evaluation, where sequence models are adapted to the recent sequence history using gradient descent, assigning higher probabilities to re-occurring sequential patterns. 2. Achieve the state-of-the-art results in language modelling|
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTY3MDY3NSwtMTI1ODE3OTA2OCwtMT
-E1NTQzNjQ4OV19
+eyJoaXN0b3J5IjpbLTI4Mjc1MzA0LC0xMjU4MTc5MDY4LC0xMT
+U1NDM2NDg5XX0=
 -->
