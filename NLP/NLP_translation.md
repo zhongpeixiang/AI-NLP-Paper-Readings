@@ -7,10 +7,12 @@
 |[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811)|ACL 2016|Propose a coverage vector to keep track of the attention history. The coverage vector is fed to the attention model to help adjust future attention, which lets NMT system to consider more about untranslated source words.|
 |[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144)|Arxiv 2016|Present GNMT, Google's Neural Machine Translation system to improve parallelism, accelerate the final translation speed, improve handling of rare words and encourages generation of an output sentence that is most likely to cover all the words in the source sentence|
 |[Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)|NIPS 2017|1. Propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. 2. Superior in quality while being more parallelizable and requiring significantly less time to train.|
+|[# Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619)|Arxiv 2017|1. Introduces a new and powerful set of techniques variously called "neural machine translation" or "neural sequence-to-sequence models". 2. Explain the intuition behind the various methods covered, then delves into them with enough mathematical detail to understand them concretely, and culiminates with a suggestion for an implementation exercise, where readers can test that they understood the content in practice.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMzk4MTEyLDk2NDk5MTcyMywyMTI0NT
-A4MDk5LC0xMTc4MTM1NjEyLDc3NTkzNDU4MV19
+eyJoaXN0b3J5IjpbMTc3ODU0NzY5LDU3MDM5ODExMiw5NjQ5OT
+E3MjMsMjEyNDUwODA5OSwtMTE3ODEzNTYxMiw3NzU5MzQ1ODFd
+fQ==
 -->
