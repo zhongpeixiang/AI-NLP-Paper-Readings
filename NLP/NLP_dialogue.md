@@ -17,7 +17,7 @@
 |[A Survey on Dialogue Systems: Recent Advances and New Frontiers](http://www.kdd.org/exploration_files/19-2-Article3.pdf)|ACM SIGKDD Explorations Newsletter 2017| 1. Task-oriented and non-task oriented models. 2. How deep learning help the representation. 3. Some appealing research directions.|
 |[Emotional Poetry Generation](https://pdfs.semanticscholar.org/d89d/053b1c2481088b1af2bd36e0a6d959ff1373.pdf)|SPECOM 2017| 1. Describe a new system for the automatic creation of poetry in Basque that not only generates novel poems, but also creates them conveying a certain attitude or state of mind. 2. The proposed system receives as an input the topic of the poem and the affective state (positive, neutral or negative) and tries to give as output a novel poem that: (1) satisfies formal constraints of rhyme and metric, (2) shows coherent content related to the given topic, and (3) expresses them through the predetermined mood.|
 |[A Deep Reinforcement Learning Chatbot](https://arxiv.org/pdf/1709.02349)|Arxiv 2017| 1. Consists of an ensemble of natural language generation and retrieval models, including template-based models, bag-of-words models, sequence-to-sequence neural network and latent variable neural network models. 2. The system has been trained to select an appropriate response from the models in its ensemble.|
-|[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Consists of an ensemble of natural language generation and retrieval models, including template-based models, bag-of-words models, sequence-to-sequence neural network and latent variable neural network models. 2. The system has been trained to select an appropriate response from the models in its ensemble.|
+|[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
 |[Neural Response Generation with Dynamic Vocabularies](https://arxiv.org/pdf/1711.11191)|AAAI 2018| 1. Propose a dynamic vocabulary sequence-to-sequence (DVS2S) model which allows each input to possess their own vocabulary in decoding. 2. In training, vocabulary construction and response generation are jointly learned by maximizing a lower bound of the true objective with a Monte Carlo sampling method. 3. In inference, the model dynamically allocates a small vocabulary for an input with the word prediction model, and conducts decoding only with the small vocabulary.|
@@ -26,7 +26,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY1NTc4NDAsLTU4MzE5Mzg1OCwtMT
-g0Mzg0NjE3OSwxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2Nzkx
-MTc0XX0=
+eyJoaXN0b3J5IjpbOTA2OTc2MTIzLC01ODMxOTM4NTgsLTE4ND
+M4NDYxNzksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3
+NF19
 -->
