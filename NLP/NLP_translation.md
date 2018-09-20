@@ -7,12 +7,13 @@
 |[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811)|ACL 2016|Propose a coverage vector to keep track of the attention history. The coverage vector is fed to the attention model to help adjust future attention, which lets NMT system to consider more about untranslated source words.|
 |[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144)|Arxiv 2016|Present GNMT, Google's Neural Machine Translation system to improve parallelism, accelerate the final translation speed, improve handling of rare words and encourages generation of an output sentence that is most likely to cover all the words in the source sentence|
 |[Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)|NIPS 2017|1. Propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. 2. Superior in quality while being more parallelizable and requiring significantly less time to train.|
+|[OpenNMT: Open-Source Toolkit for Neural Machine Translation](https://arxiv.org/pdf/1701.02810)|ACL 2017|Describe an open-source toolkit for neural machine translation (NMT). The toolkit prioritizes efficiency, modularity, and extensibility with the goal of supporting NMT research into model architectures, feature representations, and source modalities, while maintaining competitive performance and reasonable training requirements.|
 |[# Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619)|Arxiv 2017|1. Introduce a new and powerful set of techniques variously called "neural machine translation" or "neural sequence-to-sequence models". 2. Explain the intuition behind the various methods covered, then delves into them with enough mathematical detail to understand them concretely, and culiminates with a suggestion for an implementation exercise, where readers can test that they understood the content in practice.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDIyOTIxNCw1NzAzOTgxMTIsOTY0OT
-kxNzIzLDIxMjQ1MDgwOTksLTExNzgxMzU2MTIsNzc1OTM0NTgx
-XX0=
+eyJoaXN0b3J5IjpbLTEyNDc2MDE5LDE0MjAyMjkyMTQsNTcwMz
+k4MTEyLDk2NDk5MTcyMywyMTI0NTA4MDk5LC0xMTc4MTM1NjEy
+LDc3NTkzNDU4MV19
 -->
