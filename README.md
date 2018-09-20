@@ -47,10 +47,15 @@
 Detailed discussions on selected papers can be accessed [here](https://zhongpeixiang.github.io/).
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjk0NTkyNSwtOTkxODE0ODcwLC05OD
-gxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMx
-ODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC
-0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0Nzgx
-NjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbLTUxOTU4MTU5LC05OTE4MTQ4NzAsLTk4OD
+EwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4
+MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLT
+ExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2
+MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
 -->
