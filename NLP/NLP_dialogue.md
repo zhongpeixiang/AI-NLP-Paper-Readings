@@ -24,6 +24,7 @@
 |[Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory](https://link.springer.com/article/10.1007/s12559-017-9539-4)|Cognitive Computation 2017| 1. Propose a new model based on long short-term memory, which is used to achieve an encoder-decoder framework, and we address the emotional factor of conversation generation by changing the model’s input using a series of input transformations: a sequence without an emotional category, a sequence with an emotional category for the input sentence, and a sequence with an emotional category for the output responses.|
 |[A Deep Reinforcement Learning Chatbot](https://arxiv.org/pdf/1709.02349)|Arxiv 2017| 1. Consists of an ensemble of natural language generation and retrieval models, including template-based models, bag-of-words models, sequence-to-sequence neural network and latent variable neural network models. 2. The system has been trained to select an appropriate response from the models in its ensemble.|
 |[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
+|[Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](http://aclweb.org/anthology/P18-1133)|ACL 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
 |[Neural Response Generation with Dynamic Vocabularies](https://arxiv.org/pdf/1711.11191)|AAAI 2018| 1. Propose a dynamic vocabulary sequence-to-sequence (DVS2S) model which allows each input to possess their own vocabulary in decoding. 2. In training, vocabulary construction and response generation are jointly learned by maximizing a lower bound of the true objective with a Monte Carlo sampling method. 3. In inference, the model dynamically allocates a small vocabulary for an input with the word prediction model, and conducts decoding only with the small vocabulary.|
@@ -33,8 +34,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMTg4NzQ1LDE5NTA3Mzk1MjUsLTEzND
-g2MjQ5MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0
-NjE3OSwxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX
-0=
+eyJoaXN0b3J5IjpbLTY2MzkyMzczOCwxOTUwNzM5NTI1LC0xMz
+Q4NjI0OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4
+NDYxNzksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF
+19
 -->
