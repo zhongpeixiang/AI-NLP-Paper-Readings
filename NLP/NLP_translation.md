@@ -6,11 +6,11 @@
 |[Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025)|EMNLP 2015|Examines two simple and effective classes of attentional mechanism: a global approach which always attends to all source words and a local one that only looks at a subset of source words at a time.|
 |[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811)|ACL 2016|Propose a coverage vector to keep track of the attention history. The coverage vector is fed to the attention model to help adjust future attention, which lets NMT system to consider more about untranslated source words.|
 |[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144)|Arxiv 2016|Present GNMT, Google's Neural Machine Translation system to improve parallelism, accelerate the final translation speed, improve handling of rare words and encourages generation of an output sentence that is most likely to cover all the words in the source sentence|
-|[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144)|Arxiv 2016|Present GNMT, Google's Neural Machine Translation system to improve parallelism, accelerate the final translation speed, improve handling of rare words and encourages generation of an output sentence that is most likely to cover all the words in the source sentence|
+|[Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)|NIPS 2017|1. Propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzYyNTU1MCw5NjQ5OTE3MjMsMjEyND
+eyJoaXN0b3J5IjpbLTIyNzA5Njg1OCw5NjQ5OTE3MjMsMjEyND
 UwODA5OSwtMTE3ODEzNTYxMiw3NzU5MzQ1ODFdfQ==
 -->
