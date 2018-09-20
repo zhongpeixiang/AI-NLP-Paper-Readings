@@ -6,10 +6,10 @@
 |[Linguistic Inquiry and Word Count: LIWC2015](https://s3-us-west-2.amazonaws.com/downloads.liwc.net/LIWC2015_OperatorManual.pdf)|www.liwc.net|Provide the user manual for LIWC software|
 |[Modelling Valence and Arousal in Facebook posts](https://wwbp.org/papers/va16wassa.pdf)|Workshop on WASSA 2016| Introduce a new data set of 2895 Social Media posts rated by two psychologically-trained annotators on two separate ordinal nine-point scales (valence and arousal).|
 |[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/pdf/1512.05742)|Arxiv 2017| 1. A wide survey of publicly available datasets suitable for data-driven learning of dialogue systems. 2. Discuss important characteristics of these datasets, how they can be used to learn diverse dialogue strategies, and their other potential uses. 3. Examine methods for transfer learning between datasets and the use of external knowledge. 4. Discuss appropriate choice of evaluation metrics for the learning objective.|
-|[AMIGOS: A Dataset for Affect, Personality and Mood Research on Individuals and Groups](https://arxiv.org/pdf/1702.02510)|Arxiv 2017| 1. A dataset for Multimodal research of affect, personality traits and mood on Individuals and GrOupS. 2. Discuss important characteristics of these datasets, how they can be used to learn diverse dialogue strategies, and their other potential uses. 3. Examine methods for transfer learning between datasets and the use of external knowledge. 4. Discuss appropriate choice of evaluation metrics for the learning objective.|
+|[AMIGOS: A Dataset for Affect, Personality and Mood Research on Individuals and Groups](https://arxiv.org/pdf/1702.02510)|Arxiv 2017| 1. A dataset for Multimodal research of affect, personality traits and mood on Individuals and Groups. 2. The dataset contains videos and neuro-physiological signals.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA5MjMxOTEsMTc3MDE0NTM3Ml19
+eyJoaXN0b3J5IjpbLTMyNDA0MTg5LDE3NzAxNDUzNzJdfQ==
 -->
