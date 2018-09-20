@@ -56,12 +56,9 @@ Definition: the design of systems that can recognize, interpret and simulate hum
 
 18. Application of affective computing including education, health care, entertainment, customer service, design, vehicle operation, social agents/robotics, affective ambient intelligence, customer experience measurement, multimedia retrieval, surveillance systems, biometrics, music retrieval and generation
 
-### Resources
-- [Affective Computing](https://dl.acm.org/citation.cfm?id=265013)
-- [The Oxford Handbook of Affective Computing](https://dl.acm.org/citation.cfm?id=2787789)
-
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODcwMjQ3OCwxNDU4MjQ2NTYxLDg2Nj
-czNTI4Nyw5NjMzNTk5OTAsMTczODMwODM5NV19
+eyJoaXN0b3J5IjpbMTg4NzE2OTU1OSwtODE4NzAyNDc4LDE0NT
+gyNDY1NjEsODY2NzM1Mjg3LDk2MzM1OTk5MCwxNzM4MzA4Mzk1
+XX0=
 -->
