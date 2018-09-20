@@ -13,11 +13,11 @@
  - [Language Modelling](./NLP/NLP_modelling.md)
  - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
  - [Machine Translation](./NLP/NLP_translation.md)
- - [Dialogue System](./NLP/NLP_dialogue.md)
+ - [**Dialogue System**](./NLP/NLP_dialogue.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Machine Reading](./NLP/NLP_reading.md)
- - [Sentiment Analysis](./NLP/NLP_sentiment.md)
+ - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
 ## Machine Learning (ML)
@@ -48,7 +48,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc5NjYzMCwtOTg4MTA1MTIyLC0zOD
+eyJoaXN0b3J5IjpbLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zOD
 M4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4
 MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NC
 w2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0
