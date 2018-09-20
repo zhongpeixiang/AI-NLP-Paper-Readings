@@ -44,7 +44,7 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
-## Authors
+## Contributors
 
 * **Zhong Peixiang**
 
@@ -56,9 +56,9 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDk2MzY5LC05OTE4MTQ4NzAsLTk4OD
-EwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4
-MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLT
-ExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2
-MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05OD
+gxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMx
+ODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC
+0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0Nzgx
+NjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
 -->
