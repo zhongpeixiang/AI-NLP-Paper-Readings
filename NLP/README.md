@@ -1,7 +1,7 @@
+### Resources
+- [Speech and Language Processing (Book)](https://web.stanford.edu/~jurafsky/slp3/)
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+[Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk4MjQ3NDM0M119
 -->
