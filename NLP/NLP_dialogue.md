@@ -17,6 +17,7 @@
 |[ParlAI: A Dialog Research Software Platform](http://aclweb.org/anthology/D17-2014)|EMNLP 2017| A unified open-source framework in Python for sharing, training and testing of dialog models, integration of Amazon Mechanical Turk for data collection, human evaluation, and online/reinforcement learning; and a repository of machine learning models for comparing with others' models, and improving upon existing architectures.|
 |[A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562)|EACL 2017| 1. Introduce a neural network-based text-in, text-out end-to-end trainable goal-oriented dialogue system along with a new way of collecting dialogue data based on a novel pipe-lined Wizard-of-Oz framework. 2. This approach allows us to develop dialogue systems easily and without making too many assumptions about the task at hand.|
 |[Building Task-Oriented Dialogue Systems for Online Shopping](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14261/13975)|AAAI 2017| 1. Present a general solution towards building task-oriented dialogue systems for online shopping, aiming to assist online customers in completing various purchase-related tasks, such as searching products and answering questions, in a natural language conversation manner. 2. Show what & how existing NLP techniques, data resources, and crowdsourcing can be leveraged to build such task-oriented dialogue systems for E-commerce usage.|
+|[End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1703.01008)|IJCNLP 2017| 1. Present a general solution towards building task-oriented dialogue systems for online shopping, aiming to assist online customers in completing various purchase-related tasks, such as searching products and answering questions, in a natural language conversation manner. 2. Show what & how existing NLP techniques, data resources, and crowdsourcing can be leveraged to build such task-oriented dialogue systems for E-commerce usage.|
 |[A Survey on Dialogue Systems: Recent Advances and New Frontiers](http://www.kdd.org/exploration_files/19-2-Article3.pdf)|ACM SIGKDD Explorations Newsletter 2017| 1. Task-oriented and non-task oriented models. 2. How deep learning help the representation. 3. Some appealing research directions.|
 |[Emotional Poetry Generation](https://pdfs.semanticscholar.org/d89d/053b1c2481088b1af2bd36e0a6d959ff1373.pdf)|SPECOM 2017| 1. Describe a new system for the automatic creation of poetry in Basque that not only generates novel poems, but also creates them conveying a certain attitude or state of mind. 2. The proposed system receives as an input the topic of the poem and the affective state (positive, neutral or negative) and tries to give as output a novel poem that: (1) satisfies formal constraints of rhyme and metric, (2) shows coherent content related to the given topic, and (3) expresses them through the predetermined mood.|
 |[Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory](https://link.springer.com/article/10.1007/s12559-017-9539-4)|Cognitive Computation 2017| 1. Propose a new model based on long short-term memory, which is used to achieve an encoder-decoder framework, and we address the emotional factor of conversation generation by changing the model’s input using a series of input transformations: a sequence without an emotional category, a sequence with an emotional category for the input sentence, and a sequence with an emotional category for the output responses.|
@@ -30,8 +31,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc2MDMyODAsMTk1MDczOTUyNSwtMT
-M0ODYyNDkyMiwtMTA4MDU3NjI1NCwtNTgzMTkzODU4LC0xODQz
-ODQ2MTc5LDExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTExNz
-RdfQ==
+eyJoaXN0b3J5IjpbODk2MzI1MjM5LDE5NTA3Mzk1MjUsLTEzND
+g2MjQ5MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0
+NjE3OSwxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX
+0=
 -->
