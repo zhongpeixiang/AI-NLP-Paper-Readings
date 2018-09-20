@@ -11,9 +11,10 @@
 |[Attention Modeling for Targeted Sentiment](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| A vanilla LSTM model is used to induce an attention value of the whole sentence. The model is further extended to differentiate left and right contexts given a certain target following previous work|
 |[Attention-Based LSTM for Target-Dependent Sentiment Classification](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| Learns the alignment between the target entities and the most distinguishing features.|
 |[Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Two-layers LSTM with attention, on top of word embeddings. 2. Present a text processing tool for twitter dataset|
+|[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. Present a text processing tool for twitter dataset|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTk3NjczNiw3NjQwODI4NzZdfQ==
+eyJoaXN0b3J5IjpbNTg4MTc1NTg4LDc2NDA4Mjg3Nl19
 -->
