@@ -8,11 +8,11 @@
 |[Linguistically Regularized LSTM for Sentiment Classification](http://www.aclweb.org/anthology/P17-1154)|ACL 2017| 1. A simple model trained with sentence-level annotations which attempt to model the linguistic role of sentiment lexicons, negation words and intensity words|
 |[EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks](http://www.aclweb.org/anthology/P17-1067)|ACL 2017| 1. Create a very large dataset of size 1.6 million tweets for 24 fine-grained emotions. 2. Build a very deep GRU model for sentiment classification with state of the art result.|
 |[EMOBANK: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis](http://aclweb.org/anthology/E17-2092)|EACL 2017| 1. A corpus of 10k English sentences with VAD annotations. 2. A subset of 1200 English sentences with both VAD and Ekman six basic emotion ratings. 3. Both reader and writer perspectives. 4. Close-to-human performance for mapping between dimensional and categorical formats|
-|[Attention Modeling for Targeted Sentiment](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| 1. A corpus of 10k English sentences with VAD annotations. 2. A subset of 1200 English sentences with both VAD and Ekman six basic emotion ratings. 3. Both reader and writer perspectives. 4. Close-to-human performance for mapping between dimensional and categorical formats|
+|[Attention Modeling for Targeted Sentiment](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| A vanilla LSTM model is used to induce an attention value of the whole sentence. The model is further extended to differentiate left and right contexts given a certain target following previous work|
 |[Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Two-layers LSTM with attention, on top of word embeddings. 2. Present a text processing tool for twitter dataset|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQzNTIyODMsNzY0MDgyODc2XX0=
+eyJoaXN0b3J5IjpbLTE0ODIxNzMzNzQsNzY0MDgyODc2XX0=
 -->
