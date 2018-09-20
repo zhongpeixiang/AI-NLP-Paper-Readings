@@ -8,11 +8,11 @@
 |[Towards Building Affect Sensitive Word Distributions](https://openreview.net/pdf?id=By5SY2gA-)|N.A.|1. To incorporate affect lexica, which capture fine-grained information about a word's psycholinguistic and emotional orientation, into the training process of Word2Vec and GloVe using a joint learning approach. 2. The proposed method outperforms previous work on standard tasks such as word similarity detection, outlier detection and sentiment detection.|
 |[A Simple Regularization-based Algorithm for Learning Cross-Domain Word Embeddings](http://aclweb.org/anthology/D17-1312)|EMNLP 2017|Present a simple yet effective method for learning word embeddings based on text from different domains.|
 |[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
-|[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
+|[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations of sentences. 2. Define prediction tasks around isolated aspects of sentence structure (namely sentence length, word content, and word order), and score representations by the ability to train a classifier to solve each prediction task when using the representation as input.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTA4NTU2MywtMTQ1NTk5OTU0OSwxNT
+eyJoaXN0b3J5IjpbMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNT
 c2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
 -->
