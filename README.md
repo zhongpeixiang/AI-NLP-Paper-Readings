@@ -3,7 +3,7 @@
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
- - [AC with Text](./AC/AC_text.md)
+ - [**AC with Text**](./AC/AC_text.md)
  - [AC with Image](./AC/AC_image.md)
  - [AC with Physiological Signals](./AC/AC_physiological.md)
  - [AC with Multi-modal Data](./AC/AC_multimodal.md)
@@ -48,9 +48,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkxNzk1NDIsLTk4ODEwNTEyMiwtMz
-gzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4
-ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3ND
-QsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEy
-NDIwMTc5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTE3ODc5NjYzMCwtOTg4MTA1MTIyLC0zOD
+M4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4
+MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NC
+w2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0
+MjAxNzksNDIwMjcyMDA0XX0=
 -->
