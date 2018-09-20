@@ -16,6 +16,7 @@
 |[ParlAI: A Dialog Research Software Platform](http://aclweb.org/anthology/D17-2014)|EMNLP 2017| A unified open-source framework in Python for sharing, training and testing of dialog models, integration of Amazon Mechanical Turk for data collection, human evaluation, and online/reinforcement learning; and a repository of machine learning models for comparing with others' models, and improving upon existing architectures.|
 |[A Survey on Dialogue Systems: Recent Advances and New Frontiers](http://www.kdd.org/exploration_files/19-2-Article3.pdf)|ACM SIGKDD Explorations Newsletter 2017| 1. Task-oriented and non-task oriented models. 2. How deep learning help the representation. 3. Some appealing research directions.|
 |[Emotional Poetry Generation](https://pdfs.semanticscholar.org/d89d/053b1c2481088b1af2bd36e0a6d959ff1373.pdf)|SPECOM 2017| 1. Describe a new system for the automatic creation of poetry in Basque that not only generates novel poems, but also creates them conveying a certain attitude or state of mind. 2. The proposed system receives as an input the topic of the poem and the affective state (positive, neutral or negative) and tries to give as output a novel poem that: (1) satisfies formal constraints of rhyme and metric, (2) shows coherent content related to the given topic, and (3) expresses them through the predetermined mood.|
+|[Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
 |[A Deep Reinforcement Learning Chatbot](https://arxiv.org/pdf/1709.02349)|Arxiv 2017| 1. Consists of an ensemble of natural language generation and retrieval models, including template-based models, bag-of-words models, sequence-to-sequence neural network and latent variable neural network models. 2. The system has been trained to select an appropriate response from the models in its ensemble.|
 |[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
@@ -26,7 +27,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2OTc2MTIzLC01ODMxOTM4NTgsLTE4ND
-M4NDYxNzksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3
-NF19
+eyJoaXN0b3J5IjpbLTc5MDc0NDA0NSwtNTgzMTkzODU4LC0xOD
+QzODQ2MTc5LDExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTEx
+NzRdfQ==
 -->
