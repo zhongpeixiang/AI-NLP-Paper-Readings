@@ -5,11 +5,11 @@
 |[Norms of valence, arousal and dominance for 13,915 English lemmas](https://link.springer.com/article/10.3758/s13428-012-0314-x)|Behaviour Research Methods 2013|1. Four lines of research for emotional ratings of words: emotions themselves; impact of emotional features on the processing and memory of words; estimation of sentiments expressed by entire messages or texts; automatic estimation of emotional values of new words by comparing them to those of validated words. 2. Provided a dataset comprising 13,915 lemma-VAD pairs|
 |[Linguistic Inquiry and Word Count: LIWC2015](https://s3-us-west-2.amazonaws.com/downloads.liwc.net/LIWC2015_OperatorManual.pdf)|www.liwc.net|Provide the user manual for LIWC software|
 |[Modelling Valence and Arousal in Facebook posts](https://wwbp.org/papers/va16wassa.pdf)|Workshop on WASSA 2016| Introduce a new data set of 2895 Social Media posts rated by two psychologically-trained annotators on two separate ordinal nine-point scales (valence and arousal).|
-|[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/pdf/1512.05742)|Arxiv 2017| Introduce a new data set of 2895 Social Media posts rated by two psychologically-trained annotators on two separate ordinal nine-point scales (valence and arousal).|
+|[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/pdf/1512.05742)|Arxiv 2017| 1. A wide survey of publicly available datasets suitable for data-driven learning of dialogue systems. 2. Discuss important characteristics of these datasets, how they can be used to learn diverse dialogue strategies, and their other potential uses. 3. Examine methods for transfer learning between datasets and the use of external knowledge. 4. Discuss appropriate choice of evaluation metrics for the learning objective.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTYyMjkzMSwxNzcwMTQ1MzcyXX0=
+eyJoaXN0b3J5IjpbMTA0Njk2MDE3LDE3NzAxNDUzNzJdfQ==
 -->
