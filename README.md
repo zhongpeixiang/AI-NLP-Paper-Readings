@@ -28,12 +28,13 @@
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
 
+<!---
 ## Knowledge Representation (KR)
 
- - [Knowledge Graph](./CV/CV_classification.md)
- - [Reasoning](./CV/CV_segmentation.md)
+ - [Knowledge Graph](./KR/KR_graph.md)
+ - [Reasoning](./KR/KR_reasoning.md)
 
-<!---
+
 ## Computer Vision (CV)
 
  - [Image Classification](./CV/CV_classification.md)
@@ -47,9 +48,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTgxMDIyNiwtOTg4MTA1MTIyLC0zOD
-M4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4
-MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NC
-w2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0
-MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbLTEzNzkxNzk1NDIsLTk4ODEwNTEyMiwtMz
+gzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4
+ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3ND
+QsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEy
+NDIwMTc5LDQyMDI3MjAwNF19
 -->
