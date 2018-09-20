@@ -2,6 +2,7 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)|HLT 2011|1. 1. Present a model that uses a mix of unsupervised and supervised techniques to learn word vectors capturing semantic term--document information as well as rich sentiment content. 2. Instantiate the model to utilize the document-level sentiment polarity annotations present in many online documents|
+|[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|1. Present a method that learns word embedding for Twitter sentiment classification. 2. Develop three neural networks to effectively incorporate the supervision from sentiment polarity of text (e.g. sentences or tweets) in their loss functions|
 |[GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162)|EMNLP 2014|1. A new global log-bilinear regression model that combines the advantages of two major model families in the literature: global matrix factorization and local context window methods|
 |[Specializing Word Embeddings for Similarity or Relatedness](http://aclweb.org/anthology/D15-1242)|EMNLP 2015|1. 1. Demonstrate the advantage of specializing semantic word embeddings for either similarity or relatedness. 2.  Find that retrofitting and joint-learning approaches yield specialized semantic spaces and perform better than unspecialized spaces|
 |[A Simple But Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/pdf?id=SyK00v5xx)|ICLR 2016| 1. Proposed a completely unsupervised sentence embedding method. 2. Use word embeddings computed using one of the popular methods on unlabeled corpus like Wikipedia, represent the sentence by a weighted average of the word vectors, and then modify them using PCA/SVD. 3. This weighting improves performance by about 10% to 30% in textual similarity tasks. 4. This paper also gives a theoretical explanation of the success using a latent variable generative model for sentences|
@@ -13,6 +14,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNT
-c2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTY4NjAyODE0NywxMjg1ODIwOTI1LC0xND
+U1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
