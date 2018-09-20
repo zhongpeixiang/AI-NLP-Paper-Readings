@@ -8,9 +8,10 @@ the tasks of polyphonic music modeling and speech signal modeling and results sh
 |[Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/pdf/1610.09038)|NIPS 2016|1. Uses adversarial domain adaptation to encourage the dynamics of the recurrent network to be the same when training the network and when sampling from the network over multiple time steps. 2. Produce T-SNEs showing that Professor Forcing successfully makes the dynamics of the network during training and sampling more similar.|
 |[Hybrid Computing Using a Neural Network with Dynamic External Memory](https://www.nature.com/articles/nature20101)|Nature 2016| Traditional neural networks are limited in their ability to represent variables and data structures and to store data over long timescales owing the lack of an external memory. This paper proposes a machine learning model called a differential neural computer (DNC), which consists of a neural network that can read from and write to an external memory matrix, analogous to the RAM in a conventional computer.|
 |[Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122)|Arxiv 2017| 1. Introduce an seq2seq architecture based entirely on convolutional neural networks. 2. Compared to recurrent models, the proposed architecture has the advantage of fully parallelization during training and easier optimization since the number of non-linearities is fixed and independent of the input length. 3. Use gated linear units to ease gradient propagation and equip each decoder layer with a separate attention module.|
+|[Dynamic Evaluation of Neural Sequence Models](http://proceedings.mlr.press/v80/krause18a/krause18a.pdf)|ICML 2018| 1. Introduce an seq2seq architecture based entirely on convolutional neural networks. 2. Compared to recurrent models, the proposed architecture has the advantage of fully parallelization during training and easier optimization since the number of non-linearities is fixed and independent of the input length. 3. Use gated linear units to ease gradient propagation and equip each decoder layer with a separate attention module.|
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgxNzkwNjgsLTExNTU0MzY0ODldfQ
-==
+eyJoaXN0b3J5IjpbLTIwMjQxNzk4NzAsLTEyNTgxNzkwNjgsLT
+ExNTU0MzY0ODldfQ==
 -->
