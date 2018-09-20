@@ -49,11 +49,11 @@ Detailed discussions on selected papers can be accessed [here](https://zhongpeix
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTU4MTU5LC05OTE4MTQ4NzAsLTk4OD
+eyJoaXN0b3J5IjpbMTExMTk4NTU4LC05OTE4MTQ4NzAsLTk4OD
 EwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4
 MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLT
 ExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2
