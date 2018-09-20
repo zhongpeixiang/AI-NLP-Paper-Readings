@@ -44,8 +44,11 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
-Detailed discussions on selected papers can be accessed [here](https://zhongpeixiang.github.io/).
+## Authors
 
+* **Zhong Peixiang**
+
+Detailed discussions on selected papers can be accessed [here](https://zhongpeixiang.github.io/).
 
 ## License
 
@@ -53,7 +56,7 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTk4NTU4LC05OTE4MTQ4NzAsLTk4OD
+eyJoaXN0b3J5IjpbMTI3MDk2MzY5LC05OTE4MTQ4NzAsLTk4OD
 EwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4
 MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLT
 ExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2
