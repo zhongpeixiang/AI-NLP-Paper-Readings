@@ -7,11 +7,11 @@
 |[A Simple But Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/pdf?id=SyK00v5xx)|ICLR 2016| 1. Proposed a completely unsupervised sentence embedding method. 2. Use word embeddings computed using one of the popular methods on unlabeled corpus like Wikipedia, represent the sentence by a weighted average of the word vectors, and then modify them using PCA/SVD. 3. This weighting improves performance by about 10% to 30% in textual similarity tasks. 4. This paper also gives a theoretical explanation of the success using a latent variable generative model for sentences|
 |[Towards Building Affect Sensitive Word Distributions](https://openreview.net/pdf?id=By5SY2gA-)|N.A.|1. To incorporate affect lexica, which capture fine-grained information about a word's psycholinguistic and emotional orientation, into the training process of Word2Vec and GloVe using a joint learning approach. 2. The proposed method outperforms previous work on standard tasks such as word similarity detection, outlier detection and sentiment detection.|
 |[A Simple Regularization-based Algorithm for Learning Cross-Domain Word Embeddings](http://aclweb.org/anthology/D17-1312)|EMNLP 2017|Present a simple yet effective method for learning word embeddings based on text from different domains.|
-|[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention.|
+|[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTc2NDA1OCwtMTQ1NTk5OTU0OSwxNT
-c2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTE0NjY3NzE5NzUsLTE0NTU5OTk1NDksMT
+U3Njg2NjUzNCwtMTc3NzYxOTExNF19
 -->
