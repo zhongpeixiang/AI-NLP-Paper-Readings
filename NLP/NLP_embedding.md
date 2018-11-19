@@ -2,9 +2,8 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)|HLT 2011|1. 1. Present a model that uses a mix of unsupervised and supervised techniques to learn word vectors capturing semantic term--document information as well as rich sentiment content. 2. Instantiate the model to utilize the document-level sentiment polarity annotations present in many online documents|
-|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|Arxiv 2013|Propose two novel model architectures, namely CBOW and SkipGranm for computing continuous vector repre-
-sentations of words from very large data sets|
-|[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
+|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|Arxiv 2013|A pioneering work that proposes two novel model architectures, namely CBOW and SkipGram, for computing continuous vector representations of words from very large data sets. |
+|[Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)|NIPS 2013|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
 |[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
 |[GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162)|EMNLP 2014|1. A new global log-bilinear regression model that combines the advantages of two major model families in the literature: global matrix factorization and local context window methods|
 |[Specializing Word Embeddings for Similarity or Relatedness](http://aclweb.org/anthology/D15-1242)|EMNLP 2015|1. Demonstrate the advantage of specializing semantic word embeddings for either similarity or relatedness. 2.  Find that retrofitting and joint-learning approaches yield specialized semantic spaces and perform better than unspecialized spaces|
@@ -24,7 +23,7 @@ sentations of words from very large data sets|
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM2MTE2LC0xNDAwNTkzNDY2LDEyOD
-U4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwtMTc3NzYx
-OTExNF19
+eyJoaXN0b3J5IjpbLTExNzQ0MzQ3MywtMTQwMDU5MzQ2NiwxMj
+g1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2
+MTkxMTRdfQ==
 -->
