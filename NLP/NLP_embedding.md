@@ -11,6 +11,7 @@
 |[A Simple But Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/pdf?id=SyK00v5xx)|ICLR 2016| 1. Proposed a completely unsupervised sentence embedding method. 2. Use word embeddings computed using one of the popular methods on unlabeled corpus like Wikipedia, represent the sentence by a weighted average of the word vectors, and then modify them using PCA/SVD. 3. This weighting improves performance by about 10% to 30% in textual similarity tasks. 4. This paper also gives a theoretical explanation of the success using a latent variable generative model for sentences|
 |[Sentiment Embeddings with Applications to Sentiment Analysis](http://millenniumsoftsol.com/courses/IEEETitles/Java/Sentiment-Embeddings.pdf)|IEEE TKDE 2016| 1. Encode sentiment information of texts (e.g., sentences and words) together with contexts of words in sentiment embeddings. 2. Develop a number of neural networks with tailoring loss functions, and collect massive texts automatically with sentiment signals like emoticons as the training data.|
 |[Towards Building Affect Sensitive Word Distributions](https://openreview.net/pdf?id=By5SY2gA-)|N.A.|1. To incorporate affect lexica, which capture fine-grained information about a word's psycholinguistic and emotional orientation, into the training process of Word2Vec and GloVe using a joint learning approach. 2. The proposed method outperforms previous work on standard tasks such as word similarity detection, outlier detection and sentiment detection.|
+|[Enriching Word Vectors with Subword Information](http://aclweb.org/anthology/Q17-1010)|ACL 2017|Present a variant of Sk|
 |[A Simple Regularization-based Algorithm for Learning Cross-Domain Word Embeddings](http://aclweb.org/anthology/D17-1312)|EMNLP 2017|Present a simple yet effective method for learning word embeddings based on text from different domains.|
 |[Can Word Embeddings Help Find Latent Emotions in Text](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15516/14967)|AAAI 2017|The results conclude that existing word embeddings are unable to deliver emotion information. For example, the arithmetic joy + fear = guilt does not hold. Also, emotionally similar words are far apart in the word embedding space.|
 |[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
@@ -26,7 +27,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIwMTk0NzUsLTE2OTM4NDY1MzMsLT
-E0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNTc2
-ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTEzMzg3MjUzNTAsLTE1NzIwMTk0NzUsLT
+E2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1
+NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
 -->
