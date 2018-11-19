@@ -19,13 +19,13 @@
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
-|[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
+|[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. They conduct ex|
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTIxODMyOCwtMTY5Mzg0NjUzMywtMT
-QwMDU5MzQ2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4
-NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjE0MTgzMTEsLTE2OTM4NDY1MzMsLT
+E0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNTc2
+ODY2NTM0LC0xNzc3NjE5MTE0XX0=
 -->
