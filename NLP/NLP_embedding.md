@@ -21,11 +21,12 @@
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
+|[A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536)|Arxiv 2018|1. Explores |
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTQzMTAwNywtMTY5Mzg0NjUzMywtMT
+eyJoaXN0b3J5IjpbLTEyMzA1NTA3OCwtMTY5Mzg0NjUzMywtMT
 QwMDU5MzQ2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4
 NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
