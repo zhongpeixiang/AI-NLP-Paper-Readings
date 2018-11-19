@@ -2,7 +2,8 @@
 |Paper|Conference|Remarks
 |--|--|--|
 |[Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)|HLT 2011|1. 1. Present a model that uses a mix of unsupervised and supervised techniques to learn word vectors capturing semantic term--document information as well as rich sentiment content. 2. Instantiate the model to utilize the document-level sentiment polarity annotations present in many online documents|
-|[Efficient Estimation of Word Representations in Vector Space](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
+|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|Arxiv 2013|Propose two novel model architectures, namely CBOW and SkipGranm for computing continuous vector repre-
+sentations of words from very large data sets|
 |[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
 |[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
 |[GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162)|EMNLP 2014|1. A new global log-bilinear regression model that combines the advantages of two major model families in the literature: global matrix factorization and local context window methods|
@@ -23,7 +24,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA2OTg3ODMsLTE0MDA1OTM0NjYsMT
-I4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3
-NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTQzMDM2MTE2LC0xNDAwNTkzNDY2LDEyOD
+U4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwtMTc3NzYx
+OTExNF19
 -->
