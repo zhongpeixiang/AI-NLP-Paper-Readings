@@ -11,7 +11,7 @@
 ## Natural Language Processing (NLP)
 
  - [Language Modelling](./NLP/NLP_modelling.md)
- - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
+ - [**Word, Sentence, Document Embedding**](./NLP/NLP_embedding.md)
  - [Machine Translation](./NLP/NLP_translation.md)
  - [**Dialogue System**](./NLP/NLP_dialogue.md)
  - [Text Generation](./NLP/NLP_generation.md)
@@ -56,9 +56,10 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05OD
-gxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMx
-ODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC
-0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0Nzgx
-NjE5MDYsMTExMjQyMDE3OSw0MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
+E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
+ODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Mi
+w1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIx
+OTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQyMDI3MjAwNF
+19
 -->
