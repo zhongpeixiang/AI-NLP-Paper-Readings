@@ -15,16 +15,17 @@
 |[Can Word Embeddings Help Find Latent Emotions in Text](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15516/14967)|AAAI 2017|The results conclude that existing word embeddings are unable to deliver emotion information. For example, the arithmetic joy + fear = guilt does not hold. Also, emotionally similar words are far apart in the word embedding space.|
 |[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
 |[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations of sentences. 2. Define prediction tasks around isolated aspects of sentence structure (namely sentence length, word content, and word order), and score representations by the ability to train a classifier to solve each prediction task when using the representation as input.|
-|[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to fool the discriminator - a popular/rare classifier. |
+|[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare classifier. |
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
+|[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzQ0Njg5LC0xNjkzODQ2NTMzLC0xND
-AwNTkzNDY2LDEyODU4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2
-NjUzNCwtMTc3NzYxOTExNF19
+eyJoaXN0b3J5IjpbMTkwNTIxODMyOCwtMTY5Mzg0NjUzMywtMT
+QwMDU5MzQ2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4
+NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
