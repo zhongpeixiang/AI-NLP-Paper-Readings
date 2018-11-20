@@ -1,7 +1,7 @@
 # NLP - Word, Sentence and Document Embedding
 |Paper|Conference|Remarks
 |--|--|--|
-|[Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)|HLT 2011|1. 1. Present a model that uses a mix of unsupervised and supervised techniques to learn word vectors capturing semantic term--document information as well as rich sentiment content. 2. Instantiate the model to utilize the document-level sentiment polarity annotations present in many online documents|
+|[Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)|HLT 2011|1. Present a model that uses a mix of unsupervised and supervised techniques to learn word vectors capturing semantic term--document information as well as rich sentiment content. 2. Instantiate the model to utilize the document-level sentiment polarity annotations present in many online documents|
 |[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|Arxiv 2013|A pioneering work that proposes two novel model architectures, namely CBOW and SkipGram, for computing continuous vector representations of words from very large data sets. |
 |[Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)|NIPS 2013| Present several extensions that improve both the quality of the vectors and the training speed of SkipGram architecture. Subsampling of frequent words obtain faster training and better performance. Negative sampling uses a few negative samples when computing errors to accelerate optimization and improve performance.|
 |[Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification](http://www.aclweb.org/anthology/P14-1146)|ACL 2014|Use a simple MLP with one hidden layer and one softmax layer to predict the sentiment of a sliding ngram of each sentence. The loss function is the weighed sum of cross-entropy loss and hinge loss.|
@@ -27,7 +27,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2OTU2NjMsLTE1NzIwMTk0NzUsLT
-E2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1
-NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMT
+U3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1
+ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MT
+kxMTRdfQ==
 -->
