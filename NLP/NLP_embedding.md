@@ -19,6 +19,7 @@
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
+|[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|Propose ElMo, word vectors learned from the internal states of a deep bidirectional language model p |
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
@@ -27,8 +28,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMT
-U3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1
-ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MT
-kxMTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU1MjU0OTgsLTc2NTcyMjc2MCwtMT
+M3MjY5NTY2MywtMTU3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQw
+MDU5MzQ2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4Nj
+Y1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
