@@ -25,12 +25,12 @@
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|Arxiv 2018|1. Propose BERT to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. 2. BERT is trained to perform two tasks: masked language modelling and next sentence prediction to learn word-level representation and sentence-level representation. 3. BERT achieves SOTA in 11 NLP tasks.|
 |[A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536)|Arxiv 2018|1. Explores issues in existing evaluation methods for word embeddings: obsecureness of the notion of semantics, lack of proper training data, absence of correlation between intrinsic and extrinsic methods, etc. 2. Reviews 16 intrinsic methods and 12 extrinsic methods for word embedding evaluation. 3. Summarizes common datasets used for each evaluation method.|
-|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)|Arxiv 2018|1. Explores issues in existing evaluation methods for word embeddings: obsecureness of the notion of semantics, lack of proper training data, absence of correlation between intrinsic and extrinsic methods, etc. 2. Reviews 16 intrinsic methods and 12 extrinsic methods for word embedding evaluation. 3. Summarizes common datasets used for each evaluation method.|
+|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)|Arxiv 2018|1. Introduce a new language representation model pre-trained  deep bidirectional representations by jointly conditioning on both left and right context in all layers.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwOTE3ODYwLDMwNTEzNDA2NiwtMTQ4ND
+eyJoaXN0b3J5IjpbODAzMDExNjgzLDMwNTEzNDA2NiwtMTQ4ND
 M0NzEwNiwtNzY1NzIyNzYwLC0xMzcyNjk1NjYzLC0xNTcyMDE5
 NDc1LC0xNjkzODQ2NTMzLC0xNDAwNTkzNDY2LDEyODU4MjA5Mj
 UsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwtMTc3NzYxOTExNF19
