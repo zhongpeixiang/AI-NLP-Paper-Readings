@@ -17,7 +17,7 @@
 |[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
 |[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations of sentences. 2. Define prediction tasks around isolated aspects of sentence structure (namely sentence length, word content, and word order), and score representations by the ability to train a classifier to solve each prediction task when using the representation as input.|
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
-|[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
+|[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|1. Propose to include user sentiment obtained through multimodal information (acoustic, dialogic and textual), in the end-to-end dialog learning framework to make systems more user-adaptive and effective. 2. Incorporated user sentiment information in both supervised and reinforcement learning settings and gained improvements on a bus information search task.|
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
 |[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
@@ -31,9 +31,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI4MTAwOSwzMDUxMzQwNjYsLTE0OD
-QzNDcxMDYsLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMTU3MjAx
-OTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1ODIwOT
-I1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MTkxMTRd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNDg0MzAyODcsMzA1MTM0MDY2LC0xND
+g0MzQ3MTA2LC03NjU3MjI3NjAsLTEzNzI2OTU2NjMsLTE1NzIw
+MTk0NzUsLTE2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMD
+kyNSwtMTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0
+XX0=
 -->
