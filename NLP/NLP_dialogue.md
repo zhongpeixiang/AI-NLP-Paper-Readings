@@ -12,8 +12,7 @@
 |[Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](https://arxiv.org/pdf/1610.02424)|Arxiv 2016|1. Propose DBS to decode a list of diverse outputs by optimizing for a diversity-augmented objective. 2. Observe that our method finds better top-1 solutions by controlling for the exploration and exploitation of the search space|
 |[Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/pdf/1611.06216)|Arxiv 2016|Review recently proposed models based on generative encoder-decoder neural network architectures, and show that these models have better ability to incorporate long-term dialogue history, to model uncertainty and ambiguity in dialogue, and to generate responses with high-level compositional structure.|
 |[On the Evaluation of Dialogue Systems with Next Utterance Classification](https://arxiv.org/pdf/1605.05414)|Arxiv 2016|1. Investigate the performance of humans on this task to validate the relevance of Next Utterance Classification (NUC) as a method of evaluation. 2. Results show three main findings: (1) humans are able to correctly classify responses at a rate much better than chance, thus confirming that the task is feasible, (2) human performance levels vary across task domains (we consider 3 datasets) and expertise levels (novice vs experts), thus showing that a range of performance is possible on this type of task, (3) automated dialogue systems built using state-of-the-art machine learning methods have similar performance to the human novices, but worse than the experts, thus confirming the utility of this class of tasks for driving further research in automated dialogue systems.|
-|[Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683)|ICLR 2017| 1. Proposes a testbed to break down the strengths and shortcomings of end-to-end dialog systems in goal-oriented applications. 2. Show that an end-to-end dialog system based on Memory Networks can reach promising, yet imperfect, performance and learn to perform non-trivial operations.|
-|[Adversarial Learning for Neural Dialogue Generation]
+|[Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/pdf/1703.10960)|ACL 2017| 1. Present a novel framework based on conditional variational autoencoders that captures the discourse-level diversity in the encoder. The proposed model uses latent variables to learn a distribution over potential conversational intents and generates diverse responses using only greedy decoders.2. ]
 |[Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683)|ICLR 2017| 1. Proposes a testbed to break down the strengths and shortcomings of end-to-end dialog systems in goal-oriented applications. 2. Show that an end-to-end dialog system based on Memory Networks can reach promising, yet imperfect, performance and learn to perform non-trivial operations.|
 |[Adversarial Learning for Neural Dialogue Generation](https://www.aclweb.org/anthology/D17-1230)|EMNLP 2017| 1. Propose using adversarial training for open-domain dialogue generation: the system is trained to produce sequences that are indistinguishable from human-generated dialogue utterances. 2. Cast the task as a reinforcement learning (RL) problem where we jointly train two systems, a generative model to produce response sequences, and a discriminator---analagous to the human evaluator in the Turing test--- to distinguish between the human-generated dialogues and the machine-generated ones. 3. Some appealing research directions.|
 |[Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models](https://arxiv.org/pdf/1701.03185)|EMNLP 2017| 1. Add self-attention to the decoder to maintain coherence in longer responses, and propose a practical approach, called the glimpse-model, for scaling to large datasets. 2. Introduce a stochastic beam-search algorithm with segment-by-segment reranking which lets us inject diversity earlier in the generation process.|
@@ -37,8 +36,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjUyODI5LC0xNTU1NzI4NCwxOTUwNz
-M5NTI1LC0xMzQ4NjI0OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4
-NTgsLTE4NDM4NDYxNzksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLT
-k1Njc5MTE3NF19
+eyJoaXN0b3J5IjpbLTIwNDM1OTkxMzEsLTE1NTU3Mjg0LDE5NT
+A3Mzk1MjUsLTEzNDg2MjQ5MjIsLTEwODA1NzYyNTQsLTU4MzE5
+Mzg1OCwtMTg0Mzg0NjE3OSwxMTcwNDAxODA3LDUxMDI3ODY5Ni
+wtOTU2NzkxMTc0XX0=
 -->
