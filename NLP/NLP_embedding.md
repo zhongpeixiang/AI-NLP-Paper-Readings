@@ -23,6 +23,7 @@
 |[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
+|[# All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/pdf/1702.01417)|ICLR 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
 |[Learning Sentiment-Specific Word Embedding via Global Sentiment Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16334/16010)|AAAI 2018|Extensions to CBoW model, which predicts center word based on context words. The proposed model additionally considers document vector when predicting the center word, where the document vector is weighed sum of word vectors. The overall loss is weighted sum of cross-entropy losses for center word prediction and sentiment polarity prediction.|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|Arxiv 2018|1. Propose BERT to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. 2. BERT is trained to perform two tasks: masked language modelling and next sentence prediction to learn word-level representation and sentence-level representation. 3. BERT achieves SOTA in 11 NLP tasks.|
 |[A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536)|Arxiv 2018|1. Explores issues in existing evaluation methods for word embeddings: obsecureness of the notion of semantics, lack of proper training data, absence of correlation between intrinsic and extrinsic methods, etc. 2. Reviews 16 intrinsic methods and 12 extrinsic methods for word embedding evaluation. 3. Summarizes common datasets used for each evaluation method.|
@@ -31,9 +32,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MDc4MDg4LC0xMzQ4NDMwMjg3LDMwNT
-EzNDA2NiwtMTQ4NDM0NzEwNiwtNzY1NzIyNzYwLC0xMzcyNjk1
-NjYzLC0xNTcyMDE5NDc1LC0xNjkzODQ2NTMzLC0xNDAwNTkzND
-Y2LDEyODU4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwt
-MTc3NzYxOTExNF19
+eyJoaXN0b3J5IjpbLTE5OTAwMTAxMzYsLTEzNDg0MzAyODcsMz
+A1MTM0MDY2LC0xNDg0MzQ3MTA2LC03NjU3MjI3NjAsLTEzNzI2
+OTU2NjMsLTE1NzIwMTk0NzUsLTE2OTM4NDY1MzMsLTE0MDA1OT
+M0NjYsMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwxNTc2ODY2NTM0
+LC0xNzc3NjE5MTE0XX0=
 -->
