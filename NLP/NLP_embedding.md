@@ -30,14 +30,15 @@
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|Arxiv 2018|1. Propose BERT to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. 2. BERT is trained to perform two tasks: masked language modelling and next sentence prediction to learn word-level representation and sentence-level representation. 3. BERT achieves SOTA in 11 NLP tasks.|
 |[A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536)|Arxiv 2018|1. Explores issues in existing evaluation methods for word embeddings: obsecureness of the notion of semantics, lack of proper training data, absence of correlation between intrinsic and extrinsic methods, etc. 2. Reviews 16 intrinsic methods and 12 extrinsic methods for word embedding evaluation. 3. Summarizes common datasets used for each evaluation method.|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)|Arxiv 2018|Introduce a new language representation model pre-trained using deep bidirectional LSTM by jointly conditioning on both left and right context in all layers. The pre-trained BERT representations can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks.|
+|[DON’T SETTLE FOR AVERAGE, GO FOR THE MAX: FUZZY SETS AND MAX-POOLED WORD VECTORS](https://openreview.net/pdf?id=SkxXg2C5FX)|ICLR 2019|Introduce a new language representation model pre-trained using deep bidirectional LSTM by jointly conditioning on both left and right context in all layers. The pre-trained BERT representations can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzAwMTAxNCwtMTM0ODQzMDI4NywzMD
-UxMzQwNjYsLTE0ODQzNDcxMDYsLTc2NTcyMjc2MCwtMTM3MjY5
-NTY2MywtMTU3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5Mz
-Q2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQs
-LTE3Nzc2MTkxMTRdfQ==
+eyJoaXN0b3J5IjpbNTIxMjQ1NDkyLC0xMzQ4NDMwMjg3LDMwNT
+EzNDA2NiwtMTQ4NDM0NzEwNiwtNzY1NzIyNzYwLC0xMzcyNjk1
+NjYzLC0xNTcyMDE5NDc1LC0xNjkzODQ2NTMzLC0xNDAwNTkzND
+Y2LDEyODU4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwt
+MTc3NzYxOTExNF19
 -->
