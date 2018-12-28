@@ -47,14 +47,15 @@
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOT
-EwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1
-MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNy
-wtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0
-NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOT
-A2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+eyJoaXN0b3J5IjpbLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMT
+EwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgx
+NDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MS
+wtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUy
+MjA1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NT
+YyODcsNDc4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
+
 -->
