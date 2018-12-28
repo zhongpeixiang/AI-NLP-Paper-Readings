@@ -3,7 +3,7 @@
 |--|--|--|
 |[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555)|Arxiv 2014|Evaluate LSTM and GRU on the tasks of polyphonic music modeling and speech signal modeling and results show that they indeed perform better than traditional recurrent units|
 |[Neural Turing Machines](https://arxiv.org/pdf/1410.5401)|Arxiv 2014|Coupling neural networks to external memory resources, which they can interact with by attentional processes.|
-|[End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895)|NIPS 2015|1. Introduce a neural network with a recurrent attention model over a possibly large external memory. 2. T is trained end-to-end, and hence requires significantly less supervision during training|
+|[End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895)|NIPS 2015|1. Introduce a neural network with a recurrent attention model over a possibly large external memory. 2. The proposed model is trained end-to-end, and hence requires significantly less supervision during training|
 |[Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/pdf/1506.03099)|NIPS 2015|To alleviate the discrepancy between training and inference for sequence prediction models, authors propose a curriculum learning strategy to gently change the training process from a fully guided scheme using the true previous token, towards a less guided scheme which mostly uses the generated token instead|
 |[Learning Structured Output Representation using Deep Conditional Generative Models](https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models)|NIPS 2015|1. Extend VAE and develop a scalable deep conditional generative model for structured output variables using Gaussian latent variables. 2. Provide novel strategies to build a robust structured prediction algorithms, such as recurrent prediction network architecture, input noise-injection and multi-scale prediction training methods.|
 |[Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/pdf/1610.09038)|NIPS 2016|1. Uses adversarial domain adaptation to encourage the dynamics of the recurrent network to be the same when training the network and when sampling from the network over multiple time steps. 2. Produce T-SNEs showing that Professor Forcing successfully makes the dynamics of the network during training and sampling more similar.|
@@ -18,6 +18,6 @@
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2ODc4OTk4LC02OTc5MTA2MjIsLTEyNT
-gxNzkwNjgsLTExNTU0MzY0ODldfQ==
+eyJoaXN0b3J5IjpbLTEzOTEyODY4OTIsLTY5NzkxMDYyMiwtMT
+I1ODE3OTA2OCwtMTE1NTQzNjQ4OV19
 -->
