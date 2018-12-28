@@ -44,11 +44,6 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
-## Contributors
-
-* **Zhong Peixiang**
-
-Detailed discussions on selected papers can be accessed [here](https://zhongpeixiang.github.io/).
 
 ## License
 
@@ -56,10 +51,10 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM3ODc4NTksMTkxMDE4OTQxNywtND
-M5MzAyNjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0
-NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0Mj
-ksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3
-MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMT
-c5LDQyMDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOT
+EwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1
+MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNy
+wtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0
+NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4MTYxOT
+A2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
 -->
