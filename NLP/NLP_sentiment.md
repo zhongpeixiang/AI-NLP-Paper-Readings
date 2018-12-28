@@ -23,6 +23,7 @@
 |[DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Propose Long Short-Term Memory (LSTM) networks augmented with two kinds of attention mechanisms, on top of word embeddings pre-trained on a big collection of Twitter messages. 2. Present a text processing tool suitable for social network messages, which performs tokenization, word normalization, segmentation and spell correction.|
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
+|[Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171)|NAACL 2018| 1. e argue that the removal of such data is a problematic trend because, when performing real-time sentiment classification of short-text, an automated system cannot know a priori which samples would fall into this category of disputed sentiment|
 |[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
 |[Emotion Recognition on Twitter: Comparative Study and Training a Unison Model](https://ieeexplore-ieee-org.ezlibproxy1.ntu.edu.sg/document/8295234)|IEEE TAC 2018| 1. Compare the performance of several word- and character-based recurrent and convolutional neural networks with the performance on bag-of-words and latent semantic indexing models. 2. Investigate the transferability of the final hidden state representations between different classifications of emotions, and whether it is possible to build a unison model for predicting all of them using a shared representation. 3. Show that recurrent neural networks, especially character-based ones, can improve over bag-of-words and latent semantic indexing models|
 |[SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets](https://arxiv.org/pdf/1804.06137)|SemEval 2018| The proposed system performs domain adaptation of 4 different models and creates an ensemble to give the final prediction|
@@ -32,6 +33,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTA5NTc5NywtOTkzOTI2MTI3LDc1OT
+eyJoaXN0b3J5IjpbMTM5NDQ2MDkzMCwtOTkzOTI2MTI3LDc1OT
 c5NzIzMCw3NjQwODI4NzZdfQ==
 -->
