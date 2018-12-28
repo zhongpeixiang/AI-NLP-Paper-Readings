@@ -25,12 +25,13 @@
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
 |[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
 |[Emotion Recognition on Twitter: Comparative Study and Training a Unison Model](https://ieeexplore-ieee-org.ezlibproxy1.ntu.edu.sg/document/8295234)|IEEE TAC 2018| 1. Compare the performance of several word- and character-based recurrent and convolutional neural networks with the performance on bag-of-words and latent semantic indexing models. 2. Investigate the transferability of the final hidden state representations between different classifications of emotions, and whether it is possible to build a unison model for predicting all of them using a shared representation. 3. Show that recurrent neural networks, especially character-based ones, can improve over bag-of-words and latent semantic indexing models|
+|[SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets](https://arxiv.org/pdf/1804.06137)|SemEval 2018| The proposed system performs domain adaptation of 4 different models and creates an ensemble to give the final prediction|
 |[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine both semantic and sentiment based embeddings|
 |[DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405)|AAAI 2019|Introduce a new method based on recurrent neural networks that keeps track of the individual party states throughout the conversation and uses this information for emotion classification|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjA3ODA3NCwtOTkzOTI2MTI3LDc1OT
+eyJoaXN0b3J5IjpbMTI2MTA5NTc5NywtOTkzOTI2MTI3LDc1OT
 c5NzIzMCw3NjQwODI4NzZdfQ==
 -->
