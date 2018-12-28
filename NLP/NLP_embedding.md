@@ -20,7 +20,7 @@
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
-|[CARER: Contextualized Affect Representations for Emotion Recognition](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
+|[CARER: Contextualized Affect Representations for Emotion Recognition](http://aclweb.org/anthology/D18-1404)|EMNLP 2018|Propose a semi-supervised, graph-based algorithm to produce rich structural descriptors which serve as the building blocks for constructing contextualized affect representations from text|
 |[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
@@ -33,9 +33,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTU0OTcyNCwtMTM0ODQzMDI4NywzMD
-UxMzQwNjYsLTE0ODQzNDcxMDYsLTc2NTcyMjc2MCwtMTM3MjY5
-NTY2MywtMTU3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5Mz
-Q2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQs
-LTE3Nzc2MTkxMTRdfQ==
+eyJoaXN0b3J5IjpbODg5Mjk2Nzk3LC0xMzQ4NDMwMjg3LDMwNT
+EzNDA2NiwtMTQ4NDM0NzEwNiwtNzY1NzIyNzYwLC0xMzcyNjk1
+NjYzLC0xNTcyMDE5NDc1LC0xNjkzODQ2NTMzLC0xNDAwNTkzND
+Y2LDEyODU4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwt
+MTc3NzYxOTExNF19
 -->
