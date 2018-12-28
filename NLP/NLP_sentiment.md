@@ -24,11 +24,11 @@
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
 |[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
-|[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine b|
+|[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine both semantic and sentiment based embeddings|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTUzMTUzMywtOTkzOTI2MTI3LDc1OT
-c5NzIzMCw3NjQwODI4NzZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTQ4NDc5MjksLTk5MzkyNjEyNyw3NT
+k3OTcyMzAsNzY0MDgyODc2XX0=
 -->
