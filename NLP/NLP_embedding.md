@@ -16,6 +16,7 @@
 |[Can Word Embeddings Help Find Latent Emotions in Text](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15516/14967)|AAAI 2017|The results conclude that existing word embeddings are unable to deliver emotion information. For example, the arithmetic joy + fear = guilt does not hold. Also, emotionally similar words are far apart in the word embedding space.|
 |[A Structured Self-attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130)|ICLR 2017|1. Proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. 2. Use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence.|
 |[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations of sentences. 2. Define prediction tasks around isolated aspects of sentence structure (namely sentence length, word content, and word order), and score representations by the ability to train a classifier to solve each prediction task when using the representation as input.|
+|[Dict2vec : Learning Word Embeddings using Lexical Dictionaries](http://aclweb.org/anthology/D17-1024)|EMNLP 2017| 1. Propose a new approach, Dict2vec, based on one of the largest yet refined datasource for describing words – natural language dictionaries. 2. The proposed approach builds new word pairs from dictionary entries so that semantically-related words are moved closer, and negative sampling filters out pairs whose words are unrelated in dictionaries|
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
@@ -30,9 +31,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjg1NTQ4MywtMTM0ODQzMDI4NywzMD
-UxMzQwNjYsLTE0ODQzNDcxMDYsLTc2NTcyMjc2MCwtMTM3MjY5
-NTY2MywtMTU3MjAxOTQ3NSwtMTY5Mzg0NjUzMywtMTQwMDU5Mz
-Q2NiwxMjg1ODIwOTI1LC0xNDU1OTk5NTQ5LDE1NzY4NjY1MzQs
-LTE3Nzc2MTkxMTRdfQ==
+eyJoaXN0b3J5IjpbNjM1MDc4MDg4LC0xMzQ4NDMwMjg3LDMwNT
+EzNDA2NiwtMTQ4NDM0NzEwNiwtNzY1NzIyNzYwLC0xMzcyNjk1
+NjYzLC0xNTcyMDE5NDc1LC0xNjkzODQ2NTMzLC0xNDAwNTkzND
+Y2LDEyODU4MjA5MjUsLTE0NTU5OTk1NDksMTU3Njg2NjUzNCwt
+MTc3NzYxOTExNF19
 -->
