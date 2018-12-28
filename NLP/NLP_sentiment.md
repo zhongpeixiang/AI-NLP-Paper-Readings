@@ -11,6 +11,7 @@
 |[Sentiment analysis leveraging emotions and word embeddings](https://www.sciencedirect.com/science/article/pii/S095741741630584X)|Expert Systems With Applications 2016|1. Proposes a fast, flexible, generic methodology for sentiment detection out of textual snippets which express people’s opinions in different languages. 2. Adopts a machine learning approach with which textual documents are represented by vectors and are used for training a polarity classification model. 3. The competence of these feature representations for the sentiment classification task is assessed|
 |[Linguistically Regularized LSTM for Sentiment Classification](http://www.aclweb.org/anthology/P17-1154)|ACL 2017| 1. A simple model trained with sentence-level annotations which attempt to model the linguistic role of sentiment lexicons, negation words and intensity words|
 |[EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks](http://www.aclweb.org/anthology/P17-1067)|ACL 2017| 1. Create a very large dataset of size 1.6 million tweets for 24 fine-grained emotions. 2. Build a very deep GRU model for sentiment classification with state of the art result.|
+|[Context-Dependent Sentiment Analysis in User-Generated Videos](http://www.aclweb.org/anthology/P17-1081)|ACL 2017| 1. Propose a LSTM-based model that enables utterances to capture contextual information from their surroundings|
 |[EMOBANK: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis](http://aclweb.org/anthology/E17-2092)|EACL 2017| 1. A corpus of 10k English sentences with VAD annotations. 2. A subset of 1200 English sentences with both VAD and Ekman six basic emotion ratings. 3. Both reader and writer perspectives. 4. Close-to-human performance for mapping between dimensional and categorical formats|
 |[Attention Modeling for Targeted Sentiment](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| A vanilla LSTM model is used to induce an attention value of the whole sentence. The model is further extended to differentiate left and right contexts given a certain target following previous work|
 |[Attention-Based LSTM for Target-Dependent Sentiment Classification](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| Learns the alignment between the target entities and the most distinguishing features.|
@@ -24,6 +25,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzQ5OTE1LC05OTM5MjYxMjcsNzU5Nz
-k3MjMwLDc2NDA4Mjg3Nl19
+eyJoaXN0b3J5IjpbLTExNDA3MDAzNDQsLTk5MzkyNjEyNyw3NT
+k3OTcyMzAsNzY0MDgyODc2XX0=
 -->
