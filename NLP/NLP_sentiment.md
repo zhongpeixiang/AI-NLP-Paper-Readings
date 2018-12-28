@@ -24,13 +24,13 @@
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
 |[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
-|[Emotion Recognition on Twitter: Comparative Study and Training a Unison Model](https://ieeexplore-ieee-org.ezlibproxy1.ntu.edu.sg/document/8295234)|I2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
+|[Emotion Recognition on Twitter: Comparative Study and Training a Unison Model](https://ieeexplore-ieee-org.ezlibproxy1.ntu.edu.sg/document/8295234)|IEEE TAC 2018| 1. Compare the performance of several word- and character-based recurrent and convolutional neural networks with the performance on bag-of-words and latent semantic indexing models. 2. Investigate the transferability of the final hidden state representations between different classifications of emotions, and whether it is possible to build a unison model for predicting all of them using a shared representation. 3. Show that recurrent neural networks, especially character-based ones, can improve over bag-of-words and latent semantic indexing models|
 |[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine both semantic and sentiment based embeddings|
 |[DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405)|AAAI 2019|Introduce a new method based on recurrent neural networks that keeps track of the individual party states throughout the conversation and uses this information for emotion classification|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MjkzMDQ3LC05OTM5MjYxMjcsNzU5Nz
-k3MjMwLDc2NDA4Mjg3Nl19
+eyJoaXN0b3J5IjpbLTUwMjA3ODA3NCwtOTkzOTI2MTI3LDc1OT
+c5NzIzMCw3NjQwODI4NzZdfQ==
 -->
