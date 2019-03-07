@@ -3,6 +3,8 @@
 |--|--|--|
 |[POMDP-based Statistical Spoken Dialogue Systems: a Review](http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf)|Proceedings of IEEE 2013|1. By including an explicit Bayesian model of uncertainty and by optimizing the policy via a reward-driven process, partially observable Markov decision processes (POMDPs) provide a data-driven framework for dialog modelling. 2. Provides an overview of the current state of the art in the development of POMDP-based spoken dialog systems.|
 |[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2015|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
+|[A Persona-Based Neural Conversation Model]
+|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2015|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
 |[A Persona-Based Neural Conversation Model](http://www.aclweb.org/anthology/P16-1094)|ACL 2016|1. Present persona-based models for handling the issue of speaker consistency in neural response generation. 2. Yield qualitative performance improvements in both perplexity and BLEU scores over baseline sequence-to-sequence models, with similar gains in speaker consistency as measured by human judges.|
 |[Deep Reinforcement Learning for Dialogue Generation](https://aclweb.org/anthology/D16-1127)|EMNLP 2016|1. Current conversational agents tend to be short-sighted and ignoring long-term interactivity. 2. Combination of traditional NLP model with reinforcement learning to model future rewards in chatbot dialogue to learn a neural conversational model based on long-term success of dialogues. 3. Rewards: informative, coherence and ease-of-answering. 4. Model evaluation metrices: diversity, conversation length and human judges|
 |[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://aclweb.org/anthology/D16-1230)|EMNLP 2016|1. Investigate evaluation metrics for dialogue response generation systems where supervised labels, such as task completion, are not available. 2. Show that current automatic metrics correlate very weakly with human judgement in the non-technical Twitter domain, and not at all in the technical Ubuntu domain|
@@ -38,8 +40,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIwOTg0MywtMTU1NTcyODQsMTk1MD
-czOTUyNSwtMTM0ODYyNDkyMiwtMTA4MDU3NjI1NCwtNTgzMTkz
-ODU4LC0xODQzODQ2MTc5LDExNzA0MDE4MDcsNTEwMjc4Njk2LC
-05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbLTExMzk1MzU3MzYsLTIwNTIwOTg0MywtMT
+U1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDkyMiwtMTA4MDU3
+NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LDExNzA0MDE4MD
+csNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
 -->
