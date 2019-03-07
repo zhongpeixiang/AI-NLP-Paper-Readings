@@ -9,6 +9,7 @@
 |[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://aclweb.org/anthology/D16-1230)|EMNLP 2016|1. Investigate evaluation metrics for dialogue response generation systems where supervised labels, such as task completion, are not available. 2. Show that current automatic metrics correlate very weakly with human judgement in the non-technical Twitter domain, and not at all in the technical Ubuntu domain|
 |[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11957/12160)|AAAI 2016|1. Extend the recently proposed hierarchical recurrent encoder-decoder neural network to the dialogue domain, and demonstrate that this model is competitive with state-of-the-art neural language models and back-off n-gram models. 2. Investigate the limitations of this and similar approaches, and show how its performance can be improved by bootstrapping the learning from a larger question-answer pair corpus and from pretrained word embeddings|
 |[Topic Aware Neural Response Generation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14563/14260)|AAAI 2016|1. Consider incorporating topic information into the sequence-to-sequence framework to generate informative and interesting responses for chatbots. 2. Utilizes topics to simulate prior knowledge of human that guides them to form informative and interesting responses in conversation, and leverages the topic information in generation by a joint attention mechanism and a biased generation probability.|
+|[A Context-aware Natural Language Generator for Dialogue Systems](https://arxiv.org/pdf/1608.07076)|SIGDIAL 2016|1. Propose a simple, fast decoding algorithm that fosters diversity in neural generation. 2. Diverse decoding helps across tasks of dialogue response generation, abstractive summarization and machine translation, especially those for which reranking is needed|
 |[A Simple, Fast Diverse Decoding Algorithm for Neural Generation](https://arxiv.org/pdf/1611.08562)|Arxiv 2016|1. Propose a simple, fast decoding algorithm that fosters diversity in neural generation. 2. Diverse decoding helps across tasks of dialogue response generation, abstractive summarization and machine translation, especially those for which reranking is needed|
 |[Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](https://arxiv.org/pdf/1610.02424)|Arxiv 2016|1. Propose DBS to decode a list of diverse outputs by optimizing for a diversity-augmented objective. 2. Observe that our method finds better top-1 solutions by controlling for the exploration and exploitation of the search space|
 |[Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/pdf/1611.06216)|Arxiv 2016|Review recently proposed models based on generative encoder-decoder neural network architectures, and show that these models have better ability to incorporate long-term dialogue history, to model uncertainty and ambiguity in dialogue, and to generate responses with high-level compositional structure.|
@@ -39,8 +40,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEyODQ3MTIsLTIwNTIwOTg0MywtMT
-U1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDkyMiwtMTA4MDU3
-NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LDExNzA0MDE4MD
-csNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbLTg0NjY0MTI1OSwtMjA1MjA5ODQzLC0xNT
+U1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0OTIyLC0xMDgwNTc2
+MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNzksMTE3MDQwMTgwNy
+w1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
