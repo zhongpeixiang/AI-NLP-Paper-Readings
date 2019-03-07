@@ -35,10 +35,11 @@
 |[Emotion Detection in Text: a Review](https://arxiv.org/pdf/1806.00674)|Arxiv 2018| 1. Review the work that has been done in identifying emotion expressions in text and argue that although many techniques, methodologies, and models have been created to detect emotion in text, there are various reasons that make these methods insufficient. 2. Argus that there is an essential need to improve the design and architecture of current systems, factors such as the complexity of human emotions, and the use of implicit and metaphorical language in expressing it, lead us to think that just re-purposing standard methodologies will not be enough to capture these complexities, and it is important to pay attention to the linguistic intricacies of emotion expression.|
 |[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine both semantic and sentiment based embeddings|
 |[DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405)|AAAI 2019|Introduce a new method based on recurrent neural networks that keeps track of the individual party states throughout the conversation and uses this information for emotion classification|
+|[Dynamic emotion modelling and anomaly detection in conversation based on emotional transition tensor](https://www.sciencedirect.com/science/article/pii/S156625351730667X)|Information Fusion 2019| Proposes a hybrid model that combines the convolutional neural network long short-term memory (CNN-LSTM) with a Markov chain Monte Carlo (MCMC) method to identify users’ emotions, sample users’ emotional transition and detect anomalies according to the transition tensor.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQyODYzNjUsMzIyODExNDM5LC05OT
-M5MjYxMjcsNzU5Nzk3MjMwLDc2NDA4Mjg3Nl19
+eyJoaXN0b3J5IjpbMTE1NzU0MTcxLDMyMjgxMTQzOSwtOTkzOT
+I2MTI3LDc1OTc5NzIzMCw3NjQwODI4NzZdfQ==
 -->
