@@ -16,6 +16,7 @@
 |[EMOBANK: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis](http://aclweb.org/anthology/E17-2092)|EACL 2017| 1. A corpus of 10k English sentences with VAD annotations. 2. A subset of 1200 English sentences with both VAD and Ekman six basic emotion ratings. 3. Both reader and writer perspectives. 4. Close-to-human performance for mapping between dimensional and categorical formats|
 |[Attention Modeling for Targeted Sentiment](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| A vanilla LSTM model is used to induce an attention value of the whole sentence. The model is further extended to differentiate left and right contexts given a certain target following previous work|
 |[Attention-Based LSTM for Target-Dependent Sentiment Classification](http://leoncrashcode.github.io/Documents/EACL2017.pdf)|EACL 2017| Learns the alignment between the target entities and the most distinguishing features.|
+|[Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken Language Understanding](https://arxiv.org/pdf/1710.00165)|ASRU 2017| Learns the alignment between the target entities and the most distinguishing features.|
 |[Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Two-layers LSTM with attention, on top of word embeddings. 2. Present a text processing tool for twitter dataset|
 |[Exploring Emotion Embedding and the Dimensional Model of Emotion ’ s Predictive Power in Sentiment by](https://pdfs.semanticscholar.org/abee/3583b3547175a829965f4756ce01d491dec1.pdf)|Thesis 2017| 1. The AI system’s lack of understanding of human emotions impede an effective communication between the system and the human interactants. Emotions take a big part in communication as they allow humans to empathize and understand one another. 2. Explore validity of using the three-dimension emotion model as opposed to the naive polarity model in predicting the sentiment of given text data. 3. Use the three-dimension emotion model, namely the VAD vectors, and train emotion embeddings. 4. The visualization showed the lack of context generalization in emotion embedding|
 |[Assessing State-of-the-Art Sentiment Models on State-of-the-Art Sentiment Datasets](https://arxiv.org/pdf/1709.04219)|WASSA 2017| Compare several sentiment analysis models on six different benchmarks, which belong to different domains and additionally have different levels of granularity (binary, 3-class, 4-class and 5-class).|
@@ -40,6 +41,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzU0MTcxLDMyMjgxMTQzOSwtOTkzOT
-I2MTI3LDc1OTc5NzIzMCw3NjQwODI4NzZdfQ==
+eyJoaXN0b3J5IjpbMTkzNDExNzc4MCwzMjI4MTE0MzksLTk5Mz
+kyNjEyNyw3NTk3OTcyMzAsNzY0MDgyODc2XX0=
 -->
