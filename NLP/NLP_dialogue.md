@@ -47,13 +47,13 @@
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 |[Towards Neural Speaker Modeling in Multi-Party Conversation: The Task, Dataset, and Models](https://arxiv.org/pdf/1708.03152)|LREC 2018| 1. Propose speaker classification as a surrogate task for general speaker modeling, and collect massive data to facilitate research in this direction.|
 |[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/pdf/1805.00150)|Arxiv 2018| 1. Propose a novel Memory-Augmented Dialogue management model (MAD) which employs a memory controller and two additional memory structures, i.e., a slot-value memory and an external memory. 2.The slot-value memory tracks the dialogue state by memorizing and updating the values of semantic slots (for instance, cuisine, price, and location), and the external memory augments the representation of hidden states of traditional recurrent neural networks through storing more context information. 3. Propose slot-level attention on user utterances to extract specific semantic information for each slot to update the dialogue state efficiently|
-|[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/pdf/1805.00150)|Arxiv 2018| 1. Propose a novel Memory-Augmented Dialogue management model (MAD) which employs a memory controller and two additional memory structures, i.e., a slot-value memory and an external memory. 2.The slot-value memory tracks the dialogue state by memorizing and updating the values of semantic slots (for instance, cuisine, price, and location), and the external memory augments the representation of hidden states of traditional recurrent neural networks through storing more context information. 3. Propose slot-level attention on user utterances to extract specific semantic information for each slot to update the dialogue state efficiently|
+|[WIZARD OF WIKIPEDIA: KNOWLEDGE-POWERED CONVERSATIONAL AGENTS](https://openreview.net/pdf?id=r1l73iRqKm)|ICLR 2019| 1. Collect and release a large dataset with conversations directly grounded with knowledge retrieved from Wikipedia. 2. Design architectures capable of retrieving knowledge, reading and conditioning on it, and finally generating natural responses.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzU0MjkxLDE5OTA4NDUxNjEsLTIwNT
-IwOTg0MywtMTU1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDky
-MiwtMTA4MDU3NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LD
-ExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc2NDk5MzEsMTk5MDg0NTE2MSwtMj
+A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
+OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
+ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
