@@ -29,6 +29,7 @@
 |[A Deep Reinforcement Learning Chatbot](https://arxiv.org/pdf/1709.02349)|Arxiv 2017| 1. Consists of an ensemble of natural language generation and retrieval models, including template-based models, bag-of-words models, sequence-to-sequence neural network and latent variable neural network models. 2. The system has been trained to select an appropriate response from the models in its ensemble.|
 |[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
 |[Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](http://aclweb.org/anthology/P18-1133)|ACL 2018|1. Propose a novel, holistic, extendable framework based on a single sequence-to-sequence (seq2seq) model which can be optimized with supervised or reinforcement learning. 2. Design text spans named belief spans to track dialogue believes, allowing task-oriented dialogue systems to be modeled in a seq2seq way. 3. Propose a simplistic Two Stage CopyNet instantiation which demonstrates good scalability: significantly reducing model complexity in terms of number of parameters and training time by a magnitude.|
+|[Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](http://aclweb.org/anthology/P18-1133)|ACL 2018|1. Propose a novel, holistic, extendable framework based on a single sequence-to-sequence (seq2seq) model which can be optimized with supervised or reinforcement learning. 2. Design text spans named belief spans to track dialogue believes, allowing task-oriented dialogue systems to be modeled in a seq2seq way. 3. Propose a simplistic Two Stage CopyNet instantiation which demonstrates good scalability: significantly reducing model complexity in terms of number of parameters and training time by a magnitude.|
 |[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|1. Propose to include user sentiment obtained through multimodal information (acoustic, dialogic and textual), in the end-to-end dialog learning framework to make systems more user-adaptive and effective. 2. Incorporated user sentiment information in both supervised and reinforcement learning settings and gained improvements on a bus information search task.|
 |[MojiTalk: Generating Emotional Responses at Scale](https://arxiv.org/pdf/1711.04090)|ACL 2018|1. Collect a large corpus of Twitter conversations that include emojis in the response, and assume the emojis convey the underlying emotions of the sentence. 2. Introduce a reinforced conditional variational encoder approach to train a deep generative model on these conversations, which allows us to use emojis to control the emotion of the generated text.|
 |[Variational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354)|EMNLP 2018|1. To solve the generation problem in VAE, this work proposes a novel model that sequentially introduces a series of latent variables to condition the generation of each word in the response sequence. 2. The approximate posteriors of these latent variables are augmented with a backward Recurrent Neural Network (RNN), which allows the latent variables to capture long-term dependencies of future tokens in generation.|
@@ -47,8 +48,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzczNjg5MTMsMTk5MDg0NTE2MSwtMj
-A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
-OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
-ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
+eyJoaXN0b3J5IjpbMTY0NTc3NDEwMSwxOTkwODQ1MTYxLC0yMD
+UyMDk4NDMsLTE1NTU3Mjg0LDE5NTA3Mzk1MjUsLTEzNDg2MjQ5
+MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0NjE3OS
+wxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX0=
 -->
