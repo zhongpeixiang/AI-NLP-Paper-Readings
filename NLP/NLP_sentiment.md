@@ -27,6 +27,7 @@
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
 |[Fine-Grained Emotion Detection in Health-Related Online Posts](https://www.cs.uic.edu/~cornelia/papers/emnlp18_emo.pdf)|EMNLP 2018| Propose to detect fine-grained emotion types from health-related posts and show how high-level and abstract features derived from deep neural networks combined with lexicon-based features can be employed to detect emotions.|
 |[Joint Learning for Emotion Classification and Emotion Cause Detection](http://aclweb.org/anthology/D18-1066)|EMNLP 2018| Propose a joint encoder which uses a unified framework to extract features for both sub-tasks and a joint model trainer which simultaneously learns two models for the two sub-tasks separately.|
+|[Extending Neural Generative Conversational Model using External Knowledge Sources](https://arxiv.org/pdf/1809.05524)|EMNLP 2018| Propose a joint encoder which uses a unified framework to extract features for both sub-tasks and a joint model trainer which simultaneously learns two models for the two sub-tasks separately.|
 |[Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books](http://www.aclweb.org/anthology/N18-2042)|NAACL 2018| Model the flow of emotions over a book using recurrent neural networks and quantify its usefulness in predicting success in books.|
 |[Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos](http://aclweb.org/anthology/N18-1193)|NAACL 2018| 1. Propose a deep neural framework, termed conversational memory network, which leverages contextual information from the conversation history. 2. This work model past utterances of each speaker into memories.|
 |[Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171)|NAACL 2018| 1. Argue that the removal of vague or noisy data is a problematic trend because, when performing real-time sentiment classification of short-text, an automated system cannot know a prior which samples would fall into this category of disputed sentiment. 2. Propose the notion of a “complicated” class of sentiment to categorize such text, and argue that its inclusion in the short-text sentiment analysis framework will improve the quality of automated sentiment analysis systems as they are implemented in real-world settings.|
@@ -43,6 +44,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY3NTE1NTQsMzIyODExNDM5LC05OT
-M5MjYxMjcsNzU5Nzk3MjMwLDc2NDA4Mjg3Nl19
+eyJoaXN0b3J5IjpbNDU0NzY3NjI4LDMyMjgxMTQzOSwtOTkzOT
+I2MTI3LDc1OTc5NzIzMCw3NjQwODI4NzZdfQ==
 -->
