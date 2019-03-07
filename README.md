@@ -1,5 +1,7 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
+#### Last Update: 07 Mar 2019
+
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
@@ -53,11 +55,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzMzNjksLTE4MTAwMjc2MjksLTU4ND
-Y5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2
-MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLT
-g2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3
-NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyOD
-IsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0MjAxNzksNDIw
-MjcyMDA0XX0=
+eyJoaXN0b3J5IjpbMTc1NzQwNTUzNyw0MTEzMzM2OSwtMTgxMD
+AyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0
+MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLT
+M4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2
+ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4Nz
+Q0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTEx
+MjQyMDE3OV19
 -->
