@@ -9,12 +9,12 @@
 |[Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)|NIPS 2017|1. Propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. 2. Superior in quality while being more parallelizable and requiring significantly less time to train.|
 |[OpenNMT: Open-Source Toolkit for Neural Machine Translation](https://arxiv.org/pdf/1701.02810)|ACL 2017|Describe an open-source toolkit for neural machine translation (NMT). The toolkit prioritizes efficiency, modularity, and extensibility with the goal of supporting NMT research into model architectures, feature representations, and source modalities, while maintaining competitive performance and reasonable training requirements.|
 |[Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619)|Arxiv 2017|1. Introduce a new and powerful set of techniques variously called "neural machine translation" or "neural sequence-to-sequence models". 2. Explain the intuition behind the various methods covered, then delves into them with enough mathematical detail to understand them concretely, and culiminates with a suggestion for an implementation exercise, where readers can test that they understood the content in practice.|
-|[Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581)|EMNLP 2018|1. Introduce a new and powerful set of techniques variously called "neural machine translation" or "neural sequence-to-sequence models". 2. Explain the intuition behind the various methods covered, then delves into them with enough mathematical detail to understand them concretely, and culiminates with a suggestion for an implementation exercise, where readers can test that they understood the content in practice.|
+|[Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581)|EMNLP 2018|1. Extend the Transformer model with a new context encoder to represent document-level context, which is then incorporated into the original encoder and decoder. 2. Introduce a two-step training method to take full advantage of abundant sentence-level parallel corpora and limited document-level parallel corpora.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NDk5ODg3LDE0MjAyMjkyMTQsNTcwMz
-k4MTEyLDk2NDk5MTcyMywyMTI0NTA4MDk5LC0xMTc4MTM1NjEy
-LDc3NTkzNDU4MV19
+eyJoaXN0b3J5IjpbMTY0ODcxOTg4NCwxNDIwMjI5MjE0LDU3MD
+M5ODExMiw5NjQ5OTE3MjMsMjEyNDUwODA5OSwtMTE3ODEzNTYx
+Miw3NzU5MzQ1ODFdfQ==
 -->
