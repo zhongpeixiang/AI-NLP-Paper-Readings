@@ -28,7 +28,7 @@
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
- - 
+ - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
 <!---
 ## Knowledge Representation (KR)
@@ -53,11 +53,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTQ1NTAyMywtMTgxMDAyNzYyOSwtNT
-g0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMw
-MjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNS
-wtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyNDI5LDE5
-Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2OD
-I4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTExMjQyMDE3OSw0
-MjAyNzIwMDRdfQ==
+eyJoaXN0b3J5IjpbNDExMzMzNjksLTE4MTAwMjc2MjksLTU4ND
+Y5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2
+MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLT
+g2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3
+NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyOD
+IsLTEyMjE5NTYyODcsNDc4MTYxOTA2LDExMTI0MjAxNzksNDIw
+MjcyMDA0XX0=
 -->
