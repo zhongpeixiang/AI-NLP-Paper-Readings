@@ -17,6 +17,7 @@
  - [**Dialogue System**](./NLP/NLP_dialogue.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
+ - [Text Classification](./NLP/NLP_classification.md)
  - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
@@ -51,11 +52,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MDkzNjg1LC0xODEwMDI3NjI5LC01OD
-Q2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAy
-NjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC
-04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTky
-NzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4Mj
-gyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQy
-MDI3MjAwNF19
+eyJoaXN0b3J5IjpbLTY2MTM2OTEzNCwtMTgxMDAyNzYyOSwtNT
+g0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMw
+MjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNS
+wtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyNDI5LDE5
+Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2OD
+I4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTExMjQyMDE3OSw0
+MjAyNzIwMDRdfQ==
 -->
