@@ -41,13 +41,14 @@
 |[A Hierarchical Latent Structure for Variational Conversation Modeling](https://arxiv.org/pdf/1804.03424)|NAACL 2018| 1. VAE for dialogue generation suffers from the generation problems: (1) the expressive power of hierarchical RNN decoders is often high enough to model the data using only its decoding distributions without relying on the latent variables; (2) the conditional VAE structure whose generation process is conditioned on a context, makes the range of training targets very sparse; that is, the RNN decoders can easily overfit to the training data ignoring the latent variables. 2. To solve the generation problem, this paper proposes a novel model named Variational Hierarchical Conversation RNNs (VHCR), involving two key ideas of (1) using a hierarchical structure of latent variables, and (2) exploiting an utterance drop regularization.|
 |[Dialog Generation Using Multi-Turn Reasoning Neural Networks](https://arxiv.org/pdf/1804.03424)|NAACL 2018| Propose a generalizable dialog generation approach that adapts multiturn reasoning, one recent advancement in the field of document comprehension, to generate responses (“answers”) by taking current conversation session context as a “document” and current query as a “question”.|
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
+|[Towards Neural Speaker Modeling in Multi-Party Conversation: The Task, Dataset, and Models](https://arxiv.org/pdf/1708.03152)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 |[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/pdf/1805.00150)|Arxiv 2018| 1. Propose a novel Memory-Augmented Dialogue management model (MAD) which employs a memory controller and two additional memory structures, i.e., a slot-value memory and an external memory. 2.The slot-value memory tracks the dialogue state by memorizing and updating the values of semantic slots (for instance, cuisine, price, and location), and the external memory augments the representation of hidden states of traditional recurrent neural networks through storing more context information. 3. Propose slot-level attention on user utterances to extract specific semantic information for each slot to update the dialogue state efficiently|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTUzOTQzLDE5OTA4NDUxNjEsLTIwNT
-IwOTg0MywtMTU1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDky
-MiwtMTA4MDU3NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LD
-ExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbLTEzOTYzODAwOTksMTk5MDg0NTE2MSwtMj
+A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
+OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
+ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
