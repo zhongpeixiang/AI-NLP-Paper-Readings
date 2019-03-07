@@ -37,6 +37,7 @@
 |[Text Emotion Distribution Learning via Multi-Task Convolutional Neural Network](https://www.ijcai.org/proceedings/2018/0639.pdf)|IJCAI 2018| To address the problem of a single sentence evoking multiple emotions with different intensities, this work introduce emotion distribution learning and propose a multi-task convolutional neural network for text emotion analysis, which optimizes the distribution prediction and classification tasks simultaneously.|
 |[Emotion Recognition on Twitter: Comparative Study and Training a Unison Model](https://ieeexplore-ieee-org.ezlibproxy1.ntu.edu.sg/document/8295234)|IEEE TAC 2018| 1. Compare the performance of several word- and character-based recurrent and convolutional neural networks with the performance on bag-of-words and latent semantic indexing models. 2. Investigate the transferability of the final hidden state representations between different classifications of emotions, and whether it is possible to build a unison model for predicting all of them using a shared representation. 3. Show that recurrent neural networks, especially character-based ones, can improve over bag-of-words and latent semantic indexing models|
 |[SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets](https://arxiv.org/pdf/1804.06137)|SemEval 2018| The proposed system performs domain adaptation of 4 different models and creates an ensemble to give the final prediction|
+|[Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/pdf/1801.07883)|Arxiv 2018| First gives an overview of deep learning and then provides a comprehensive survey of its current applications in sentiment analysis.|
 |[Emotion Detection in Text: a Review](https://arxiv.org/pdf/1806.00674)|Arxiv 2018| 1. Review the work that has been done in identifying emotion expressions in text and argue that although many techniques, methodologies, and models have been created to detect emotion in text, there are various reasons that make these methods insufficient. 2. Argus that there is an essential need to improve the design and architecture of current systems, factors such as the complexity of human emotions, and the use of implicit and metaphorical language in expressing it, lead us to think that just re-purposing standard methodologies will not be enough to capture these complexities, and it is important to pay attention to the linguistic intricacies of emotion expression.|
 |[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Propose a novel approach to detect emotions like happy, sad or angry in textual conversations using an LSTM based Deep Learning model. 2. Combine both semantic and sentiment based embeddings|
 |[DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://arxiv.org/pdf/1811.00405)|AAAI 2019|Introduce a new method based on recurrent neural networks that keeps track of the individual party states throughout the conversation and uses this information for emotion classification|
@@ -45,7 +46,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzM1NjYyMSwtOTA2ODA3NzYwLDMyMj
-gxMTQzOSwtOTkzOTI2MTI3LDc1OTc5NzIzMCw3NjQwODI4NzZd
-fQ==
+eyJoaXN0b3J5IjpbNTA1NTU2NzQwLC05MDY4MDc3NjAsMzIyOD
+ExNDM5LC05OTM5MjYxMjcsNzU5Nzk3MjMwLDc2NDA4Mjg3Nl19
+
 -->
