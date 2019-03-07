@@ -28,6 +28,7 @@
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
+ - 
 
 <!---
 ## Knowledge Representation (KR)
@@ -52,7 +53,7 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTM2OTEzNCwtMTgxMDAyNzYyOSwtNT
+eyJoaXN0b3J5IjpbLTI4NTQ1NTAyMywtMTgxMDAyNzYyOSwtNT
 g0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMw
 MjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNS
 wtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyNDI5LDE5
