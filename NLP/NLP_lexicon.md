@@ -1,6 +1,7 @@
 # NLP - Lexicon and Datasets
 |Paper|Conference|Remarks
 |--|--|--|
+|[The SEMAINE database: annotated multimodal records of emotionally coloured conversations between a person and a limited agent](http://www.cs.nott.ac.uk/~pszmv/Documents/TAFFC_SEMAINE-db.pdf)|IEEE TAC 2012|1. Provide Cornell Movie Dialog Dataset 2. Find significant coordination across many families of function words in our large movie-script corpus|
 |[Chameleons in imagined conversations: A new approach to understanding coordination of linguistic style in dialogs](http://www.cs.cornell.edu/~cristian/papers/chameleons.pdf)|CMCL Workshop 2011|1. Provide Cornell Movie Dialog Dataset 2. Find significant coordination across many families of function words in our large movie-script corpus|
 |[Norms of valence, arousal and dominance for 13,915 English lemmas](https://link.springer.com/article/10.3758/s13428-012-0314-x)|Behaviour Research Methods 2013|1. Four lines of research for emotional ratings of words: emotions themselves; impact of emotional features on the processing and memory of words; estimation of sentiments expressed by entire messages or texts; automatic estimation of emotional values of new words by comparing them to those of validated words. 2. Provided a dataset comprising 13,915 lemma-VAD pairs|
 |[Linguistic Inquiry and Word Count: LIWC2015](https://s3-us-west-2.amazonaws.com/downloads.liwc.net/LIWC2015_OperatorManual.pdf)|www.liwc.net|Provide the user manual for LIWC software|
@@ -12,6 +13,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzc5MTU0LC04NDI0MDY2NDAsMTc3MD
-E0NTM3Ml19
+eyJoaXN0b3J5IjpbMTYyMDQ3Mjg5OSwxNjk3NzkxNTQsLTg0Mj
+QwNjY0MCwxNzcwMTQ1MzcyXX0=
 -->
