@@ -23,6 +23,7 @@
 |[# BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs](https://arxiv.org/pdf/1704.06125)|SemEval 2017| 1. Describe the attempt at producing a state-of-the-art Twitter sentiment classifier using Convolutional Neural Networks (CNNs) and Long Short Term Memory (LSTMs) networks. 2. The proposed system leverages a large amount of unlabeled data to pre-train word embeddings. 3. Then the authors use a subset of the unlabeled data to fine tune the embeddings using distant supervision. 4. Top performance is achieved by ensembling several CNNs and LSTMs|
 |[DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Propose Long Short-Term Memory (LSTM) networks augmented with two kinds of attention mechanisms, on top of word embeddings pre-trained on a big collection of Twitter messages. 2. Present a text processing tool suitable for social network messages, which performs tokenization, word normalization, segmentation and spell correction.|
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
+|[Exploiting Document Knowledge for Aspect-level Sentiment Classification](http://www.aclweb.org/anthology/P18-2092)|ACL 2018| Explores two approaches that transfer knowledge from documentlevel data, which is much less expensive to obtain, to improve the performance of aspect-level sentiment classification.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
 |[Fine-Grained Emotion Detection in Health-Related Online Posts](https://www.cs.uic.edu/~cornelia/papers/emnlp18_emo.pdf)|EMNLP 2018| Propose to detect fine-grained emotion types from health-related posts and show how high-level and abstract features derived from deep neural networks combined with lexicon-based features can be employed to detect emotions.|
 |[Joint Learning for Emotion Classification and Emotion Cause Detection](http://aclweb.org/anthology/D18-1066)|EMNLP 2018| Propose a joint encoder which uses a unified framework to extract features for both sub-tasks and a joint model trainer which simultaneously learns two models for the two sub-tasks separately.|
@@ -42,6 +43,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTQ4MzEyOCwzMjI4MTE0MzksLTk5Mz
-kyNjEyNyw3NTk3OTcyMzAsNzY0MDgyODc2XX0=
+eyJoaXN0b3J5IjpbLTE5MjY3NTE1NTQsMzIyODExNDM5LC05OT
+M5MjYxMjcsNzU5Nzk3MjMwLDc2NDA4Mjg3Nl19
 -->
