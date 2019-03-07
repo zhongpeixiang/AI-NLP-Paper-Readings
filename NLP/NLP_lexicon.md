@@ -9,10 +9,11 @@
 |[Modelling Valence and Arousal in Facebook posts](https://wwbp.org/papers/va16wassa.pdf)|Workshop on WASSA 2016| Introduce a new data set of 2895 Social Media posts rated by two psychologically-trained annotators on two separate ordinal nine-point scales (valence and arousal).|
 |[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/pdf/1512.05742)|Arxiv 2017| 1. A wide survey of publicly available datasets suitable for data-driven learning of dialogue systems. 2. Discuss important characteristics of these datasets, how they can be used to learn diverse dialogue strategies, and their other potential uses. 3. Examine methods for transfer learning between datasets and the use of external knowledge. 4. Discuss appropriate choice of evaluation metrics for the learning objective.|
 |[AMIGOS: A Dataset for Affect, Personality and Mood Research on Individuals and Groups](https://arxiv.org/pdf/1702.02510)|IEEE TAC 2017| 1. A dataset for Multimodal research of affect, personality traits and mood on Individuals and Groups. 2. The dataset contains videos and neuro-physiological signals. 3. Participants emotions have been annotated with both self-assessment of affective levels (valence, arousal, control, familiarity, liking and basic emotions) felt during the videos as well as external-assessment of levels of valence and arousal.|
+|[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Introduce a collection of more than 30K three-turn tweets annotated with |
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzODA3OTQyLDE2OTc3OTE1NCwtODQyND
-A2NjQwLDE3NzAxNDUzNzJdfQ==
+eyJoaXN0b3J5IjpbLTI2MDEwNDA3OSwxNjk3NzkxNTQsLTg0Mj
+QwNjY0MCwxNzcwMTQ1MzcyXX0=
 -->
