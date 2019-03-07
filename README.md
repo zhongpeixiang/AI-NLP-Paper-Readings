@@ -12,11 +12,11 @@
 
  - [Language Modelling](./NLP/NLP_modelling.md)
  - [**Word, Sentence, Document Embedding**](./NLP/NLP_embedding.md)
+ - [Machine Reading](./NLP/NLP_reading.md)
  - [Machine Translation](./NLP/NLP_translation.md)
  - [**Dialogue System**](./NLP/NLP_dialogue.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
- - [Machine Reading](./NLP/NLP_reading.md)
  - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
@@ -51,11 +51,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMT
-EwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgx
-NDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MS
-wtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUy
-MjA1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NT
-YyODcsNDc4MTYxOTA2LDExMTI0MjAxNzksNDIwMjcyMDA0XX0=
-
+eyJoaXN0b3J5IjpbMjE1MDkzNjg1LC0xODEwMDI3NjI5LC01OD
+Q2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAy
+NjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC
+04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTky
+NzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4Mj
+gyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEyNDIwMTc5LDQy
+MDI3MjAwNF19
 -->
