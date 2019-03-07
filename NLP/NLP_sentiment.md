@@ -3,6 +3,7 @@
 |--|--|--|
 |[Twitter Sentiment Classification using Distant Supervision](https://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf)|N.A. 2009|Introduces a novel approach for automatically classifying the sentiment of Twitter messages using distant supervised learning.|
 |[Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181)|EMNLP 2014|Show that a simple CNN with little hyperparameter tuning and static vectors achieves excellent results on multiple benchmarks in the sentence classification task.|
+|[A comparison of Lexicon-based approaches for Sentiment Analysis of microblog posts](http://ceur-ws.org/Vol-1314/paper-06.pdf)|Arxiv 2014|Propose a lexicon-based approach for sentiment classification of Twitter posts, based on the exploitation of widespread lexical resources such as SentiWordNet, WordNet-Affect, MPQA and SenticNet.|
 |[Comparing and Combining Sentiment Analysis Methods](https://arxiv.org/abs/1406.0032)|Arxiv 2014|1. Present comparisons of eight popular sentiment analysis methods in terms of coverage (i.e., the fraction of messages whose sentiment is identified) and agreement (i.e., the fraction of identified sentiments that are in tune with ground truth). 2. Develop a new method that combines existing approaches, providing the best coverage results and competitive agreement. 3. Present a free Web service called iFeel, which provides an open API for accessing and comparing results across different sentiment methods for a given text.|
 |[Sentiment analysis algorithms and applications: A survey](https://www.sciencedirect.com/science/article/pii/S2090447914000550)|Ain Shams Engineering Journal 2014|1. Give nearly full image of SA techniques and the related fields with brief details. 2. Provide sophisticated categorizations of a large number of recent articles and the illustration of the recent trend of research in the sentiment analysis and its related areas.|
 |[Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual States from Text](https://www.sciencedirect.com/science/article/pii/B9780081005088000096)|Emotion Measurement 2015|1. Summarize the diverse landscape of tasks and applications associated with sentiment analysis. 2. Outline key challenges stemming from the complexity and subtlety of language use, the prevalence of creative and non-standard language, and the lack of paralinguistic information, such as tone and stress markers. 3. Describe automatic systems and datasets commonly used in sentiment analysis. 4. Summarize several manual and automatic approaches to creating valence- and emotion-association lexicons. 5. Discuss preliminary approaches for sentiment composition (how smaller units of text combine to express sentiment) and approaches for detecting sentiment in figurative and metaphoric language|
@@ -44,6 +45,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjgwNzc2MCwzMjI4MTE0MzksLTk5Mz
-kyNjEyNyw3NTk3OTcyMzAsNzY0MDgyODc2XX0=
+eyJoaXN0b3J5IjpbMTU5MzM1NjYyMSwtOTA2ODA3NzYwLDMyMj
+gxMTQzOSwtOTkzOTI2MTI3LDc1OTc5NzIzMCw3NjQwODI4NzZd
+fQ==
 -->
