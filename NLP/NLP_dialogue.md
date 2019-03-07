@@ -35,14 +35,15 @@
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
 |[A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932)|AAAI 2018| 1. Presents a novel, fully data-driven, and knowledge-grounded neural conversation model aimed at producing more contentful responses without slot filling. 2. Generalize the widely-used Seq2Seq approach by conditioning responses on both conversation history and external "facts", allowing the model to be versatile and applicable in an open-domain setting.|
 |[Neural Response Generation with Dynamic Vocabularies](https://arxiv.org/pdf/1711.11191)|AAAI 2018| 1. Propose a dynamic vocabulary sequence-to-sequence (DVS2S) model which allows each input to possess their own vocabulary in decoding. 2. In training, vocabulary construction and response generation are jointly learned by maximizing a lower bound of the true objective with a Monte Carlo sampling method. 3. In inference, the model dynamically allocates a small vocabulary for an input with the word prediction model, and conducts decoding only with the small vocabulary.|
+|[A Hierarchical Latent Structure for Variational Conversation Modeling](https://arxiv.org/pdf/1804.03424)|NAACL 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
 |[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/pdf/1805.00150)|Arxiv 2018| 1. Propose a novel Memory-Augmented Dialogue management model (MAD) which employs a memory controller and two additional memory structures, i.e., a slot-value memory and an external memory. 2.The slot-value memory tracks the dialogue state by memorizing and updating the values of semantic slots (for instance, cuisine, price, and location), and the external memory augments the representation of hidden states of traditional recurrent neural networks through storing more context information. 3. Propose slot-level attention on user utterances to extract specific semantic information for each slot to update the dialogue state efficiently|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDg0NTE2MSwtMjA1MjA5ODQzLC0xNT
-U1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0OTIyLC0xMDgwNTc2
-MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNzksMTE3MDQwMTgwNy
-w1MTAyNzg2OTYsLTk1Njc5MTE3NF19
+eyJoaXN0b3J5IjpbLTE1NDE0MzQzNzQsMTk5MDg0NTE2MSwtMj
+A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
+OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
+ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
