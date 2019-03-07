@@ -35,7 +35,7 @@
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
 |[A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932)|AAAI 2018| 1. Presents a novel, fully data-driven, and knowledge-grounded neural conversation model aimed at producing more contentful responses without slot filling. 2. Generalize the widely-used Seq2Seq approach by conditioning responses on both conversation history and external "facts", allowing the model to be versatile and applicable in an open-domain setting.|
 |[Neural Response Generation with Dynamic Vocabularies](https://arxiv.org/pdf/1711.11191)|AAAI 2018| 1. Propose a dynamic vocabulary sequence-to-sequence (DVS2S) model which allows each input to possess their own vocabulary in decoding. 2. In training, vocabulary construction and response generation are jointly learned by maximizing a lower bound of the true objective with a Monte Carlo sampling method. 3. In inference, the model dynamically allocates a small vocabulary for an input with the word prediction model, and conducts decoding only with the small vocabulary.|
-|[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032)|AAAI 2018| 1. |
+|[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032)|AAAI 2018| In VAE, encoder and decoder training are inconsistent, this work separate two phases: the first phase learns to autoencode discrete texts into continuous embeddings, from which the second phase learns to generalize latent representations by reconstructing the encoded embedding.|
 |[A Hierarchical Latent Structure for Variational Conversation Modeling](https://arxiv.org/pdf/1804.03424)|NAACL 2018| 1. VAE for dialogue generation suffers from the generation problems: (1) the expressive power of hierarchical RNN decoders is often high enough to model the data using only its decoding distributions without relying on the latent variables; (2) the conditional VAE structure whose generation process is conditioned on a context, makes the range of training targets very sparse; that is, the RNN decoders can easily overfit to the training data ignoring the latent variables. 2. To solve the generation problem, this paper proposes a novel model named Variational Hierarchical Conversation RNNs (VHCR), involving two key ideas of (1) using a hierarchical structure of latent variables, and (2) exploiting an utterance drop regularization.|
 |[Dialog Generation Using Multi-Turn Reasoning Neural Networks](https://arxiv.org/pdf/1804.03424)|NAACL 2018| Propose a generalizable dialog generation approach that adapts multiturn reasoning, one recent advancement in the field of document comprehension, to generate responses (“answers”) by taking current conversation session context as a “document” and current query as a “question”.|
 |[Affective Neural Response Generation](https://arxiv.org/abs/1709.03968)|ECIR 2018| 1.  Propose three novel ways to incorporate affective aspects into LSTM encoder-decoder neural conversation models: Affective word embeddings, affect-based objective functions, affectively diverse beam search for decoding. 2. Experiments show that the proposed model produce emotionally rich responses that are more interesting and natural|
@@ -44,8 +44,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDIzMDAyLDE5OTA4NDUxNjEsLTIwNT
-IwOTg0MywtMTU1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDky
-MiwtMTA4MDU3NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LD
-ExNzA0MDE4MDcsNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbLTUwNjM0OTM0NywxOTkwODQ1MTYxLC0yMD
+UyMDk4NDMsLTE1NTU3Mjg0LDE5NTA3Mzk1MjUsLTEzNDg2MjQ5
+MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0NjE3OS
+wxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX0=
 -->
