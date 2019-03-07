@@ -12,11 +12,12 @@
 |[A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1707.06996)|Arxiv 2018| 1. Introduce a collection of more than 30K three-turn tweets annotated with four emotions: happy, sad, angry and others. 2. Proposes four types of sequence-based convolutional neural network models with attention that leverage the sequence information encapsulated in dialogue.|
 |[Emotion Detection on TV Show Transcripts with Sequence-based Convolutional Neural Networks](https://arxiv.org/pdf/1708.04299)|AAAI Workshop 2018| 1. Present a new corpus that provides annotation of seven emotions on consecutive utterances in dialogues extracted from the show, Friends.|
 |[EmotionLines: An Emotion Corpus of Multi-Party Conversations](https://arxiv.org/pdf/1802.08379)|LREC 2018| A total of 29,245 utterances from 2,000 dialogues are labeled in EmotionLines, each utterance in labelled in one of the 7 emotions: Ekman's six emotions + neutral.|
+|[MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/pdf/1810.02508)|Arxiv 2018| 1. An updated version of EmotionLines. 2. Every utterance in MELD is associated with an emotion and a sentiment label. Utterances in MELD are multimodal encompassing audio and visual modalities along with the text.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDI3ODIxMSwxNjk3NzkxNTQsLTg0Mj
+eyJoaXN0b3J5IjpbLTE4OTA0NjYyMSwxNjk3NzkxNTQsLTg0Mj
 QwNjY0MCwxNzcwMTQ1MzcyXX0=
 -->
