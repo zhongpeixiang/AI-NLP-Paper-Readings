@@ -33,6 +33,7 @@
 |[Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](http://aclweb.org/anthology/P18-1133)|ACL 2018|1. Propose a novel, holistic, extendable framework based on a single sequence-to-sequence (seq2seq) model which can be optimized with supervised or reinforcement learning. 2. Design text spans named belief spans to track dialogue believes, allowing task-oriented dialogue systems to be modeled in a seq2seq way. 3. Propose a simplistic Two Stage CopyNet instantiation which demonstrates good scalability: significantly reducing model complexity in terms of number of parameters and training time by a magnitude.|
 |[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|1. Propose to include user sentiment obtained through multimodal information (acoustic, dialogic and textual), in the end-to-end dialog learning framework to make systems more user-adaptive and effective. 2. Incorporated user sentiment information in both supervised and reinforcement learning settings and gained improvements on a bus information search task.|
 |[MojiTalk: Generating Emotional Responses at Scale](https://arxiv.org/pdf/1711.04090)|ACL 2018|1. Collect a large corpus of Twitter conversations that include emojis in the response, and assume the emojis convey the underlying emotions of the sentence. 2. Introduce a reinforced conditional variational encoder approach to train a deep generative model on these conversations, which allows us to use emojis to control the emotion of the generated text.|
+|[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/pdf/1804.08217)|ACL 2018|propose a novel yet simple end-to-end differentiable model called memory-to-sequence (Mem2Seq) to address|
 |[Variational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354)|EMNLP 2018|1. To solve the generation problem in VAE, this work proposes a novel model that sequentially introduces a series of latent variables to condition the generation of each word in the response sequence. 2. The approximate posteriors of these latent variables are augmented with a backward Recurrent Neural Network (RNN), which allows the latent variables to capture long-term dependencies of future tokens in generation.|
 |[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032)|AAAI 2018|1. To address the KL-vanishing problem and inconsistent training objective in VAE, they propose to separate the training step into two phases: The first phase learns to autoencode discrete texts into continuous embeddings, from which the second phase learns to generalize latent representations by reconstructing the encoded embedding.|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
@@ -50,8 +51,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzkyNTMyNywxOTkwODQ1MTYxLC0yMD
-UyMDk4NDMsLTE1NTU3Mjg0LDE5NTA3Mzk1MjUsLTEzNDg2MjQ5
-MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0NjE3OS
-wxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX0=
+eyJoaXN0b3J5IjpbLTExMzU4NTYxODIsMTk5MDg0NTE2MSwtMj
+A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
+OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
+ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
