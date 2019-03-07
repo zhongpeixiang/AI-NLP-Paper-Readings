@@ -5,9 +5,10 @@
 |[Breaking the Softmax Bottleneck: A High-Rank RNN Language Model](https://arxiv.org/pdf/1711.03953)|ICLR 2017|1. Formulate language modeling as a matrix factorization problem, and show that the expressiveness of Softmax-based models (including the majority of neural language models) is limited by a Softmax bottleneck. 2. Propose a simple mixture of Softmax to address this issue|
 |[On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/pdf/1707.05589)|ICLR 2018|Re-evaluate several popular architectures and regularisation methods with large-scale automatic black-box hyperparameter tuning and arrive at the somewhat surprising conclusion that standard LSTM architectures, when properly regularised, outperform more recent models.|
 |[Regularizing and Optimizing LSTM Language Models](https://openreview.net/pdf?id=SyyGPP0TZ)|ICLR 2018|1. Consider the specific problem of word-level language modeling and investigate strategies for regularizing and optimizing LSTM-based models. 2. Propose the weight-dropped LSTM which uses DropConnect on hidden-to-hidden weights as a form of recurrent regularization. 3. Introduce NT-ASGD, a variant of the averaged stochastic gradient method, wherein the averaging trigger is determined using a non-monotonic condition as opposed to being tuned by the user.|
+|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860)|Arxiv 2019|1. Consider the specific problem of word-level language modeling and investigate strategies for regularizing and optimizing LSTM-based models. 2. Propose the weight-dropped LSTM which uses DropConnect on hidden-to-hidden weights as a form of recurrent regularization. 3. Introduce NT-ASGD, a variant of the averaged stochastic gradient method, wherein the averaging trigger is determined using a non-monotonic condition as opposed to being tuned by the user.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjQzNDU0NiwtMTQzMTAxNTUzOF19
+eyJoaXN0b3J5IjpbLTE1NzA0MTI2MywtMTQzMTAxNTUzOF19
 -->
