@@ -32,13 +32,12 @@
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
-<!---
 ## Knowledge Representation (KR)
 
  - [Knowledge Graph](./KR/KR_graph.md)
  - [Reasoning](./KR/KR_reasoning.md)
 
-
+<!---
 ## Computer Vision (CV)
 
  - [Image Classification](./CV/CV_classification.md)
@@ -55,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzQwNTUzNyw0MTEzMzM2OSwtMTgxMD
-AyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0
-MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLT
-M4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2
-ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4Nz
-Q0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0NzgxNjE5MDYsMTEx
-MjQyMDE3OV19
+eyJoaXN0b3J5IjpbOTgxMDQ4MDk3LDQxMTMzMzY5LC0xODEwMD
+I3NjI5LC01ODQ2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQx
+NywtNDM5MzAyNjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMz
+gzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4
+ODI0MjksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3ND
+QsNjY3MDY4MjgyLC0xMjIxOTU2Mjg3LDQ3ODE2MTkwNiwxMTEy
+NDIwMTc5XX0=
 -->
