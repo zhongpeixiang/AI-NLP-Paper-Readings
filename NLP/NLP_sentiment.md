@@ -27,6 +27,7 @@
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
 |[Exploiting Document Knowledge for Aspect-level Sentiment Classification](http://www.aclweb.org/anthology/P18-2092)|ACL 2018| Explores two approaches that transfer knowledge from documentlevel data, which is much less expensive to obtain, to improve the performance of aspect-level sentiment classification.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
+|[A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification](http://www.aclweb.org/anthology/P18-2120)|ACL 2018| Propose a Multi-sentiment-resource Enhanced Attention Network (MEAN) to alleviate the problem by integrating three kinds of sentiment linguistic knowledge (e.g., sentiment lexicon, negation words, intensity words) into the deep neural network via attention mechanisms.|
 |[Fine-Grained Emotion Detection in Health-Related Online Posts](https://www.cs.uic.edu/~cornelia/papers/emnlp18_emo.pdf)|EMNLP 2018| Propose to detect fine-grained emotion types from health-related posts and show how high-level and abstract features derived from deep neural networks combined with lexicon-based features can be employed to detect emotions.|
 |[Joint Learning for Emotion Classification and Emotion Cause Detection](http://aclweb.org/anthology/D18-1066)|EMNLP 2018| Propose a joint encoder which uses a unified framework to extract features for both sub-tasks and a joint model trainer which simultaneously learns two models for the two sub-tasks separately.|
 |[Extending Neural Generative Conversational Model using External Knowledge Sources](https://arxiv.org/pdf/1809.05524)|EMNLP 2018| Consider incorporating external knowledge into Seq2Seq dialogue model from Wikipedia summaries as well as from the NELL knowledge base.|
@@ -47,7 +48,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MjcwNDMsLTkwNjgwNzc2MCwzMjI4MT
-E0MzksLTk5MzkyNjEyNyw3NTk3OTcyMzAsNzY0MDgyODc2XX0=
+eyJoaXN0b3J5IjpbODI3MjczOTA1LC05MDY4MDc3NjAsMzIyOD
+ExNDM5LC05OTM5MjYxMjcsNzU5Nzk3MjMwLDc2NDA4Mjg3Nl19
 
 -->
