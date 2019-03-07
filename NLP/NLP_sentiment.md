@@ -23,6 +23,7 @@
 |[DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126)|SemEval 2017| 1. Propose Long Short-Term Memory (LSTM) networks augmented with two kinds of attention mechanisms, on top of word embeddings pre-trained on a big collection of Twitter messages. 2. Present a text processing tool suitable for social network messages, which performs tokenization, word normalization, segmentation and spell correction.|
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444)|Arxiv 2017| Find a single unit which performs sentiment analysis in byte-level recurrent language models.|
 |[A Helping Hand: Transfer Learning for Deep Sentiment Analysis](http://www.aclweb.org/anthology/P18-1235)|ACL 2018| 1. Present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. 2. Propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memorybased component|
+|[Fine-Grained Emotion Detection in Health-Related Online Posts](https://www.cs.uic.edu/~cornelia/papers/emnlp18_emo.pdf)|EMNLP 2018| Propose to detect fine-grained emotion types from health-related posts and show how high-level and abstract features derived from deep neural networks combined with lexicon-based features can be employed to detect emotions.|
 |[Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos](http://aclweb.org/anthology/N18-1193)|NAACL 2018| 1. Propose a deep neural framework, termed conversational memory network, which leverages contextual information from the conversation history. 2. This work model past utterances of each speaker into memories.|
 |[Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171)|NAACL 2018| 1. Argue that the removal of vague or noisy data is a problematic trend because, when performing real-time sentiment classification of short-text, an automated system cannot know a prior which samples would fall into this category of disputed sentiment. 2. Propose the notion of a “complicated” class of sentiment to categorize such text, and argue that its inclusion in the short-text sentiment analysis framework will improve the quality of automated sentiment analysis systems as they are implemented in real-world settings.|
 |[Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs](https://arxiv.org/pdf/1801.05453)|ICLR 2018| 1. Introduce contextual decomposition (CD), an interpretation algorithm for analysing individual predictions made by standard LSTMs, without any changes to the underlying model. 2. By decomposing the output of a LSTM, CD captures the contributions of combinations of words or variables to the final prediction of an LSTM.|
@@ -35,6 +36,6 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODE4NDA1MSwzMjI4MTE0MzksLTk5Mz
+eyJoaXN0b3J5IjpbLTg4MjgzMjAzNCwzMjI4MTE0MzksLTk5Mz
 kyNjEyNyw3NTk3OTcyMzAsNzY0MDgyODc2XX0=
 -->
