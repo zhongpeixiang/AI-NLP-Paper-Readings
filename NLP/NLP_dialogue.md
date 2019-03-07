@@ -30,6 +30,7 @@
 |[Building Chatbot with Emotions](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)|N.A. 2017| 1. Aims at generating dialogues not only appropriate at content level, but also containing specific emotions. 2. Apply sentimental analysis on the dataset and pick up dialogue with strong emotion. 3. Apply deep reinforcement learning and introduce sentiment rewards during learning phase|
 |[Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](http://aclweb.org/anthology/P18-1133)|ACL 2018|1. Propose a novel, holistic, extendable framework based on a single sequence-to-sequence (seq2seq) model which can be optimized with supervised or reinforcement learning. 2. Design text spans named belief spans to track dialogue believes, allowing task-oriented dialogue systems to be modeled in a seq2seq way. 3. Propose a simplistic Two Stage CopyNet instantiation which demonstrates good scalability: significantly reducing model complexity in terms of number of parameters and training time by a magnitude.|
 |[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|1. Propose to include user sentiment obtained through multimodal information (acoustic, dialogic and textual), in the end-to-end dialog learning framework to make systems more user-adaptive and effective. 2. Incorporated user sentiment information in both supervised and reinforcement learning settings and gained improvements on a bus information search task.|
+|[MojiTalk: Generating Emotional Responses at Scale](https://arxiv.org/pdf/1711.04090)|ACL 2018|1. Collect a large corpus of Twitter conversations that include emojis in the response, and assume the emojis convey the underlying emotions of the sentence.|
 |[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032)|AAAI 2018|1. To address the KL-vanishing problem and inconsistent training objective in VAE, they propose to separate the training step into two phases: The first phase learns to autoencode discrete texts into continuous embeddings, from which the second phase learns to generalize latent representations by reconstructing the encoded embedding.|
 |[Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)|AAAI 2018|1. Models high-level abstraction of emotion expressions by embedding emotion categories. 2. Captures the change of implicit internal emotion states. 3. Uses explicit emotion expressions with an external emotion vocabulary|
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/pdf/1709.05453)|AAAI 2018| 1. Investigate the impact of providing commonsense knowledge about the concepts covered in the dialog. 2. Propose the Tri-LSTM model to jointly take into account message and commonsense for selecting an appropriate response|
@@ -44,7 +45,7 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjM0OTM0NywxOTkwODQ1MTYxLC0yMD
+eyJoaXN0b3J5IjpbLTU0NTczMTc5NSwxOTkwODQ1MTYxLC0yMD
 UyMDk4NDMsLTE1NTU3Mjg0LDE5NTA3Mzk1MjUsLTEzNDg2MjQ5
 MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0NjE3OS
 wxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX0=
