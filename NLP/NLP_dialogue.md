@@ -11,6 +11,7 @@
 |[Topic Aware Neural Response Generation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14563/14260)|AAAI 2016|1. Consider incorporating topic information into the sequence-to-sequence framework to generate informative and interesting responses for chatbots. 2. Utilizes topics to simulate prior knowledge of human that guides them to form informative and interesting responses in conversation, and leverages the topic information in generation by a joint attention mechanism and a biased generation probability.|
 |[A Context-aware Natural Language Generator for Dialogue Systems](https://arxiv.org/pdf/1608.07076)|SIGDIAL 2016|Present a novel natural language generation system for spoken dialogue systems capable of entraining (adapting) to users' way of speaking, providing contextually appropriate responses.|
 |[A Simple, Fast Diverse Decoding Algorithm for Neural Generation](https://arxiv.org/pdf/1611.08562)|Arxiv 2016|1. Propose a simple, fast decoding algorithm that fosters diversity in neural generation. 2. Diverse decoding helps across tasks of dialogue response generation, abstractive summarization and machine translation, especially those for which reranking is needed|
+|[A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069)|Arxiv 2016|1. Propose a neural network-based generative architecture, with latent stochastic variables that span a variable number of time steps to model complex dependencies between subsequences.|
 |[Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](https://arxiv.org/pdf/1610.02424)|Arxiv 2016|1. Propose DBS to decode a list of diverse outputs by optimizing for a diversity-augmented objective. 2. Observe that our method finds better top-1 solutions by controlling for the exploration and exploitation of the search space|
 |[Generative Deep Neural Networks for Dialogue: A Short Review](https://arxiv.org/pdf/1611.06216)|Arxiv 2016|Review recently proposed models based on generative encoder-decoder neural network architectures, and show that these models have better ability to incorporate long-term dialogue history, to model uncertainty and ambiguity in dialogue, and to generate responses with high-level compositional structure.|
 |[On the Evaluation of Dialogue Systems with Next Utterance Classification](https://arxiv.org/pdf/1605.05414)|Arxiv 2016|1. Investigate the performance of humans on this task to validate the relevance of Next Utterance Classification (NUC) as a method of evaluation. 2. Results show three main findings: (1) humans are able to correctly classify responses at a rate much better than chance, thus confirming that the task is feasible, (2) human performance levels vary across task domains (we consider 3 datasets) and expertise levels (novice vs experts), thus showing that a range of performance is possible on this type of task, (3) automated dialogue systems built using state-of-the-art machine learning methods have similar performance to the human novices, but worse than the experts, thus confirming the utility of this class of tasks for driving further research in automated dialogue systems.|
@@ -40,8 +41,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2MjA3MDAsLTIwNTIwOTg0MywtMT
-U1NTcyODQsMTk1MDczOTUyNSwtMTM0ODYyNDkyMiwtMTA4MDU3
-NjI1NCwtNTgzMTkzODU4LC0xODQzODQ2MTc5LDExNzA0MDE4MD
-csNTEwMjc4Njk2LC05NTY3OTExNzRdfQ==
+eyJoaXN0b3J5IjpbMTk5MDg0NTE2MSwtMjA1MjA5ODQzLC0xNT
+U1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0OTIyLC0xMDgwNTc2
+MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNzksMTE3MDQwMTgwNy
+w1MTAyNzg2OTYsLTk1Njc5MTE3NF19
 -->
