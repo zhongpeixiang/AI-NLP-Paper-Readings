@@ -31,13 +31,13 @@
 |[A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536)|Arxiv 2018|1. Explores issues in existing evaluation methods for word embeddings: obsecureness of the notion of semantics, lack of proper training data, absence of correlation between intrinsic and extrinsic methods, etc. 2. Reviews 16 intrinsic methods and 12 extrinsic methods for word embedding evaluation. 3. Summarizes common datasets used for each evaluation method.|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)|Arxiv 2018|Introduce a new language representation model pre-trained using deep bidirectional LSTM by jointly conditioning on both left and right context in all layers. The pre-trained BERT representations can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks.|
 |[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|Arxiv 2018|1. Demonstrate that large gains on these tasks can be realized by generative pre-training of a language model on a diverse corpus of unlabeled text, followed by discriminative fine-tuning on each specific task. 2. Make use of task-aware input transformations during fine-tuning to achieve effective transfer while requiring minimal changes to the model architecture. 3. Obtained SOTA in 9 out of the 12 tasks studied|
-|[DON’T SETTLE FOR AVERAGE, GO FOR THE MAX: FUZZY SETS AND MAX-POOLED WORD VECTORS](https://openreview.net/pdf?id=SkxXg2C5FX)|ICLR 2019|Introduce a new language representation model pre-trained using deep bidirectional LSTM by jointly conditioning on both left and right context in all layers. The pre-trained BERT representations can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks.|
+|[DON’T SETTLE FOR AVERAGE, GO FOR THE MAX: FUZZY SETS AND MAX-POOLED WORD VECTORS](https://openreview.net/pdf?id=SkxXg2C5FX)|ICLR 2019|1. Propose a novel fuzzy bag-of-words (FBoW) representation for text that contains all the words in the vocabulary simultaneously but with different degrees of membership. 2. Show that max-pooled word vectors are only a special case of fuzzy BoW and should be compared via fuzzy Jaccard index rather than cosine similarity|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTA1MzE1OSw1MjEyNDU0OTIsLTEzND
+eyJoaXN0b3J5IjpbMTc5ODE1NjYxMSw1MjEyNDU0OTIsLTEzND
 g0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3MTA2LC03NjU3MjI3
 NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0NzUsLTE2OTM4NDY1Mz
 MsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwx
