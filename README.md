@@ -1,6 +1,6 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
-#### Last Update: Mar 2019
+#### Last Update: May 2019
 
 ## Affective Computing (AC)
 
@@ -54,7 +54,7 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjQ4NTU2LDk4MTA0ODA5Nyw0MTEzMz
+eyJoaXN0b3J5IjpbMzYzMjUyNTA3LDk4MTA0ODA5Nyw0MTEzMz
 M2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5
 LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05OD
 gxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMx
