@@ -25,7 +25,6 @@
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
 |[CARER: Contextualized Affect Representations for Emotion Recognition](http://aclweb.org/anthology/D18-1404)|EMNLP 2018|Propose a semi-supervised, graph-based algorithm to produce rich structural descriptors which serve as the building blocks for constructing contextualized affect representations from text|
 |[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
-|[Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos](http://www.aclweb.org/anthology/N18-1193)|NAACL 2018|Propose a deep neural framework, termed conversational memory network, which leverages contextual information from the conversation history, in dyadic dialogue videos|
 |[Learning Emotion-enriched Word Representations](http://www.aclweb.org/anthology/C18-1081)|COLING 2018|The emotion-rich embeddings are learned by training LSTM with cross-entropy loss to predict the emotion label of each document. Each word in the document is fed sequentially into the LSTM model. The initial embeddings are either randomly initialized or loaded from pre-trained embeddings. |
 |[Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.info/papers/K18-1028/k18-1028)|CoNLL 2018|1. Argues that word embeddings have two aspects: semantics/syntax axis and similarity/relatedness axis. Each aspect has somewhat incompatible features. They conduct experiments showing that existing popular word embeddings such as Word2Vec, GloVe and FastText all have captured these information but have different surface forms. 2. Proposes a simple linear transformation as a post-processing technique that can adjust existing word embeddings towards specific axes (e.g., more semantic info vs more syntax info, or more similarity info vs more relateness info). |
 |[All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/pdf/1702.01417)|ICLR 2018|Demonstrate a very simple, and yet counter-intuitive, postprocessing technique -- eliminate the common mean vector and a few top dominating directions from the word vectors -- that renders off-the-shelf representations even stronger.|
@@ -44,9 +43,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1NTE3MjgsLTQyODExNjA2Myw1Mj
-EyNDU0OTIsLTEzNDg0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3
-MTA2LC03NjU3MjI3NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0Nz
-UsLTE2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwt
-MTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbMjA1Njc0NTMxOSwtNDI4MTE2MDYzLDUyMT
+I0NTQ5MiwtMTM0ODQzMDI4NywzMDUxMzQwNjYsLTE0ODQzNDcx
+MDYsLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMTU3MjAxOTQ3NS
+wtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1ODIwOTI1LC0x
+NDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
