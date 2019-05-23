@@ -13,7 +13,7 @@
 ## Natural Language Processing (NLP)
 
  - [Language Modelling](./NLP/NLP_modelling.md)
- - [**Word, Sentence, Document Embedding**](./NLP/NLP_embedding.md)
+ - [**Word, Sentence, Document Embedding** (updated)](./NLP/NLP_embedding.md)
  - [Machine Reading](./NLP/NLP_reading.md)
  - [Machine Translation](./NLP/NLP_translation.md)
  - [**Dialogue System**](./NLP/NLP_dialogue.md)
@@ -54,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMjUyNTA3LDk4MTA0ODA5Nyw0MTEzMz
-M2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5
-LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05OD
-gxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMx
-ODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC
-0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIyMTk1NjI4Nyw0Nzgx
-NjE5MDZdfQ==
+eyJoaXN0b3J5IjpbMTM5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMz
+MzNjksLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1
+OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOT
+g4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODcz
+MTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMC
+wtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4
+MTYxOTA2XX0=
 -->
