@@ -35,7 +35,7 @@
 |[Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731)|ACL 2018|1. Propose to include user sentiment obtained through multimodal information (acoustic, dialogic and textual), in the end-to-end dialog learning framework to make systems more user-adaptive and effective. 2. Incorporated user sentiment information in both supervised and reinforcement learning settings and gained improvements on a bus information search task.|
 |[MojiTalk: Generating Emotional Responses at Scale](https://arxiv.org/pdf/1711.04090)|ACL 2018|1. Collect a large corpus of Twitter conversations that include emojis in the response, and assume the emojis convey the underlying emotions of the sentence. 2. Introduce a reinforced conditional variational encoder approach to train a deep generative model on these conversations, which allows us to use emojis to control the emotion of the generated text.|
 |[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/pdf/1804.08217)|ACL 2018|Propose a novel yet simple end-to-end differentiable model called memory-to-sequence (Mem2Seq) to incorporate knowledge bases. |
-|[Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655)|ACL 2018|1. Propose the Global-Locally Self-Attentive Dialogue State Tracker (GLAD), which learns representations of the user utterance and previous system actions with global-local modules. |
+|[Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655)|ACL 2018|1. Propose the Global-Locally Self-Attentive Dialogue State Tracker (GLAD), which learns representations of the user utterance and previous system actions with global-local modules. 2. The model uses global modules to share parameters between estimators for different types (called slots) of dialogue states, and uses local modules to learn slot-specific features. 3. Show that this significantly improves tracking of rare states and achieves state-of-the-art performance on the WoZ and DSTC2 state tracking tasks.|
 |[Variational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354)|EMNLP 2018|1. To solve the generation problem in VAE, this work proposes a novel model that sequentially introduces a series of latent variables to condition the generation of each word in the response sequence. 2. The approximate posteriors of these latent variables are augmented with a backward Recurrent Neural Network (RNN), which allows the latent variables to capture long-term dependencies of future tokens in generation.|
 |[Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos](http://www.aclweb.org/anthology/N18-1193)|NAACL 2018|Propose a deep neural framework, termed conversational memory network, which leverages contextual information from the conversation history, in dyadic dialogue videos|
 |[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032)|AAAI 2018|1. To address the KL-vanishing problem and inconsistent training objective in VAE, they propose to separate the training step into two phases: The first phase learns to autoencode discrete texts into continuous embeddings, from which the second phase learns to generalize latent representations by reconstructing the encoded embedding.|
@@ -55,8 +55,8 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUyODU5ODUsMTk5MDg0NTE2MSwtMj
-A1MjA5ODQzLC0xNTU1NzI4NCwxOTUwNzM5NTI1LC0xMzQ4NjI0
-OTIyLC0xMDgwNTc2MjU0LC01ODMxOTM4NTgsLTE4NDM4NDYxNz
-ksMTE3MDQwMTgwNyw1MTAyNzg2OTYsLTk1Njc5MTE3NF19
+eyJoaXN0b3J5IjpbLTQwODMxODQ2MCwxOTkwODQ1MTYxLC0yMD
+UyMDk4NDMsLTE1NTU3Mjg0LDE5NTA3Mzk1MjUsLTEzNDg2MjQ5
+MjIsLTEwODA1NzYyNTQsLTU4MzE5Mzg1OCwtMTg0Mzg0NjE3OS
+wxMTcwNDAxODA3LDUxMDI3ODY5NiwtOTU2NzkxMTc0XX0=
 -->
