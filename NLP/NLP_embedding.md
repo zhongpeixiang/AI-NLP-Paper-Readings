@@ -38,15 +38,15 @@
 |[Concatenated Power Mean Word Embeddings as Universal Cross-Lingual Sentence Representations](https://arxiv.org/pdf/1803.01400)|Arxiv 2018|1. Generalize the concept of average word embeddings to power mean word embeddings. 2. Show that the concatenation of different types of power mean word embeddings considerably closes the gap to state-of-the-art methods monolingually and substantially outperforms these more complex techniques cross-lingually. 3. Outperforms different recently proposed baselines such as SIF and Sent2Vec by a solid margin, thus constituting a much harder-to-beat monolingual baseline.|
 |[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|Arxiv 2018|1. Demonstrate that large gains on these tasks can be realized by generative pre-training of a language model on a diverse corpus of unlabeled text, followed by discriminative fine-tuning on each specific task. 2. Make use of task-aware input transformations during fine-tuning to achieve effective transfer while requiring minimal changes to the model architecture. 3. Obtained SOTA in 9 out of the 12 tasks studied|
 |[DON’T SETTLE FOR AVERAGE, GO FOR THE MAX: FUZZY SETS AND MAX-POOLED WORD VECTORS](https://openreview.net/pdf?id=SkxXg2C5FX)|ICLR 2019|1. Proposes a novel fuzzy bag-of-words (FBoW) representation for text that contains all the words in the vocabulary simultaneously but with different degrees of membership. 2. Shows that max-pooled word vectors are only a special case of fuzzy BoW and should be compared via fuzzy Jaccard index rather than cosine similarity. 3. Proposes DynaMax, a completely unsupervised and non-parametric similarity measure that dynamically extracts and max-pools good features depending on the sentence pair outperforming strong baselines on STS tasks. |
-|[No Training Required: Exploring Random Encoders for Sentence Classification](https://openreview.net/pdf?id=BkgPajAcY7)|ICLR 2019|1. Explore various methods for computing sentence representations from pre-trained word embeddings without any training, i.e., using nothing but random parameterizations. 2. Show that existing|
+|[No Training Required: Exploring Random Encoders for Sentence Classification](https://openreview.net/pdf?id=BkgPajAcY7)|ICLR 2019|1. Explore various methods for computing sentence representations from pre-trained word embeddings without any training, i.e., using nothing but random parameterizations. 2. Show that existing modern sentence embeddings gain over random methods is little.3. Provide the field with more appropriate strong baselines going forward.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNjg2NDExLC00MjgxMTYwNjMsNTIxMj
-Q1NDkyLC0xMzQ4NDMwMjg3LDMwNTEzNDA2NiwtMTQ4NDM0NzEw
-NiwtNzY1NzIyNzYwLC0xMzcyNjk1NjYzLC0xNTcyMDE5NDc1LC
-0xNjkzODQ2NTMzLC0xNDAwNTkzNDY2LDEyODU4MjA5MjUsLTE0
-NTU5OTk1NDksMTU3Njg2NjUzNCwtMTc3NzYxOTExNF19
+eyJoaXN0b3J5IjpbLTEyOTE1NTE3MjgsLTQyODExNjA2Myw1Mj
+EyNDU0OTIsLTEzNDg0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3
+MTA2LC03NjU3MjI3NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0Nz
+UsLTE2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwt
+MTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
 -->
