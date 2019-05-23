@@ -18,7 +18,7 @@
 |[Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](https://arxiv.org/pdf/1608.04207)|ICLR 2017|1. Propose a framework that facilitates better understanding of the encoded representations of sentences. 2. Define prediction tasks around isolated aspects of sentence structure (namely sentence length, word content, and word order), and score representations by the ability to train a classifier to solve each prediction task when using the representation as input.|
 |[Dict2vec : Learning Word Embeddings using Lexical Dictionaries](http://aclweb.org/anthology/D17-1024)|EMNLP 2017| 1. Propose a new approach, Dict2vec, based on one of the largest yet refined datasource for describing words – natural language dictionaries. 2. The proposed approach builds new word pairs from dictionary entries so that semantically-related words are moved closer, and negative sampling filters out pairs whose words are unrelated in dictionaries|
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
-|[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
+|[Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms](https://arxiv.org/pdf/1805.09843)|ACL 2018|1. Conduct a point-by-point comparative study between Simple Word-Embedding-based Models (SWEMs), consisting of parameter-free pooling operations, relative to word-embedding-based RNN/CNN models. 2. Propose two additional pooling strategies over learned word embeddings: (i) a max-pooling operation for improved interpretability; and (ii) a hierarchical pooling operation, which preserves spatial (n-gram) information within text sequences|
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
 |[CARER: Contextualized Affect Representations for Emotion Recognition](http://aclweb.org/anthology/D18-1404)|EMNLP 2018|Propose a semi-supervised, graph-based algorithm to produce rich structural descriptors which serve as the building blocks for constructing contextualized affect representations from text|
@@ -37,9 +37,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgxODY1NjMsLTQyODExNjA2Myw1Mj
-EyNDU0OTIsLTEzNDg0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3
-MTA2LC03NjU3MjI3NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0Nz
-UsLTE2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwt
-MTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbMTQ4ODYzNjE2NCwtNDI4MTE2MDYzLDUyMT
+I0NTQ5MiwtMTM0ODQzMDI4NywzMDUxMzQwNjYsLTE0ODQzNDcx
+MDYsLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMTU3MjAxOTQ3NS
+wtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1ODIwOTI1LC0x
+NDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
 -->
