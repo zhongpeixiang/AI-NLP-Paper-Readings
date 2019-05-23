@@ -8,10 +8,11 @@
 |[Adversarial Generation of Natural Language](https://arxiv.org/pdf/1705.10929)|ACL Workshop 2017|1. Introduce a simple baseline that addresses the discrete output space problem in language generation using GAN without relying on gradient estimators. |
 |[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/pdf/1801.10198)|ICLR 2018|1. Show that generating English Wikipedia articles can be approached as a multi-document summarization of source documents. 2. Use extractive summarization to coarsely identify salient information and a neural abstractive model to generate the article. 3. Introduce a decoder-only architecture that can scalably attend to very long sequences, much longer than typical encoder- decoder architectures used in sequence transduction.|
 |[A Tutorial on Deep Latent Variable Models of Natural Language](https://arxiv.org/pdf/1812.06834)|Arxiv 2018|Explores issues like deep parameterizations of conditional likelihoods usually make posterior inference intractable, and latent variable objectives often complicate backpropagation by introducing points of non-differentiability.|
+|[Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/pdf/1812.06834)|Arxiv 2018|Explores issues like deep parameterizations of conditional likelihoods usually make posterior inference intractable, and latent variable objectives often complicate backpropagation by introducing points of non-differentiability.|
 
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODc1MTMyMCwtNTMyMzIzNjQ4LDg2Nz
-Q3MzcyMV19
+eyJoaXN0b3J5IjpbOTk1MDIyMDUxLC01MzIzMjM2NDgsODY3ND
+czNzIxXX0=
 -->
