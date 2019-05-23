@@ -40,14 +40,15 @@
 |[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|Arxiv 2018|1. Demonstrate that large gains on these tasks can be realized by generative pre-training of a language model on a diverse corpus of unlabeled text, followed by discriminative fine-tuning on each specific task. 2. Make use of task-aware input transformations during fine-tuning to achieve effective transfer while requiring minimal changes to the model architecture. 3. Obtained SOTA in 9 out of the 12 tasks studied|
 |[DON’T SETTLE FOR AVERAGE, GO FOR THE MAX: FUZZY SETS AND MAX-POOLED WORD VECTORS](https://openreview.net/pdf?id=SkxXg2C5FX)|ICLR 2019|1. Proposes a novel fuzzy bag-of-words (FBoW) representation for text that contains all the words in the vocabulary simultaneously but with different degrees of membership. 2. Shows that max-pooled word vectors are only a special case of fuzzy BoW and should be compared via fuzzy Jaccard index rather than cosine similarity. 3. Proposes DynaMax, a completely unsupervised and non-parametric similarity measure that dynamically extracts and max-pools good features depending on the sentence pair outperforming strong baselines on STS tasks. |
 |[No Training Required: Exploring Random Encoders for Sentence Classification](https://openreview.net/pdf?id=BkgPajAcY7)|ICLR 2019|1. Explore various methods for computing sentence representations from pre-trained word embeddings without any training, i.e., using nothing but random parameterizations. 2. Show that existing modern sentence embeddings gain over random methods is little.3. Provide the field with more appropriate strong baselines going forward.|
+|[What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/pdf?id=SJzSgnRcKX)|ICLR 2019|1. Introduce a novel edge probing task design and construct a broad suite of sub-sentence tasks derived from the traditional structured NLP pipeline. 2. Probe word-level contextual representations from four recent models and investigate how they encode sentence structure across a range of syntactic, semantic, local, and long-range phenomena. 3. Find that existing models trained on language modeling and translation produce strong representations for syntactic phenomena, but only offer comparably small improvements on semantic tasks over a non-contextual baseline.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDI3NjgyOSwtNDI4MTE2MDYzLDUyMT
-I0NTQ5MiwtMTM0ODQzMDI4NywzMDUxMzQwNjYsLTE0ODQzNDcx
-MDYsLTc2NTcyMjc2MCwtMTM3MjY5NTY2MywtMTU3MjAxOTQ3NS
-wtMTY5Mzg0NjUzMywtMTQwMDU5MzQ2NiwxMjg1ODIwOTI1LC0x
-NDU1OTk5NTQ5LDE1NzY4NjY1MzQsLTE3Nzc2MTkxMTRdfQ==
+eyJoaXN0b3J5IjpbMjQwNzQyMzMyLC00MjgxMTYwNjMsNTIxMj
+Q1NDkyLC0xMzQ4NDMwMjg3LDMwNTEzNDA2NiwtMTQ4NDM0NzEw
+NiwtNzY1NzIyNzYwLC0xMzcyNjk1NjYzLC0xNTcyMDE5NDc1LC
+0xNjkzODQ2NTMzLC0xNDAwNTkzNDY2LDEyODU4MjA5MjUsLTE0
+NTU5OTk1NDksMTU3Njg2NjUzNCwtMTc3NzYxOTExNF19
 -->
