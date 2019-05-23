@@ -19,6 +19,7 @@
 |[Dict2vec : Learning Word Embeddings using Lexical Dictionaries](http://aclweb.org/anthology/D17-1024)|EMNLP 2017| 1. Propose a new approach, Dict2vec, based on one of the largest yet refined datasource for describing words – natural language dictionaries. 2. The proposed approach builds new word pairs from dictionary entries so that semantically-related words are moved closer, and negative sampling filters out pairs whose words are unrelated in dictionaries|
 |[FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/abs/1809.06858)|NIPS 2018|1. Identifies the problem that the embeddings for popular and rare words lie in different subregions in the vector space. 2. Proposes an adversarial training method that adds an additional loss that tries to train word embeddings to fool the discriminator - a popular/rare word classifier. |
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
+|[Domain Adapted Word Embeddings for Improved Sentiment Classification](http://www.aclweb.org/anthology/W18-3407)|ACL 2018|Use Canonical Correlation Analysis (CCA) to combine generic word embeddings with domain specific word embeddings. The domain specific embeddings are obtained via LSA on domain specific data.|
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|ACL 2018|Create embeddings for generic domain and each specific domain. A latent variable is introduced for each word to indicate its probability of being in common domain. This paper extends skip-gram model to predict the polarity of each word. All embeddings are learned via EM algorithm. |
 |[CARER: Contextualized Affect Representations for Emotion Recognition](http://aclweb.org/anthology/D18-1404)|EMNLP 2018|Propose a semi-supervised, graph-based algorithm to produce rich structural descriptors which serve as the building blocks for constructing contextualized affect representations from text|
 |[Deep contextualized word representations](http://aclweb.org/anthology/N18-1202)|NAACL 2018|1. Propose ELMo, word vectors learned from the internal states of a deep bidirectional language model pretrained on a large text corpus. 2. The proposed word vectors achieved SOTA in six challenging NLP tasks.|
@@ -36,9 +37,9 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODExNjA2Myw1MjEyNDU0OTIsLTEzND
-g0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3MTA2LC03NjU3MjI3
-NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0NzUsLTE2OTM4NDY1Mz
-MsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwtMTQ1NTk5OTU0OSwx
-NTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
+eyJoaXN0b3J5IjpbLTE1MjgxODY1NjMsLTQyODExNjA2Myw1Mj
+EyNDU0OTIsLTEzNDg0MzAyODcsMzA1MTM0MDY2LC0xNDg0MzQ3
+MTA2LC03NjU3MjI3NjAsLTEzNzI2OTU2NjMsLTE1NzIwMTk0Nz
+UsLTE2OTM4NDY1MzMsLTE0MDA1OTM0NjYsMTI4NTgyMDkyNSwt
+MTQ1NTk5OTU0OSwxNTc2ODY2NTM0LC0xNzc3NjE5MTE0XX0=
 -->
