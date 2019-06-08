@@ -5,7 +5,7 @@
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
- - [**AC with Text**](./AC/AC_text.md)
+ - [**AC with Text](./AC/AC_text.md)
  - [AC with Image](./AC/AC_image.md)
  - [**AC with Physiological Signals**](./AC/AC_physiological.md)
  - [AC with Multi-modal Data](./AC/AC_multimodal.md)
@@ -54,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4Mjc3Mjc2LDEzOTI4ODQ0ODUsOTgxMD
-Q4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUs
-LTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
-E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
-ODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Mi
-w1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIx
-OTU2Mjg3XX0=
+eyJoaXN0b3J5IjpbLTExNzIyNzg4MjAsMTM5Mjg4NDQ4NSw5OD
+EwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2MjksLTU4NDY5Nzk5
+NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLT
+k5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEy
+MzI4MSwtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNj
+gyLDUyMjA1ODMyMCwtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEy
+MjE5NTYyODddfQ==
 -->
