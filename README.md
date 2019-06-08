@@ -1,6 +1,6 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
-#### Last Update: May 2019
+#### Last Update: June 2019
 
 ## Affective Computing (AC)
 
@@ -13,7 +13,7 @@
 ## Natural Language Processing (NLP)
 
  - [Language Modelling](./NLP/NLP_modelling.md)
- - [**Word, Sentence, Document Embedding** (updated)](./NLP/NLP_embedding.md)
+ - [**Word, Sentence, Document Embedding** ](./NLP/NLP_embedding.md)
  - [Machine Reading](./NLP/NLP_reading.md)
  - [Machine Translation](./NLP/NLP_translation.md)
  - [**Dialogue System**](./NLP/NLP_dialogue.md)
@@ -54,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA4MTIzLDEzOTI4ODQ0ODUsOTgxMD
-Q4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUs
-LTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
-E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
-ODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Mi
-w1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIx
-OTU2Mjg3XX0=
+eyJoaXN0b3J5IjpbMTcyOTc2MjAwOCwxMzkyODg0NDg1LDk4MT
+A0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1
+LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOT
+kxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIz
+MjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2OD
+IsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIy
+MTk1NjI4N119
 -->
