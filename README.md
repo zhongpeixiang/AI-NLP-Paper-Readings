@@ -7,7 +7,7 @@
  - [Basic Theory](./AC/AC_theory.md)
  - [**AC with Text**](./AC/AC_text.md)
  - [AC with Image](./AC/AC_image.md)
- - [AC with Physiological Signals](./AC/AC_physiological.md)
+ - [**AC with Physiological Signals**](./AC/AC_physiological.md)
  - [AC with Multi-modal Data](./AC/AC_multimodal.md)
 
 ## Natural Language Processing (NLP)
@@ -54,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMz
-MzNjksLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1
-OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOT
-g4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODcz
-MTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMC
-wtMTE0NTAwODc0NCw2NjcwNjgyODIsLTEyMjE5NTYyODcsNDc4
-MTYxOTA2XX0=
+eyJoaXN0b3J5IjpbLTEzMDA4MTIzLDEzOTI4ODQ0ODUsOTgxMD
+Q4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUs
+LTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
+E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
+ODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Mi
+w1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIx
+OTU2Mjg3XX0=
 -->
