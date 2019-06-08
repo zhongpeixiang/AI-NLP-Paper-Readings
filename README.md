@@ -26,7 +26,7 @@
 ## Machine Learning (ML)
 
  - [Optimization](./ML/ML_optimization.md)
- - [Architecture (RNN, CNN, VAE and More)](./ML/ML_architecture.md)
+ - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
@@ -54,11 +54,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTA4MjY2NCwxMzkyODg0NDg1LDk4MT
-A0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1
-LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOT
-kxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIz
-MjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2OD
-IsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2NzA2ODI4MiwtMTIy
-MTk1NjI4N119
+eyJoaXN0b3J5IjpbODE4Mjc3Mjc2LDEzOTI4ODQ0ODUsOTgxMD
+Q4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUs
+LTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
+E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
+ODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Mi
+w1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3MDY4MjgyLC0xMjIx
+OTU2Mjg3XX0=
 -->
