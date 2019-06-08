@@ -8,9 +8,10 @@
 |[DREAMER: A Database for Emotion Recognition Through EEG and ECG Signals From Wireless Low-cost Off-the-Shelf Devices](https://ieeexplore.ieee.org/document/7887697/)|IEEE JBHI 2017|1. Present DREAMER, a multimodal database consisting of electroencephalogram (EEG) and electrocardiogram (ECG) signals recorded during affect elicitation by means of audio-visual stimuli. 2. A baseline for participant-wise affect recognition using EEG and ECG-based features, as well as their fusion, was established through supervised classification experiments using support vector machines (SVMs).|
 |[EEG-Based Emotion Recognition via Fast and Robust Feature Smoothing](https://ieeexplore.ieee.org/document/7887697/)|ICBI 2017|1. Propose a feature smoothing method to alleviate noise and high dimension problems of EEG signals. 2. Extract six statistical features from raw EEG signals and apply a simple yet cost-effective feature smoothing method to improve the recognition accuracy.|
 |[Emotions Recognition Using EEG Signals: A Survey](https://ieeexplore.ieee.org/document/7946165/)|IEEE TAC 2018|1. Present a survey of the neurophysiological research performed from 2009 to 2016, providing a comprehensive overview of the existing works in emotion recognition using EEG signals. 2. Focus our analysis in the main aspects involved in the recognition process (e.g., subjects, features extracted, classifiers), and compare the works per them. 2. Propose a set of good practice recommendations that researchers must follow to achieve reproducible, replicable, well-validated and high-quality results.|
+|[Deep learning for electroencephalogram (EEG) classification tasks: a review](https://doi.org/10.1088/1741-2552/ab0ab5)|Journal of Neural Engineering 2019|1. |
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTQ5MTQ0NSwtMjAyNDc4NzI4NSw2OD
-EwMTc0NDRdfQ==
+eyJoaXN0b3J5IjpbMTQyNTg5NDA0NiwxMjQxNDkxNDQ1LC0yMD
+I0Nzg3Mjg1LDY4MTAxNzQ0NF19
 -->
