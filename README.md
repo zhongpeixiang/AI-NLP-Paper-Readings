@@ -29,7 +29,7 @@
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
- - [Graph Neural Network (GNN)](./ML/ML_GNN.md)
+ - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
@@ -55,11 +55,11 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NDI0MzgxLC0xMTEyMTYyMjAzLDEzOT
-I4ODQ0ODUsOTgxMDQ4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5
-LC01ODQ2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQxNywtND
-M5MzAyNjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0
-NDM1LC04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0Mj
-ksMTkyNzQyMjY4Miw1MjIwNTgzMjAsLTExNDUwMDg3NDQsNjY3
-MDY4MjgyXX0=
+eyJoaXN0b3J5IjpbMjA2ODc5MzcyNSwtMTExMjE2MjIwMywxMz
+kyODg0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYy
+OSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLT
+QzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2
+NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyND
+I5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2
+NzA2ODI4Ml19
 -->
