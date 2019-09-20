@@ -1,9 +1,9 @@
 # ML - Graph Neural Network (GNN)
 |Paper|Conference|Remarks
 |--|--|--|
-|[The Emerging Field of Signal Processing on Graphs](https://ieeexplore.ieee.org/document/6494675)|IEEE Signal Processing Magazine 2015|1. Develop a scalable deep conditional generative model for structured output variables using Gaussian latent variables. 2. Provide novel strategies to build a robust structured prediction algorithms, such as recurrent prediction network architecture, input noise-injection and multi-scale prediction training methods.|
+|[The Emerging Field of Signal Processing on Graphs](https://ieeexplore.ieee.org/document/6494675)|IEEE Signal Processing Magazine 2013|1. Outline the main challenges of the area, discuss different ways to define graph spectral domains, which are the analogs to the classical frequency domain, and highlight the importance of incorporating the irregular structures of graph data domains when processing signals on graphs. 2. Review methods to generalize fundamental operations such as filtering, translation, modulation, dilation, and downsampling to the graph setting and survey the localized, multiscale transforms that have been proposed to efficiently extract information from high-dimensional data on graphs.|
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDk4ODc5MV19
+eyJoaXN0b3J5IjpbLTIzODk2MDE1Nl19
 -->
