@@ -48,6 +48,10 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
+## About Me
+My research interests include **conversational AI**, **affective computing**, and **natural language processing**.
+
+Here is my personal [site]().
 
 ## License
 
@@ -55,7 +59,7 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDAwODM5LC0xMTEyMTYyMjAzLDEzOT
+eyJoaXN0b3J5IjpbNDQxNjQzNjg2LC0xMTEyMTYyMjAzLDEzOT
 I4ODQ0ODUsOTgxMDQ4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5
 LC01ODQ2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQxNywtND
 M5MzAyNjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0
