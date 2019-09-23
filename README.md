@@ -48,22 +48,19 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
-## About Me
+
+# About Me
 My research interests include **conversational AI**, **affective computing**, and **natural language processing**.
 
 Here is my personal [site](https://zhongpeixiang.github.io/).
 
-## License
-
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzg5Mjg1OCwtMTExMjE2MjIwMywxMz
-kyODg0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYy
-OSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLT
-QzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2
-NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2ODgyND
-I5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0xMTQ1MDA4NzQ0LDY2
-NzA2ODI4Ml19
+eyJoaXN0b3J5IjpbLTE4NTQxMzc1NzAsLTExMTIxNjIyMDMsMT
+M5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2
+MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC
+00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4
+NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4Mj
+QyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NCw2
+NjcwNjgyODJdfQ==
 -->
