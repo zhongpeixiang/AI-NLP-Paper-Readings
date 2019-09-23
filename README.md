@@ -48,15 +48,16 @@
  - [Image Generation](./CV/CV_generation.md)
 --->
 
+<br/>
 
 # About Me
-My research interests include **conversational AI**, **affective computing**, and **natural language processing**.
+I am currently a third-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, and **natural language processing**.
 
 Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxMzc1NzAsLTExMTIxNjIyMDMsMT
+eyJoaXN0b3J5IjpbLTExMzEzNTU0NzQsLTExMTIxNjIyMDMsMT
 M5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2
 MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC
 00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4
