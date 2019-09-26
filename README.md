@@ -27,9 +27,9 @@
 
  - [Optimization](./ML/ML_optimization.md)
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
- - [Transfer Learning](./ML/ML_transfer.md)
+ - [Transfer Learning (new)](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
- - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
+ - [**Graph Neural Network (GNN, new)**](./ML/ML_GNN.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
@@ -57,11 +57,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEzNTU0NzQsLTExMTIxNjIyMDMsMT
-M5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2
-MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC
-00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4
-NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODczMTgzNywtMTAxNjg4Mj
-QyOSwxOTI3NDIyNjgyLDUyMjA1ODMyMCwtMTE0NTAwODc0NCw2
-NjcwNjgyODJdfQ==
+eyJoaXN0b3J5IjpbLTMzODE2MzM2MywtMTEzMTM1NTQ3NCwtMT
+ExMjE2MjIwMywxMzkyODg0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2
+OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LD
+E5MTAxODk0MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgx
+MDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxOD
+M3LC0xMDE2ODgyNDI5LDE5Mjc0MjI2ODIsNTIyMDU4MzIwLC0x
+MTQ1MDA4NzQ0XX0=
 -->
