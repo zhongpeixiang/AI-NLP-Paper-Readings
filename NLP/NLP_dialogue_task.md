@@ -1,7 +1,11 @@
-# NLP - Dialogue System (Open-domain, Generative)
+# NLP - Dialogue System (Task-oriented)
 |Paper|Conference|Remarks
 |--|--|--|
 |[POMDP-based Statistical Spoken Dialogue Systems: a Review](http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf)|Proceedings of IEEE 2013|1. By including an explicit Bayesian model of uncertainty and by optimizing the policy via a reward-driven process, partially observable Markov decision processes (POMDPs) provide a data-driven framework for dialog modelling. 2. Provides an overview of the current state of the art in the development of POMDP-based spoken dialog systems.|
+|[Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683)|ICLR 2017| 1. Proposes a testbed to break down the strengths and shortcomings of end-to-end dialog systems in goal-oriented applications. 2. Show that an end-to-end dialog system based on Memory Networks can reach promising, yet imperfect, performance and learn to perform non-trivial operations.|
+|[A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562)|EACL 2017| 1. Introduce a neural network-based text-in, text-out end-to-end trainable goal-oriented dialogue system along with a new way of collecting dialogue data based on a novel pipe-lined Wizard-of-Oz framework. 2. This approach allows us to develop dialogue systems easily and without making too many assumptions about the task at hand.|
+|[Building Task-Oriented Dialogue Systems for Online Shopping](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14261/13975)|AAAI 2017| 1. Present a general solution towards building task-oriented dialogue systems for online shopping, aiming to assist online customers in completing various purchase-related tasks, such as searching products and answering questions, in a natural language conversation manner. 2. Show what & how existing NLP techniques, data resources, and crowdsourcing can be leveraged to build such task-oriented dialogue systems for E-commerce usage.|
+|[End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1703.01008)|IJCNLP 2017| 1. Presents a novel end-to-end learning framework for task-completion dialogue systems. 2. The proposed system can directly interact with a structured database to assist users in accessing information and accomplishing certain tasks. 3. The reinforcement learning based dialogue manager offers robust capabilities to handle noises caused by other components of the dialogue system.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjgzNDg3NF19
+eyJoaXN0b3J5IjpbODM5NDUzNDMyXX0=
 -->
