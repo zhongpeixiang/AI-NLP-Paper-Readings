@@ -16,9 +16,9 @@
  - [**Word, Sentence, Document Embedding** ](./NLP/NLP_embedding.md)
  - [Machine Reading](./NLP/NLP_reading.md)
  - [Machine Translation](./NLP/NLP_translation.md)
- - [**Dialogue System (Open-domain, generative)**](./NLP/NLP_dialogue.md)
- - [**Dialogue System (Open-domain, retrieval)**](./NLP/NLP_dialogue.md)
- - - [**Dialogue System (Open-domain)**](./NLP/NLP_dialogue.md)
+ - [**Dialogue System (Open-domain, generative)**](./NLP/NLP_dialogue_generative.md)
+ - [**Dialogue System (Open-domain, retrieval)**](./NLP/NLP_dialogue_retrieval.md)
+ - [**Dialogue System (Task-oriented)**](./NLP/NLP_dialogue_task.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
@@ -59,11 +59,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzYzODUxOCwtMzM4MTYzMzYzLC0xMT
-MxMzU1NDc0LC0xMTEyMTYyMjAzLDEzOTI4ODQ0ODUsOTgxMDQ4
-MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUsLT
-ExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OTE4
-MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyOD
-EsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTkyNzQyMjY4Miw1
-MjIwNTgzMjBdfQ==
+eyJoaXN0b3J5IjpbNjM2NjA1NDkyLC0zMzgxNjMzNjMsLTExMz
+EzNTU0NzQsLTExMTIxNjIyMDMsMTM5Mjg4NDQ4NSw5ODEwNDgw
+OTcsNDExMzMzNjksLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMT
+EwMzc4Nzg1OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgx
+NDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MS
+wtMTc0ODczMTgzNywtMTAxNjg4MjQyOSwxOTI3NDIyNjgyLDUy
+MjA1ODMyMF19
 -->
