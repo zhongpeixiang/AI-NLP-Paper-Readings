@@ -57,13 +57,13 @@
 |[DyKgChat - Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://arxiv.org/pdf/1910.00610)|EMNLP 2019| 1. Proposes a new task about how to apply dynamic knowledge graphs in neural conversation model and presents a novel TV series conversation corpus (DyKgChat) for the task. 2. Proposes a preliminary model that selects an output from two networks at each time step: a sequence-to-sequence model (Seq2Seq) and a multi-hop reasoning model, in order to support dynamic knowledge graphs.|
 |[Gunrock - A Social Bot for Complex and Engaging Long Conversations](https://arxiv.org/pdf/1910.03042)|EMNLP 2019| 1. The winner of the 2018 Amazon Alexa Prize, as evaluated by coherence and engagement from both real users and Amazon-selected expert conversationalists. 2. Introduce some innovative system designs and related validation analysis.|
 |[Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation](https://www.aclweb.org/anthology/N19-1349/)|NAACL 2019| 1. Examine whether specificity is solely a frequency-related notion and find that more linguistically-driven specificity measures are better suited to improving response informativeness. 2. Find that forcing a sequence-to-sequence model to be more specific can expose a host of other problems in the responses, including flawed discourse and implausible semantics.|
-|[A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions](https://arxiv.org/pdf/1906.00500)|Arxiv 2019| 1. Provide a comprehensive review towards building open domain dialogue systems, an important application of natural language generation.|
+|[A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions](https://arxiv.org/pdf/1906.00500)|Arxiv 2019| 1. Provide a comprehensive review towards building open domain dialogue systems, an important application of natural language generation. 2. Find that, predominantly, the approaches for building dialogue systems use seq2seq or language models architecture. Notably, we identify three important areas of further research towards building more effective dialogue systems: 1) incorporating larger context, including conversation context and world knowledge; 2) adding personae or personality in the NLG system; and 3) overcoming dull and generic responses that affect the quality of system-produced responses.|
 |[The Curious Case of Neural Text Degeneration](https://arxiv.org/pdf/1904.09751)|ICLR 2020| 1. Reveal surprising distributional differences between human text and machine text. 2. Find that decoding strategies alone can dramatically effect the quality of machine text, even when generated from exactly the same neural language model. 3. Propose Nucleus Sampling, a simple but effective method to draw the best out of neural generation.|
 
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDc5Njc5MywtMzg3NTI3OCwtNDA4Mz
+eyJoaXN0b3J5IjpbMTU0NzE1ODQ5NCwtMzg3NTI3OCwtNDA4Mz
 E4NDYwXX0=
 -->
