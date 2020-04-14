@@ -1,7 +1,6 @@
-# NLP - Dialogue System
+# NLP - Dialogue System (Open-domain, Generative)
 |Paper|Conference|Remarks
 |--|--|--|
-|[POMDP-based Statistical Spoken Dialogue Systems: a Review](http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf)|Proceedings of IEEE 2013|1. By including an explicit Bayesian model of uncertainty and by optimizing the policy via a reward-driven process, partially observable Markov decision processes (POMDPs) provide a data-driven framework for dialog modelling. 2. Provides an overview of the current state of the art in the development of POMDP-based spoken dialog systems.|
 |[A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/pdf/1506.06714)|NAACL 2015|Integrate context information into dialogue generation|
 |[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2015|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
 |[A Persona-Based Neural Conversation Model](http://www.aclweb.org/anthology/P16-1094)|ACL 2016|1. Present persona-based models for handling the issue of speaker consistency in neural response generation. 2. Yield qualitative performance improvements in both perplexity and BLEU scores over baseline sequence-to-sequence models, with similar gains in speaker consistency as measured by human judges.|
@@ -55,5 +54,5 @@
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODMxODQ2MF19
+eyJoaXN0b3J5IjpbMTM1NTQ3NDkwNCwtNDA4MzE4NDYwXX0=
 -->
