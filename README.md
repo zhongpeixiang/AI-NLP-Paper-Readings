@@ -1,7 +1,9 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
-#### Last Update: Apr 2020
+#### Last Update: July 2020
 
+## Demo
+Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
@@ -59,11 +61,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDU2NDQzLDYzNjYwNTQ5MiwtMzM4MT
-YzMzYzLC0xMTMxMzU1NDc0LC0xMTEyMTYyMjAzLDEzOTI4ODQ0
-ODUsOTgxMDQ4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01OD
-Q2OTc5OTUsLTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAy
-NjE1LC05OTE4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC
-04NjkxMjMyODEsLTE3NDg3MzE4MzcsLTEwMTY4ODI0MjksMTky
-NzQyMjY4Ml19
+eyJoaXN0b3J5IjpbLTMyNzQ0MTcxLDIyMzQ1NjQ0Myw2MzY2MD
+U0OTIsLTMzODE2MzM2MywtMTEzMTM1NTQ3NCwtMTExMjE2MjIw
+MywxMzkyODg0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2OSwtMTgxMD
+AyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0
+MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLT
+M4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2
+ODgyNDI5XX0=
 -->
