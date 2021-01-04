@@ -31,7 +31,8 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 
  - [Optimization](./ML/ML_optimization.md)
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
- - [Transfer Learning (new)](./ML/ML_transfer.md)
+ - [Transformer (new)](./ML/ML_transfor)
+ - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
@@ -55,13 +56,13 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 <br/>
 
 # About Me
-I am currently a forth-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, **knowledge gra** and **natural language processing**.
+I am currently a forth-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, **knowledge graphs** and **natural language processing**.
 
 Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzUxMjY4MSwtMzI3NDQxNzEsMjIzND
+eyJoaXN0b3J5IjpbMTQxMjUxNzE4MSwtMzI3NDQxNzEsMjIzND
 U2NDQzLDYzNjYwNTQ5MiwtMzM4MTYzMzYzLC0xMTMxMzU1NDc0
 LC0xMTEyMTYyMjAzLDEzOTI4ODQ0ODUsOTgxMDQ4MDk3LDQxMT
 MzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUsLTExMDM3ODc4
