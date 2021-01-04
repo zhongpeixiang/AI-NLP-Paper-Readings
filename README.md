@@ -3,7 +3,7 @@
 #### Last Update: Jan 2021
 
 ## Demo
-Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
+Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo (server down)!
 ## Affective Computing (AC)
 
  - [Basic Theory](./AC/AC_theory.md)
@@ -25,6 +25,7 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
  - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
+ - [Low-Resource and Multilingual NLP](./NLP/NLP_multilingual.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
 ## Machine Learning (ML)
@@ -63,11 +64,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTQ0MjU4LC0zMjc0NDE3MSwyMjM0NT
-Y0NDMsNjM2NjA1NDkyLC0zMzgxNjMzNjMsLTExMzEzNTU0NzQs
-LTExMTIxNjIyMDMsMTM5Mjg4NDQ4NSw5ODEwNDgwOTcsNDExMz
-MzNjksLTE4MTAwMjc2MjksLTU4NDY5Nzk5NSwtMTEwMzc4Nzg1
-OSwxOTEwMTg5NDE3LC00MzkzMDI2MTUsLTk5MTgxNDg3MCwtOT
-g4MTA1MTIyLC0zODM4NjQ0MzUsLTg2OTEyMzI4MSwtMTc0ODcz
-MTgzN119
+eyJoaXN0b3J5IjpbMTMyNjE5NjU4OCw4NjgxNDQyNTgsLTMyNz
+Q0MTcxLDIyMzQ1NjQ0Myw2MzY2MDU0OTIsLTMzODE2MzM2Mywt
+MTEzMTM1NTQ3NCwtMTExMjE2MjIwMywxMzkyODg0NDg1LDk4MT
+A0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1
+LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOT
+kxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIz
+MjgxXX0=
 -->
