@@ -1,6 +1,6 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
-#### Last Update: July 2020
+#### Last Update: Jan 2021
 
 ## Demo
 Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
@@ -33,13 +33,13 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
  - [Transfer Learning (new)](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
- - [**Graph Neural Network (GNN, new)**](./ML/ML_GNN.md)
+ - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
 ## Knowledge Representation (KR)
 
- - [Knowledge Graph](./KR/KR_graph.md)
+ - [**Knowledge Graph**](./KR/KR_graph.md)
 
 
 <!---
@@ -55,17 +55,17 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 <br/>
 
 # About Me
-I am currently a forth-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, and **natural language processing**.
+I am currently a forth-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, **knowledge gra** and **natural language processing**.
 
 Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzQ0MTcxLDIyMzQ1NjQ0Myw2MzY2MD
-U0OTIsLTMzODE2MzM2MywtMTEzMTM1NTQ3NCwtMTExMjE2MjIw
-MywxMzkyODg0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2OSwtMTgxMD
-AyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0
-MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLT
-M4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4NzMxODM3LC0xMDE2
-ODgyNDI5XX0=
+eyJoaXN0b3J5IjpbLTMzMzUxMjY4MSwtMzI3NDQxNzEsMjIzND
+U2NDQzLDYzNjYwNTQ5MiwtMzM4MTYzMzYzLC0xMTMxMzU1NDc0
+LC0xMTEyMTYyMjAzLDEzOTI4ODQ0ODUsOTgxMDQ4MDk3LDQxMT
+MzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUsLTExMDM3ODc4
+NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OTE4MTQ4NzAsLT
+k4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3
+MzE4MzddfQ==
 -->
