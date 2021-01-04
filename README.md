@@ -31,7 +31,8 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 
  - [Optimization](./ML/ML_optimization.md)
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
- - [Transformer (new)](./ML/ML_transfor)
+ - [**Transformer (new)**](./ML/ML_transformer.md)
+ - [**Pretrained LM (new)](./ML/ML_pretrained_lm.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
@@ -62,11 +63,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjUxNzE4MSwtMzI3NDQxNzEsMjIzND
-U2NDQzLDYzNjYwNTQ5MiwtMzM4MTYzMzYzLC0xMTMxMzU1NDc0
-LC0xMTEyMTYyMjAzLDEzOTI4ODQ0ODUsOTgxMDQ4MDk3LDQxMT
-MzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUsLTExMDM3ODc4
-NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OTE4MTQ4NzAsLT
-k4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMyODEsLTE3NDg3
-MzE4MzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzY5MDIxNDIsLTMyNzQ0MTcxLDIyMz
+Q1NjQ0Myw2MzY2MDU0OTIsLTMzODE2MzM2MywtMTEzMTM1NTQ3
+NCwtMTExMjE2MjIwMywxMzkyODg0NDg1LDk4MTA0ODA5Nyw0MT
+EzMzM2OSwtMTgxMDAyNzYyOSwtNTg0Njk3OTk1LC0xMTAzNzg3
+ODU5LDE5MTAxODk0MTcsLTQzOTMwMjYxNSwtOTkxODE0ODcwLC
+05ODgxMDUxMjIsLTM4Mzg2NDQzNSwtODY5MTIzMjgxLC0xNzQ4
+NzMxODM3XX0=
 -->
