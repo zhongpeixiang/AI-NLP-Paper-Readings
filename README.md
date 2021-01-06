@@ -27,6 +27,7 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
  - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
+ - [**Pretrained LM (new)**](./NLP/NLP_pretrained_lm.md)
  - [Low-Resource and Multilingual NLP](./NLP/NLP_multilingual.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
@@ -35,7 +36,6 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
  - [Optimization](./ML/ML_optimization.md)
  - [Architecture (RNN, CNN and More)](./ML/ML_architecture.md)
  - [**Transformer (new)**](./ML/ML_transformer.md)
- - [**Pretrained LM (new)**](./ML/ML_pretrained_lm.md)
  - [Transfer Learning](./ML/ML_transfer.md)
  - [Reinforcement Learning](./ML/ML_reinforcement.md)
  - [**Graph Neural Network (GNN)**](./ML/ML_GNN.md)
@@ -66,11 +66,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTM5NTY2LDg2ODE0NDI1OCwtMzI3ND
-QxNzEsMjIzNDU2NDQzLDYzNjYwNTQ5MiwtMzM4MTYzMzYzLC0x
-MTMxMzU1NDc0LC0xMTEyMTYyMjAzLDEzOTI4ODQ0ODUsOTgxMD
-Q4MDk3LDQxMTMzMzY5LC0xODEwMDI3NjI5LC01ODQ2OTc5OTUs
-LTExMDM3ODc4NTksMTkxMDE4OTQxNywtNDM5MzAyNjE1LC05OT
-E4MTQ4NzAsLTk4ODEwNTEyMiwtMzgzODY0NDM1LC04NjkxMjMy
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTYzMzIxODg4OCwzNTc1Mzk1NjYsODY4MT
+Q0MjU4LC0zMjc0NDE3MSwyMjM0NTY0NDMsNjM2NjA1NDkyLC0z
+MzgxNjMzNjMsLTExMzEzNTU0NzQsLTExMTIxNjIyMDMsMTM5Mj
+g4NDQ4NSw5ODEwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2Mjks
+LTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC00Mz
+kzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0
+MzVdfQ==
 -->
