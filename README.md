@@ -23,6 +23,7 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
  - [**Dialogue System (Open-domain, generative)**](./NLP/NLP_dialogue_generative.md)
  - [**Dialogue System (Open-domain, retrieval)**](./NLP/NLP_dialogue_retrieval.md)
  - [**Dialogue System (Task-oriented)**](./NLP/NLP_dialogue_task.md)
+ - [**Question Answering (new)**](./NLP/NLP_question_answering.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
@@ -66,11 +67,11 @@ Here is my personal [site](https://zhongpeixiang.github.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzIxODg4OCwzNTc1Mzk1NjYsODY4MT
-Q0MjU4LC0zMjc0NDE3MSwyMjM0NTY0NDMsNjM2NjA1NDkyLC0z
-MzgxNjMzNjMsLTExMzEzNTU0NzQsLTExMTIxNjIyMDMsMTM5Mj
-g4NDQ4NSw5ODEwNDgwOTcsNDExMzMzNjksLTE4MTAwMjc2Mjks
-LTU4NDY5Nzk5NSwtMTEwMzc4Nzg1OSwxOTEwMTg5NDE3LC00Mz
-kzMDI2MTUsLTk5MTgxNDg3MCwtOTg4MTA1MTIyLC0zODM4NjQ0
-MzVdfQ==
+eyJoaXN0b3J5IjpbNTY5Mzg0ODQ2LDM1NzUzOTU2Niw4NjgxND
+QyNTgsLTMyNzQ0MTcxLDIyMzQ1NjQ0Myw2MzY2MDU0OTIsLTMz
+ODE2MzM2MywtMTEzMTM1NTQ3NCwtMTExMjE2MjIwMywxMzkyOD
+g0NDg1LDk4MTA0ODA5Nyw0MTEzMzM2OSwtMTgxMDAyNzYyOSwt
+NTg0Njk3OTk1LC0xMTAzNzg3ODU5LDE5MTAxODk0MTcsLTQzOT
+MwMjYxNSwtOTkxODE0ODcwLC05ODgxMDUxMjIsLTM4Mzg2NDQz
+NV19
 -->
