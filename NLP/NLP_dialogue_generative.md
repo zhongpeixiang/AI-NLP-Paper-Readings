@@ -71,15 +71,15 @@
 |[Diversifying Dialogue Generation with Non-Conversational Text](https://arxiv.org/abs/2005.04346)|ACL 2020|1. Propose a new perspective to diversify dialogue generation by leveraging non-conversational text. 2. Present a training paradigm to effectively incorporate these text via iterative back translation. 3. Show that the model produces significantly more diverse responses without sacrificing the relevance with context.|
 |[Dialogue Response Ranking Training with Large-Scale Human Feedback Data](https://arxiv.org/abs/2009.06978)|EMNLP 2020|1. Leverage social media feedback data (number of replies and upvotes) to build a large-scale training dataset for feedback prediction. 2. Trained DialogRPT, a set of GPT-2 based models on 133M pairs of human feedback data and the resulting ranker outperformed several baselines.|
 |[Designing Precise and Robust Dialogue Response Evaluators](https://arxiv.org/abs/2004.04908)|ACL 2020|1. Propose to build a reference-free evaluator and exploit the power of semi-supervised training and pretrained (masked) language models. 2. Demonstrate that the proposed evaluator achieves a strong correlation (> 0.6) with human judgement and generalizes robustly to diverse responses and corpora.|
-|[Conversational Word Embedding for Retrieval-Based Dialog System](https://arxiv.org/abs/2004.13249)|ACL 2020|1. Propose a conversational word embedding method named PR-Embedding, which utilizes the conversation pairs ⟨post,reply⟩ to learn word embedding.|
-|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
-|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
+|[Conversational Word Embedding for Retrieval-Based Dialog System](https://arxiv.org/abs/2004.13249)|ACL 2020|1. Propose a conversational word embedding method named PR-Embedding, which utilizes the conversation pairs ⟨post,reply⟩ to learn word embedding. 2. Show that PR-Embedding can improve the quality of the selected response.|
+|[CHARM - Inferring Personal Attributes from Conversations](https://www.aclweb.org/anthology/2020.emnlp-main.434/)|EMNLP 2020|1. Propose CHARM: a zero-shot learning method that creatively leverages keyword extraction and document retrieval in order to predict attribute values that were never seen during training.|
+|[A Large-Scale Chinese Short-Text Conversation Dataset](https://arxiv.org/abs/2008.03946)|NLPCC 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
 |[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
 |[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTM0MzY2NCwxNTQ3MTU4NDk0LC0zOD
-c1Mjc4LC00MDgzMTg0NjBdfQ==
+eyJoaXN0b3J5IjpbNDU2OTY3MjI5LDE1NDcxNTg0OTQsLTM4Nz
+UyNzgsLTQwODMxODQ2MF19
 -->
