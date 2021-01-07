@@ -73,13 +73,12 @@
 |[Designing Precise and Robust Dialogue Response Evaluators](https://arxiv.org/abs/2004.04908)|ACL 2020|1. Propose to build a reference-free evaluator and exploit the power of semi-supervised training and pretrained (masked) language models. 2. Demonstrate that the proposed evaluator achieves a strong correlation (> 0.6) with human judgement and generalizes robustly to diverse responses and corpora.|
 |[Conversational Word Embedding for Retrieval-Based Dialog System](https://arxiv.org/abs/2004.13249)|ACL 2020|1. Propose a conversational word embedding method named PR-Embedding, which utilizes the conversation pairs ⟨post,reply⟩ to learn word embedding. 2. Show that PR-Embedding can improve the quality of the selected response.|
 |[CHARM - Inferring Personal Attributes from Conversations](https://www.aclweb.org/anthology/2020.emnlp-main.434/)|EMNLP 2020|1. Propose CHARM: a zero-shot learning method that creatively leverages keyword extraction and document retrieval in order to predict attribute values that were never seen during training.|
-|[A Large-Scale Chinese Short-Text Conversation Dataset](https://arxiv.org/abs/2008.03946)|NLPCC 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
-|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
-|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869)|Arxiv 2020|1. Present a simple approach for conversation modelling which uses the recently proposed sequence to sequence framework. 2. It can be trained end-to-end and thus requires much fewer hand-crafted rules|
+|[A Large-Scale Chinese Short-Text Conversation Dataset](https://arxiv.org/abs/2008.03946)|NLPCC 2020|1. Present a large-scale cleaned Chinese conversation dataset, LCCC, which contains a base version (6.8million dialogues) and a large version (12.0 million dialogues). 2. Release pre-training dialogue models which are trained on LCCC-base and LCCC-large respectively.|
+|[“None of the Above” - Measure Uncertainty in Dialog Response Retrieval](https://www.aclweb.org/anthology/2020.acl-main.182/)|ACL 2020|1. Discusses the importance of uncovering uncertainty in end-to-end dialog tasks and presents our experimental results on uncertainty classification on the processed Ubuntu Dialog Corpus. 2. Show that instead of retraining models for this specific purpose, authors can capture the original retrieval model’s underlying confidence concerning the best prediction using trivial additional computation.|
 
 [Back to index](../README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2OTY3MjI5LDE1NDcxNTg0OTQsLTM4Nz
-UyNzgsLTQwODMxODQ2MF19
+eyJoaXN0b3J5IjpbLTEyNzEwMzAzODQsMTU0NzE1ODQ5NCwtMz
+g3NTI3OCwtNDA4MzE4NDYwXX0=
 -->
