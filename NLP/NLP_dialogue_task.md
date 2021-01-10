@@ -16,9 +16,10 @@
 |[How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue](https://www.aclweb.org/anthology/2020.emnlp-main.230/)|EMNLP 2020| 1. Propose a data augmentation approach which allows us to restrict the output of a network and guarantee reliability in NLG of TOD. 2. The system trained using this approach scored 100% in semantic accuracy on the E2E NLG Challenge dataset, the same as a template system.|
 |[SOLOIST - Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model](https://arxiv.org/abs/2005.05298)|Arxiv 2020| 1. Presents a new method SOLOIST, which uses transfer learning to efficiently build task-oriented dialog systems at scale, which parameterize a dialog system using a Transformer-based auto-regressive language model, which subsumes different dialog modules (e.g., state tracker, dialog policy, response generator) into a single neural model. 2. Demonstrate that (i) SOLOIST creates new state-of-the-art results on two well-known benchmarks, CamRest and MultiWOZ, (ii) in the few-shot learning setting, the dialog systems developed by SOLOIST significantly outperform those developed by existing methods, and (iii) the use of machine teaching substantially reduces the labeling cost.|
 |[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796)|NeurIPS 2020| 1. Propose a simple approach to task-oriented dialogue that uses a single causal language model trained on all sub-tasks recast as a single sequence prediction problem.|
-|[TOD-BERT - Pre-trained Natural Language Understanding for Task-Oriented Dialogue](https://arxiv.org/abs/2004.06871)|EMNLP 2020| 1. Unify nine human-human and multi-turn task-oriented dialogue datasets for language modeling.|
+|[TOD-BERT - Pre-trained Natural Language Understanding for Task-Oriented Dialogue](https://arxiv.org/abs/2004.06871)|EMNLP 2020| 1. Unify nine human-human and multi-turn task-oriented dialogue datasets for language modeling. 2. The proposed TOD-BERT model outperforms strong baselines like BERT on four downstream task-oriented dialogue applications, including intention recognition, dialogue state tracking, dialogue act prediction, and response selection. 3. Also show that TOD-BERT has a stronger few-shot ability that can mitigate the data scarcity problem for task-oriented dialogue.|
 
 [Back to index](../README.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjU4MDM5MSwtMjA2ODM2NTAxMV19
+eyJoaXN0b3J5IjpbLTExNDI5NzE1OTcsLTIwNjgzNjUwMTFdfQ
+==
 -->
