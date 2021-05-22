@@ -61,7 +61,7 @@ Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 <br/>
 
 # About Me
-I am currently a forth-year PhD candidate at Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, **knowledge graphs** and **natural language processing**.
+I obtained PhD in Conversational AI and NLP from Nanyang Technological University (NTU), Singapore. My research interests include **conversational AI**, **affective computing**, **knowledge graphs** and **natural language processing**.
 
 Here is my personal [site](https://zhongpeixiang.github.io/).
 
